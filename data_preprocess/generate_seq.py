@@ -19,12 +19,9 @@ def create_dataset():
     # gene annotation file corresponding to tissue expression data
     geneanno = pd.read_csv('./data/geneanno.csv') 
     geneanno_exp = pd.read_csv('./data/geneanno.exp.csv')
-    geneanno_merged =  pd.merge(geneanno, 
-                                geneanno_exp, 
-                                left_index=True, 
-                                right_index=True, 
-                                how='outer')
-    geneanno_merged = geneanno_merged[(geneanno_merged['seqnames'] != 'chrX') 
+    geneanno_exp = geneanno_exp.drop('Unnamed: 0', axis=1)
+    geneanno_merged = pd.concat([geneanno.reset_index(drop=True), geneanno_exp.reset_index(drop=True)], axis=1)
+    geneanno_merged = geneanno_merged[(geneanno_merged['seqnames'] != 'chrX')
                                       & (geneanno_merged['seqnames'] != 'chrY')]
     geneanno_merged['seq'] = geneanno_merged.apply(lambda x: 
                                                    fetch_gene_sequence(x.seqnames, 
