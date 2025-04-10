@@ -28,6 +28,20 @@ def create_dataset():
                                                                        x.TSS, 
                                                                        x.strand),
                                                                        axis=1)
+    geneanno_merged = geneanno_merged.drop('gene_id', axis=1)
+    # Drop rows with all 0 expression values
+    check_cols = ['CD4_positive_naive_resting_alpha_beta_T_cell',
+              'CD8_positive_naive_resting_alpha_beta_T_cell',
+              'hippocampus',
+              'heart',
+              'gastrocnemius',
+              'monocyte',
+              'neutrophil',
+              'T_cell',
+              'left_cerebral_cortex',
+              'adrenal_gland',
+              'B_cell']
+    geneanno_merged = geneanno_merged[(geneanno_merged[check_cols] != 0).all(axis=1)]
     geneanno_merged.to_csv('./data/sequence_exp_mouse.csv')
 
 def main():
