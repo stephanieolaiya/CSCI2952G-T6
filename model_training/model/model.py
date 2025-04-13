@@ -21,4 +21,6 @@ class ExpressionPredictor(nn.Module):
             outputs = self.base_model(input_ids=input_ids, attention_mask=attention_mask)
             cls_embedding = outputs.last_hidden_state[:, 0]
 
+        cls_embedding = cls_embedding.float()
+
         return self.mlp(cls_embedding)

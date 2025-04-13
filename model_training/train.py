@@ -14,7 +14,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 # Load model and tokenizer
 model_name = "InstaDeepAI/nucleotide-transformer-2.5b-multi-species"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
-base_model = AutoModel.from_pretrained(model_name).to(device)
+base_model = AutoModel.from_pretrained(model_name, torch_dtype=torch.float16).to(device)
 max_length = tokenizer.model_max_length
 
 # Load data
@@ -25,8 +25,8 @@ test_df = geneanno_merged[geneanno_merged['seqnames'] == 'chr8']
 train_dataset = GeneExpressionDataset(train_df, tokenizer, max_length)
 test_dataset = GeneExpressionDataset(test_df, tokenizer, max_length)
 
-train_loader = DataLoader(train_dataset, batch_size=4, shuffle=True)
-test_loader = DataLoader(test_dataset, batch_size=4)
+train_loader = DataLoader(train_dataset, batch_size=16, shuffle=True)
+test_loader = DataLoader(test_dataset, batch_size=16)
 
 # Model setup
 output_dim = len(train_dataset.tissues)
@@ -36,8 +36,15 @@ down_steam_model = ExpressionPredictor(base_model, output_dim).to(device)
 optimizer = torch.optim.AdamW(down_steam_model.mlp.parameters(), lr=1e-5)
 criterion = nn.MSELoss()
 
+
+save_path = "./saved_downstream"
+os.makedirs(save_path, exist_ok=True)
+best_loss = float("inf")
+
+
+
 # Training loop
-for epoch in range(10):
+for epoch in range(60):
     down_steam_model.train()
     total_loss = 0.0
     progress_bar = tqdm(train_loader, desc=f"Epoch {epoch+1}", leave=True)
@@ -49,7 +56,7 @@ for epoch in range(10):
 
         # all input_ids have the same length, but the information they are carrying may not have the same length
         # we need to ignore the padding tokens (if they exist, when we do human and mouse together)
-        attention_mask = (input_ids != tokenizer.pad_token_id).long()
+        attention_mask = (input_ids != tokenizer.pad_token_id).long().to(device)
 
         optimizer.zero_grad()
 
@@ -63,11 +70,11 @@ for epoch in range(10):
         progress_bar.set_postfix(loss=loss.item())
 
     avg_loss = total_loss / len(train_loader)
+    if avg_loss < best_loss:
+        best_loss = avg_loss
+        torch.save(down_steam_model.mlp.state_dict(), f"{save_path}/mlp_weights.pt")
+        print("saved model")
+
     print(f"Epoch {epoch+1} completed. Avg Loss: {avg_loss:.4f}")
 
 
-
-save_path = "./saved_downstream"
-os.makedirs(save_path, exist_ok=True)
-torch.save(down_steam_model.mlp.state_dict(), f"{save_path}/mlp_weights.pt")
-print(f"Downstream model saved to {save_path}/mlp_weights.pt")
