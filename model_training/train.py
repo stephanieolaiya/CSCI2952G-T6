@@ -14,7 +14,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 # Load model and tokenizer
 model_name = "InstaDeepAI/nucleotide-transformer-2.5b-multi-species"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
-base_model = AutoModel.from_pretrained(model_name, torch_dtype=torch.float16).to(device)
+base_model = AutoModel.from_pretrained(model_name).to(device)
 max_length = tokenizer.model_max_length
 
 # Load data
@@ -43,11 +43,17 @@ for epoch in range(10):
     progress_bar = tqdm(train_loader, desc=f"Epoch {epoch+1}", leave=True)
 
     for input_ids, targets in progress_bar:
+        # input_ids and targets are what we have in the dataset
         input_ids = input_ids.to(device)
         targets = targets.to(device)
+
+        # all input_ids have the same length, but the information they are carrying may not have the same length
+        # we need to ignore the padding tokens (if they exist, when we do human and mouse together)
         attention_mask = (input_ids != tokenizer.pad_token_id).long()
 
         optimizer.zero_grad()
+
+        # this is the output of the model
         preds = down_steam_model(input_ids, attention_mask)
         loss = criterion(preds, targets)
         loss.backward()
