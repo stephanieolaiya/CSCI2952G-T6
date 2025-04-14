@@ -4,6 +4,7 @@ from torch.utils.data import DataLoader
 from transformers import AutoTokenizer, AutoModel
 from dataloader import GeneExpressionDataset
 from model.model import ExpressionPredictor
+import os
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -13,7 +14,8 @@ tokenizer = AutoTokenizer.from_pretrained(model_name)
 base_model = AutoModel.from_pretrained(model_name, torch_dtype=torch.float16).to(device)
 max_length = tokenizer.model_max_length
 
-geneanno_merged = pd.read_csv("./data/sequence_exp.csv").drop("Unnamed: 0", axis=1)
+
+geneanno_merged = pd.read_csv("../expression_data/human/sequence_exp.csv").drop("Unnamed: 0", axis=1)
 test_df = geneanno_merged[geneanno_merged['seqnames'] == 'chr8']
 test_dataset = GeneExpressionDataset(test_df, tokenizer, max_length)
 test_loader = DataLoader(test_dataset, batch_size=4)
