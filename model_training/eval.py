@@ -10,7 +10,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 # Load model and tokenizer
 model_name = "InstaDeepAI/nucleotide-transformer-2.5b-multi-species"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
-base_model = AutoModel.from_pretrained(model_name).to(device)
+base_model = AutoModel.from_pretrained(model_name, torch_dtype=torch.float16).to(device)
 max_length = tokenizer.model_max_length
 
 geneanno_merged = pd.read_csv("./data/sequence_exp.csv").drop("Unnamed: 0", axis=1)
