@@ -2,8 +2,8 @@ import pyfasta
 import pandas as pd
 
 
-genome = pyfasta.Fasta('./data/hg19.fa') # Path to FASTA file
-tss_offset = 1000  # Extend TSS by this many bp upstream and downstream
+genome = pyfasta.Fasta('../data/hg19.fa') # Path to FASTA file
+tss_offset = 3000  # Extend TSS by this many bp upstream and downstream
 
 def fetch_gene_sequence(chromosome, tss, strand):
     '''
@@ -17,8 +17,8 @@ def fetch_gene_sequence(chromosome, tss, strand):
 
 def create_dataset():
     # gene annotation file corresponding to tissue expression data
-    geneanno = pd.read_csv('./data/geneanno.csv') 
-    geneanno_exp = pd.read_csv('./data/geneanno.exp.csv')
+    geneanno = pd.read_csv('../data/geneanno.csv') 
+    geneanno_exp = pd.read_csv('../data/geneanno.exp.csv')
     geneanno_exp = geneanno_exp.drop('Unnamed: 0', axis=1)
     geneanno_merged = pd.concat([geneanno.reset_index(drop=True), geneanno_exp.reset_index(drop=True)], axis=1)
     geneanno_merged = geneanno_merged[(geneanno_merged['seqnames'] != 'chrX')
@@ -28,7 +28,7 @@ def create_dataset():
                                                                        x.TSS, 
                                                                        x.strand),
                                                                        axis=1)
-    geneanno_merged.to_csv('./data/sequence_exp.csv')
+    geneanno_merged.to_csv('../data/sequence_exp_6000.csv')
 
 def main():
     create_dataset()
