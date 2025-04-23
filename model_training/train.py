@@ -18,7 +18,7 @@ base_model = AutoModel.from_pretrained(model_name, torch_dtype=torch.float16).to
 max_length = tokenizer.model_max_length
 
 # Load data
-geneanno_merged = pd.read_csv("./data/sequence_exp.csv").drop("Unnamed: 0", axis=1)
+geneanno_merged = pd.read_csv("./data/sequence_exp_6000.csv").drop("Unnamed: 0", axis=1)
 train_df = geneanno_merged[geneanno_merged['seqnames'] != 'chr8']
 test_df = geneanno_merged[geneanno_merged['seqnames'] == 'chr8']
 
@@ -33,7 +33,11 @@ output_dim = len(train_dataset.tissues)
 down_steam_model = ExpressionPredictor(base_model, output_dim).to(device)
 
 # Optimizer and Loss
-optimizer = torch.optim.AdamW(down_steam_model.mlp.parameters(), lr=1e-5)
+params = list(down_steam_model.input_proj.parameters()) + \
+         list(down_steam_model.res_blocks.parameters()) + \
+         list(down_steam_model.output_layer.parameters())
+
+optimizer = torch.optim.AdamW(params, lr=1e-5)
 criterion = nn.MSELoss()
 
 
@@ -44,7 +48,7 @@ best_loss = float("inf")
 
 
 # Training loop
-for epoch in range(60):
+for epoch in range(100):
     down_steam_model.train()
     total_loss = 0.0
     progress_bar = tqdm(train_loader, desc=f"Epoch {epoch+1}", leave=True)
