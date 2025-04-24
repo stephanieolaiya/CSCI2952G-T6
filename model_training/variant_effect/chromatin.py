@@ -1,3 +1,5 @@
+'''Adapted from https://github.com/FunctionLab/ExPecto/blob/master/chromatin.py'''
+
 import argparse
 import pyfasta
 import torch
@@ -26,7 +28,7 @@ inputsize = args.inputsize
 batchSize = args.batchsize
 windowsize = inputsize + 100
 
-genome = pyfasta.Fasta('./data/hg19.fa') # Path to FASTA file
+genome = pyfasta.Fasta('../../data/hg19.fa') # Path to FASTA file
 
 # Device setup
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -84,7 +86,9 @@ def fetch_seqs(chr, pos, ref, alt, shift=0, inputsize=2000):
         alt + seq[(mutpos + len(ref)):], \
             seq[mutpos:(mutpos + len(ref))].upper() == ref.upper()
 
-vcf = pd.read_csv(inputfile, sep='\t', header=None, comment='#')
+vcf = pd.read_csv(inputfile, sep='\t', header=None, comment='#', compression='gzip')
+
+
 
 # standardize
 vcf.iloc[:, 0] = 'chr' + vcf.iloc[:, 0].map(str).str.replace('chr', '')
@@ -104,11 +108,11 @@ for shift in [0, ] + list(range(-200, -maxshift - 1, -200)) + list(range(200, ma
 
     all_diff =  []
     # get gene expression value differences
-    for i in range(len(refseq)):
-        ref_tokenized = tokenizer(refseq[i], return_tensors="pt", padding="max_length", max_length=self.max_len, truncation=True)
+    for i in range(len(refseqs)):
+        ref_tokenized = tokenizer(refseqs[i], return_tensors="pt", padding="max_length", max_length=self.max_len, truncation=True)
         ref_input_ids = ref_tokenized["input_ids"].squeeze(0)  # (seq_len,)
         ref_attention_mask = (ref_input_ids != tokenizer.pad_token_id).long().to(device)
-        alt_tokenized = tokenizer(altseq[i], return_tensors="pt", padding="max_length", max_length=self.max_len, truncation=True)
+        alt_tokenized = tokenizer(altseqs[i], return_tensors="pt", padding="max_length", max_length=self.max_len, truncation=True)
         alt_input_ids = alt_tokenized["input_ids"].squeeze(0)  # (seq_len,)
         alt_attention_mask = (alt_input_ids != tokenizer.pad_token_id).long().to(device)
         # get model predictons for both
