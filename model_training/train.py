@@ -1,5 +1,5 @@
 import torch
-from torch.utils.data import DataLoader
+from torch.utils.data import DataLoader, ConcatDataset
 import torch.nn as nn
 import pandas as pd
 from transformers import AutoTokenizer, AutoModel
@@ -25,6 +25,7 @@ test_df = geneanno_merged[geneanno_merged['seqnames'] == 'chr8']
 train_dataset = GeneExpressionDataset(train_df, tokenizer, max_length)
 test_dataset = GeneExpressionDataset(test_df, tokenizer, max_length)
 
+# train_loader = DataLoader(train_dataset, batch_size=16, shuffle=True)
 train_loader = DataLoader(train_dataset, batch_size=16, shuffle=True)
 test_loader = DataLoader(test_dataset, batch_size=16)
 
@@ -48,23 +49,19 @@ best_loss = float("inf")
 
 
 # Training loop
-for epoch in range(100):
+for epoch in range(50):
     down_steam_model.train()
     total_loss = 0.0
     progress_bar = tqdm(train_loader, desc=f"Epoch {epoch+1}", leave=True)
 
     for input_ids, targets in progress_bar:
-        # input_ids and targets are what we have in the dataset
         input_ids = input_ids.to(device)
         targets = targets.to(device)
 
-        # all input_ids have the same length, but the information they are carrying may not have the same length
-        # we need to ignore the padding tokens (if they exist, when we do human and mouse together)
         attention_mask = (input_ids != tokenizer.pad_token_id).long().to(device)
 
         optimizer.zero_grad()
 
-        # this is the output of the model
         preds = down_steam_model(input_ids, attention_mask)
         loss = criterion(preds, targets)
         loss.backward()
@@ -74,11 +71,14 @@ for epoch in range(100):
         progress_bar.set_postfix(loss=loss.item())
 
     avg_loss = total_loss / len(train_loader)
-    if avg_loss < best_loss:
-        best_loss = avg_loss
-        torch.save(down_steam_model.mlp.state_dict(), f"{save_path}/mlp_weights.pt")
-        print("saved model")
-
     print(f"Epoch {epoch+1} completed. Avg Loss: {avg_loss:.4f}")
 
-
+    # 🛠 Save only if loss improved
+    if avg_loss < best_loss:
+        best_loss = avg_loss
+        torch.save({
+            'input_proj': down_steam_model.input_proj.state_dict(),
+            'res_blocks': down_steam_model.res_blocks.state_dict(),
+            'output_layer': down_steam_model.output_layer.state_dict()
+        }, f"{save_path}/downstream_weights.pt")
+        print(f"Saved new best model with loss {best_loss:.4f}")
