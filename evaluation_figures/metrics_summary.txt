@@ -1,0 +1,10 @@
+MSE: 86.408516
+R²: -0.235066
+Mean Spearman correlation: -0.020848
+Mean Pearson correlation: -0.030011
+Median Spearman correlation: -0.012480
+Median Pearson correlation: -0.028452
+Spearman percentiles (25%, 50%, 75%): [-0.11530629 -0.01248017  0.07729108]
+Pearson percentiles (25%, 50%, 75%): [-0.13618735 -0.02845155  0.06909168]
+Tissues evaluated: 218 / 218
+Evaluation sample size: 100
