@@ -2,15 +2,13 @@
 
 import argparse
 import pyfasta
-import torch
 import numpy as np
 import pandas as pd
-import h5py
-from transformers import AutoTokenizer, AutoModel
-from model.model import ExpressionPredictor
+import pickle
 
 parser = argparse.ArgumentParser(description='Predict variant chromatin effects')
 parser.add_argument('inputfile', type=str, help='Input file in vcf format')
+parser.add_argument('outfolder', type=str, help='folder to place ref and alt sequences in')
 parser.add_argument('--maxshift', action="store",
                     dest="maxshift", type=int, default=800,
                     help='Maximum shift distance for computing nearby effects')
@@ -19,31 +17,17 @@ parser.add_argument('--inputsize', action="store", dest="inputsize", type=int,
 parser.add_argument('--batchsize', action="store", dest="batchsize",
                     type=int, default=32, help="Batch size for neural network predictions.")
 parser.add_argument('--cuda', action='store_true')
+
 args = parser.parse_args()
 
 # command line arguments
 inputfile = args.inputfile
+out_folder = args.outfolder
 maxshift = args.maxshift
 inputsize = args.inputsize
 batchSize = args.batchsize
 windowsize = inputsize + 100
-
 genome = pyfasta.Fasta('../../data/hg19.fa') # Path to FASTA file
-
-# Device setup
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-
-# Load tokenizer and model
-model_name = "InstaDeepAI/nucleotide-transformer-2.5b-multi-species"
-tokenizer = AutoTokenizer.from_pretrained(model_name)
-base_model = AutoModel.from_pretrained(model_name, torch_dtype=torch.float16).to(device)
-max_length = tokenizer.model_max_length
-
-# Load downstream model
-output_dim = 218 # number of uhman tissues
-model = ExpressionPredictor(base_model, output_dim).to(device)
-model.mlp.load_state_dict(torch.load("./saved_downstream/mlp_weights.pt"))
-model.eval()
 
 
 CHRS = ['chr1', 'chr2', 'chr3', 'chr4', 'chr5', 'chr6', 'chr7', 'chr8', 'chr9',
@@ -89,7 +73,6 @@ def fetch_seqs(chr, pos, ref, alt, shift=0, inputsize=2000):
 vcf = pd.read_csv(inputfile, sep='\t', header=None, comment='#', compression='gzip')
 
 
-
 # standardize
 vcf.iloc[:, 0] = 'chr' + vcf.iloc[:, 0].map(str).str.replace('chr', '')
 vcf = vcf[vcf.iloc[:, 0].isin(CHRS)]
@@ -101,29 +84,23 @@ for shift in [0, ] + list(range(-200, -maxshift - 1, -200)) + list(range(200, ma
     for i in range(vcf.shape[0]):
         refseq, altseq, ref_matched_bool = fetch_seqs(
             vcf[0][i], vcf[1][i], vcf[3][i], vcf[4][i], shift=shift, inputsize=inputsize)
-        refseqs.append(refseq)
-        altseqs.append(altseq)
         ref_matched_bools.append(ref_matched_bool)
 
+        if ref_matched_bool:
+            refseqs.append(refseq)
+            altseqs.append(altseq)
 
-    all_diff =  []
-    # get gene expression value differences
-    for i in range(len(refseqs)):
-        ref_tokenized = tokenizer(refseqs[i], return_tensors="pt", padding="max_length", max_length=self.max_len, truncation=True)
-        ref_input_ids = ref_tokenized["input_ids"].squeeze(0)  # (seq_len,)
-        ref_attention_mask = (ref_input_ids != tokenizer.pad_token_id).long().to(device)
-        alt_tokenized = tokenizer(altseqs[i], return_tensors="pt", padding="max_length", max_length=self.max_len, truncation=True)
-        alt_input_ids = alt_tokenized["input_ids"].squeeze(0)  # (seq_len,)
-        alt_attention_mask = (alt_input_ids != tokenizer.pad_token_id).long().to(device)
-        # get model predictons for both
-        ref_preds = model(ref_input_ids, ref_attention_mask).float()
-        alt_preds = model(alt_input_ids, alt_attention_mask).float()
-        diff = alt_preds - ref_preds   
-        all_diff.append(np.array(diff))   
+    if shift == 0:
+        # only need to be checked once
+        print("Number of variants with reference allele matched with reference genome:")
+        print(np.sum(ref_matched_bools))
+        print("Number of input variants:")
+        print(len(ref_matched_bools))
 
+    with open(f'{out_folder}/refseqs_human' + '.shift_' + str(shift), 'wb') as fp:
+        pickle.dump(refseqs, fp)
 
-    f = h5py.File(inputfile + '.shift_' + str(shift) + '.diff.h5', 'w')
-    f.create_dataset('pred', data=diff)
-    f.close()
+    with open(f'{out_folder}/altseqs_human' + '.shift_' + str(shift), 'wb') as fp:
+        pickle.dump(altseqs, fp)
 
 
