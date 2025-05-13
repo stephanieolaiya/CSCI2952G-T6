@@ -73,7 +73,7 @@ for epoch in range(50):
     avg_loss = total_loss / len(train_loader)
     print(f"Epoch {epoch+1} completed. Avg Loss: {avg_loss:.4f}")
 
-    # 🛠 Save only if loss improved
+    # Save only if loss improved
     if avg_loss < best_loss:
         best_loss = avg_loss
         torch.save({

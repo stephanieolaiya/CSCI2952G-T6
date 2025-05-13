@@ -1,0 +1,3925 @@
+gene_id,tissue,logFC
+PRDM14,Adipose_Subcutaneous,-0.00092616584
+PRDM14,Adipose_Visceral_Omentum,-0.0002295291
+PRDM14,Adrenal_Gland,0.000159935
+PRDM14,Artery_Aorta,-0.002046152
+PRDM14,Artery_Coronary,0.0019371153
+PRDM14,Artery_Tibial,0.018049365
+PRDM14,Bladder,-0.010257566
+PRDM14,Brain_Amygdala,0.01158421
+PRDM14,Brain_Anterior_cingulate_cortex_BA24,-0.00031003205
+PRDM14,Brain_Caudate_basal_ganglia,0.0009808275
+PRDM14,Brain_Cerebellar_Hemisphere,0.00045138385
+PRDM14,Brain_Cerebellum,-0.010639371
+PRDM14,Brain_Cortex,0.015982917
+PRDM14,Brain_Frontal_Cortex_BA9,-0.00019392346
+PRDM14,Brain_Hippocampus,-0.0018270963
+PRDM14,Brain_Hypothalamus,9.4587354e-05
+PRDM14,Brain_Nucleus_accumbens_basal_ganglia,0.01214881
+PRDM14,Brain_Putamen_basal_ganglia,-0.0017869741
+PRDM14,Brain_Spinal_cord_cervical_c1,-0.0041338443
+PRDM14,Brain_Substantia_nigra,0.0017169127
+PRDM14,Breast_Mammary_Tissue,0.0022579122
+PRDM14,Cells_EBV-transformed_lymphocytes,-0.0006434446
+PRDM14,Cells_Transformed_fibroblasts,0.0039061087
+PRDM14,Cervix_Ectocervix,-0.0097807115
+PRDM14,Cervix_Endocervix,0.0059268856
+PRDM14,Colon_Sigmoid,0.00053682993
+PRDM14,Colon_Transverse,0.0043298667
+PRDM14,Esophagus_Gastroesophageal_Junction,0.0003033455
+PRDM14,Esophagus_Mucosa,0.028787628
+PRDM14,Esophagus_Muscularis,-0.0004203008
+PRDM14,Fallopian_Tube,-0.0003079678
+PRDM14,Heart_Atrial_Appendage,-0.0019036415
+PRDM14,Heart_Left_Ventricle,0.004018963
+PRDM14,Kidney_Cortex,-0.0009546475
+PRDM14,Liver,0.0019412375
+PRDM14,Lung,0.0016942378
+PRDM14,Minor_Salivary_Gland,-0.0010757225
+PRDM14,Muscle_Skeletal,0.005016944
+PRDM14,Nerve_Tibial,0.0022127507
+PRDM14,Ovary,0.019017663
+PRDM14,Pancreas,0.0027540794
+PRDM14,Pituitary,0.0014892888
+PRDM14,Prostate,0.0005069158
+PRDM14,Skin_Not_Sun_Exposed_Suprapubic,-0.0025040035
+PRDM14,Skin_Sun_Exposed_Lower_leg,6.724365e-05
+PRDM14,Small_Intestine_Terminal_Ileum,0.00076168205
+PRDM14,Spleen,-0.0018610202
+PRDM14,Stomach,0.006544894
+PRDM14,Testis,0.004960557
+PRDM14,Thyroid,0.00026345337
+PRDM14,Uterus,-2.4765714e-05
+PRDM14,Vagina,-0.0014992636
+PRDM14,Whole_Blood,-4.4716184e-05
+PRDM14,cardiac ventricle fibroblast,0.0018794056
+PRDM14,hair follicular keratinocyte,-0.00029248613
+PRDM14,airway epithelial cell,0.00073108496
+PRDM14,epithelial cell of proximal tubule,0.0013640373
+PRDM14,pericardium fibroblast,0.00011436393
+PRDM14,mesangial cell,-0.0008393475
+PRDM14,bronchial fibroblast,0.002875091
+PRDM14,glomerular endothelial cell,-0.0005465784
+PRDM14,kidney epithelial cell,-0.00036955206
+PRDM14,mammary microvascular endothelial cell,-0.0005645575
+PRDM14,epithelial cell of alveolus of lung,0.014509545
+PRDM14,myometrial cell,0.0108167855
+PRDM14,cardiac atrium fibroblast,0.0028333818
+PRDM14,endometrial microvascular endothelial cell,0.00039137944
+PRDM14,smooth muscle cell,0.00038553358
+PRDM14,hepatocyte,0.0001243381
+PRDM14,neural progenitor cell,-0.00052343815
+PRDM14,HT1080,-0.0006606506
+PRDM14,SK-N-DZ,-0.00034039383
+PRDM14,SK-MEL-5,-0.00036705766
+PRDM14,NCI-H460,6.8792897e-06
+PRDM14,astrocyte,0.0005000389
+PRDM14,LHCN-M2,0.00029079337
+PRDM14,K562,0.0033111628
+PRDM14,HepG2,-0.00026427556
+PRDM14,MCF-7,0.004243273
+PRDM14,bipolar spindle neuron,-0.00048696506
+PRDM14,skeletal muscle myoblast,0.0014143797
+PRDM14,myotube,0.0034628392
+PRDM14,H7-hESC,-0.0035842676
+PRDM14,RPMI-7951,9.9749595e-06
+PRDM14,M059J,0.0031579263
+PRDM14,H4,9.475933e-05
+PRDM14,MG63,0.001694066
+PRDM14,G401,-0.0015093351
+PRDM14,Caki2,-0.00036946603
+PRDM14,SJSA1,-0.0018144395
+PRDM14,Daoy,0.0036232485
+PRDM14,A172,-0.00023056117
+PRDM14,induced pluripotent stem cell,-0.0009984467
+PRDM14,fibroblast of arm,-0.04025138
+PRDM14,A375,-0.0046869954
+PRDM14,HT-29,0.00094490714
+PRDM14,PC-3,0.0007133796
+PRDM14,Karpas-422,-0.000981839
+PRDM14,Oci-Ly-7,0.003417029
+PRDM14,SJCRH30,0.000895064
+PRDM14,neural cell,-0.0039036071
+PRDM14,umbilical cord,0.001448914
+PRDM14,pericyte cell,0.00091414206
+PRDM14,melanocyte of skin,0.0005639928
+PRDM14,placental epithelial cell,3.6975795e-05
+PRDM14,hair follicle dermal papilla cell,0.0011408257
+PRDM14,hematopoietic multipotent progenitor cell,0.0004756256
+PRDM14,vein endothelial cell,0.00032793364
+PRDM14,osteoblast,0.036910906
+PRDM14,articular chondrocyte of knee joint,-0.0028169865
+PRDM14,thoracic aorta endothelial cell,-0.00198131
+PRDM14,fibroblast of the aortic adventitia,-0.00019065537
+PRDM14,skeletal muscle satellite cell,-0.00013088473
+PRDM14,fibroblast of dermis,-0.0011002485
+PRDM14,mammary epithelial cell,-0.014044395
+PRDM14,subcutaneous preadipocyte,0.016323563
+PRDM14,fibroblast of villous mesenchyme,0.0015672862
+PRDM14,endothelial cell of umbilical vein,0.004737215
+PRDM14,fibroblast of lung,0.0024558846
+PRDM14,keratinocyte,0.0010763818
+PRDM14,stomach,0.003797534
+PRDM14,dermis microvascular lymphatic vessel endothelial cell,-0.0014470136
+PRDM14,tongue,0.0041974876
+PRDM14,lung microvascular endothelial cell,-0.0006556608
+PRDM14,liver,-0.003437295
+PRDM14,smooth muscle cell of the coronary artery,0.0037067914
+PRDM14,aortic smooth muscle cell,0.0005645086
+PRDM14,cerebellum,-0.0032174247
+PRDM14,occipital lobe,0.0009834055
+PRDM14,lung,-0.001478174
+PRDM14,metanephros,0.005632087
+PRDM14,bronchial smooth muscle cell,-0.001589479
+PRDM14,spinal cord,0.09319348
+PRDM14,parietal lobe,0.0031987682
+PRDM14,diencephalon,0.014580201
+PRDM14,bronchial epithelial cell,0.0026030154
+PRDM14,human nasal epithelial cells,-0.004254324
+PRDM14,pulmonary artery endothelial cell,0.0027508182
+PRDM14,regular cardiac myocyte,-0.001774576
+PRDM14,endothelial cell of coronary artery,0.00611408
+PRDM14,skeletal muscle tissue,-0.0020086933
+PRDM14,skin of body,-0.008492426
+PRDM14,frontal cortex,0.0011621346
+PRDM14,camera-type eye,0.002048578
+PRDM14,dermis lymphatic vessel endothelial cell,0.004821551
+PRDM14,smooth muscle cell of the umbilical artery,0.0064036436
+PRDM14,tracheal epithelial cell,-0.0024695476
+PRDM14,smooth muscle cell of trachea,0.0006441032
+PRDM14,renal cortical epithelial cell,0.12513627
+PRDM14,dermis blood vessel endothelial cell,-0.006605906
+PRDM14,heart,0.002005471
+PRDM14,thyroid gland,0.0012234816
+PRDM14,urinary bladder,-0.00050253485
+PRDM14,temporal lobe,-0.0051695905
+PRDM14,uterine smooth muscle cell,0.008369975
+PRDM14,epithelial cell of umbilical artery,-0.00063983136
+PRDM14,smooth muscle cell of the pulmonary artery,0.0016803235
+PRDM14,smooth muscle cell of bladder,0.0032464727
+PRDM14,bladder microvascular endothelial cell,0.00023628482
+PRDM14,uterus,-0.0029130573
+PRDM14,GM12878,-0.0056501026
+PRDM14,Universal_Human_Reference,0.00095848483
+PRDM14,H1_Cell_Line,-0.0003799597
+PRDM14,H1_BMP4_Derived_Mesendoderm_Cultured_Cells,-0.0009289193
+PRDM14,H1_BMP4_Derived_Trophoblast_Cultured_Cells,0.00017885087
+PRDM14,H1_Derived_Mesenchymal_Stem_Cells,0.0029684603
+PRDM14,H1_Derived_Neuronal_Progenitor_Cultured_Cells,0.002094775
+PRDM14,hESC_Derived_CD184+_Endoderm_Cultured_Cells,-0.0020774116
+PRDM14,hESC_Derived_CD56+_Ectoderm_Cultured_Cells,0.0007235215
+PRDM14,hESC_Derived_CD56+_Mesoderm_Cultured_Cells,0.0010150285
+PRDM14,HUES64_Cell_Line,-0.00071399065
+PRDM14,4star,0.0059460686
+PRDM14,Breast_Myoepithelial_Cells,0.0019426114
+PRDM14,Breast_vHMEC,-0.010320183
+PRDM14,CD4_Memory_Primary_Cells,0.012451487
+PRDM14,CD4_Naive_Primary_Cells,0.0001831499
+PRDM14,CD8_Naive_Primary_Cells,-0.0015999816
+PRDM14,Mobilized_CD34_Primary_Cells_Female,-0.011101085
+PRDM14,Neurosphere_Cultured_Cells_Cortex_Derived,0.003293489
+PRDM14,Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived,-0.00010138733
+PRDM14,Penis_Foreskin_Fibroblast_Primary_Cells_skin01,-0.00061281834
+PRDM14,Penis_Foreskin_Fibroblast_Primary_Cells_skin02,0.00057447964
+PRDM14,Penis_Foreskin_Keratinocyte_Primary_Cells_skin02,0.004652532
+PRDM14,Penis_Foreskin_Keratinocyte_Primary_Cells_skin03,0.00089575147
+PRDM14,Penis_Foreskin_Melanocyte_Primary_Cells_skin01,0.0034882312
+PRDM14,Penis_Foreskin_Melanocyte_Primary_Cells_skin03,-0.00037694923
+PRDM14,Peripheral_Blood_Mononuclear_Primary_Cells,0.0013947928
+PRDM14,Aorta,5.8128964e-05
+PRDM14,Adult_Liver,-0.009773786
+PRDM14,Brain_Germinal_Matrix,-0.0053148405
+PRDM14,Brain_Hippocampus_Middle,-0.00060507585
+PRDM14,Esophagus,-0.00067897525
+PRDM14,Fetal_Brain_Female,-0.004212237
+PRDM14,Fetal_Intestine_Large,0.0003984288
+PRDM14,Fetal_Intestine_Small,-0.017204825
+PRDM14,Pancreatic_Islets,0.0049398183
+PRDM14,Gastric,-0.0054128906
+PRDM14,Left_Ventricle,-0.00051251333
+PRDM14,Lung.1,-0.0015012434
+PRDM14,Ovary.1,0.004742015
+PRDM14,Pancreas.1,2.6829044e-05
+PRDM14,Psoas_Muscle,-0.011717858
+PRDM14,Right_Atrium,0.0011803498
+PRDM14,Right_Ventricle,-0.0013664471
+PRDM14,Sigmoid_Colon,-0.00041548393
+PRDM14,Small_Intestine,-0.0018730746
+PRDM14,Thymus,0.0058030467
+PRDM14,Spleen.1,0.0026668762
+PRDM14,A549,-0.002518992
+PRDM14,GM12878.1,0.0049932925
+PRDM14,HELA,0.0003062686
+PRDM14,HEPG2,-0.0019974988
+PRDM14,HMEC,0.00022321621
+PRDM14,HSMM,0.00017541164
+PRDM14,HUVEC,9.888664e-05
+PRDM14,K562.1,0.0015717528
+PRDM14,NHEK,-0.0010634166
+PRDM14,NHLF,0.0018098416
+FAM87B,Adipose_Subcutaneous,-0.0008393475
+FAM87B,Adipose_Visceral_Omentum,0.0013473707
+FAM87B,Adrenal_Gland,-0.0037971241
+FAM87B,Artery_Aorta,-0.0043084873
+FAM87B,Artery_Coronary,0.0033995283
+FAM87B,Artery_Tibial,-0.071732305
+FAM87B,Bladder,0.017220967
+FAM87B,Brain_Amygdala,0.0015131695
+FAM87B,Brain_Anterior_cingulate_cortex_BA24,0.0011678054
+FAM87B,Brain_Caudate_basal_ganglia,0.0075289826
+FAM87B,Brain_Cerebellar_Hemisphere,0.0010552435
+FAM87B,Brain_Cerebellum,-0.014845474
+FAM87B,Brain_Cortex,0.008101157
+FAM87B,Brain_Frontal_Cortex_BA9,8.2721286e-05
+FAM87B,Brain_Hippocampus,-0.0024931496
+FAM87B,Brain_Hypothalamus,-0.00037694923
+FAM87B,Brain_Nucleus_accumbens_basal_ganglia,-0.030575534
+FAM87B,Brain_Putamen_basal_ganglia,-0.0016022198
+FAM87B,Brain_Spinal_cord_cervical_c1,-0.0013699761
+FAM87B,Brain_Substantia_nigra,0.0026037022
+FAM87B,Breast_Mammary_Tissue,-0.009270175
+FAM87B,Cells_EBV-transformed_lymphocytes,-0.0031436537
+FAM87B,Cells_Transformed_fibroblasts,0.015771482
+FAM87B,Cervix_Ectocervix,-0.001569335
+FAM87B,Cervix_Endocervix,-0.001632781
+FAM87B,Colon_Sigmoid,-0.013605957
+FAM87B,Colon_Transverse,-0.023793997
+FAM87B,Esophagus_Gastroesophageal_Junction,8.8224406e-05
+FAM87B,Esophagus_Mucosa,0.008992578
+FAM87B,Esophagus_Muscularis,-0.0016324366
+FAM87B,Fallopian_Tube,8.925623e-05
+FAM87B,Heart_Atrial_Appendage,0.0010507752
+FAM87B,Heart_Left_Ventricle,0.010389635
+FAM87B,Kidney_Cortex,0.0010084977
+FAM87B,Liver,0.006496614
+FAM87B,Lung,-0.008218682
+FAM87B,Minor_Salivary_Gland,0.00023800436
+FAM87B,Muscle_Skeletal,0.005467446
+FAM87B,Nerve_Tibial,0.001586699
+FAM87B,Ovary,0.073550604
+FAM87B,Pancreas,-0.0046026246
+FAM87B,Pituitary,-0.0006332071
+FAM87B,Prostate,0.004269166
+FAM87B,Skin_Not_Sun_Exposed_Suprapubic,0.00084934424
+FAM87B,Skin_Sun_Exposed_Lower_leg,-0.0034727224
+FAM87B,Small_Intestine_Terminal_Ileum,0.0007023781
+FAM87B,Spleen,0.006296113
+FAM87B,Stomach,-0.023596264
+FAM87B,Testis,0.0040270234
+FAM87B,Thyroid,-0.004042521
+FAM87B,Uterus,-0.00843949
+FAM87B,Vagina,0.0121479565
+FAM87B,Whole_Blood,-0.00074917893
+FAM87B,cardiac ventricle fibroblast,0.009655913
+FAM87B,hair follicular keratinocyte,-0.0012737497
+FAM87B,airway epithelial cell,0.00018658911
+FAM87B,epithelial cell of proximal tubule,0.0033909492
+FAM87B,pericardium fibroblast,-0.010258519
+FAM87B,mesangial cell,-0.009172036
+FAM87B,bronchial fibroblast,-0.0014254082
+FAM87B,glomerular endothelial cell,0.0009847805
+FAM87B,kidney epithelial cell,-0.0021825621
+FAM87B,mammary microvascular endothelial cell,0.00088028255
+FAM87B,epithelial cell of alveolus of lung,0.020377072
+FAM87B,myometrial cell,0.011566296
+FAM87B,cardiac atrium fibroblast,0.016621286
+FAM87B,endometrial microvascular endothelial cell,0.003929778
+FAM87B,smooth muscle cell,0.0021674163
+FAM87B,hepatocyte,0.0017399307
+FAM87B,neural progenitor cell,0.0011724451
+FAM87B,HT1080,0.0018433358
+FAM87B,SK-N-DZ,-0.0021357127
+FAM87B,SK-MEL-5,-0.0074629365
+FAM87B,NCI-H460,0.0066969153
+FAM87B,astrocyte,0.0027116803
+FAM87B,LHCN-M2,-0.0006350137
+FAM87B,K562,0.0016753417
+FAM87B,HepG2,-0.009108863
+FAM87B,MCF-7,-0.0006774267
+FAM87B,bipolar spindle neuron,0.0037388694
+FAM87B,skeletal muscle myoblast,-0.0019690827
+FAM87B,myotube,-0.0012526633
+FAM87B,H7-hESC,-0.003182004
+FAM87B,RPMI-7951,0.00082407746
+FAM87B,M059J,0.00038518972
+FAM87B,H4,0.00068914186
+FAM87B,MG63,0.0009782496
+FAM87B,G401,-0.0018648087
+FAM87B,Caki2,0.0014904913
+FAM87B,SJSA1,-0.0074091735
+FAM87B,Daoy,0.009899675
+FAM87B,A172,-0.0041555767
+FAM87B,induced pluripotent stem cell,0.0010810219
+FAM87B,fibroblast of arm,0.06768267
+FAM87B,A375,-0.011009146
+FAM87B,HT-29,0.001735121
+FAM87B,PC-3,0.008405881
+FAM87B,Karpas-422,-0.003370322
+FAM87B,Oci-Ly-7,-0.008087149
+FAM87B,SJCRH30,0.009107085
+FAM87B,neural cell,-0.002635977
+FAM87B,umbilical cord,0.0006196924
+FAM87B,pericyte cell,-0.0010345886
+FAM87B,melanocyte of skin,0.002854494
+FAM87B,placental epithelial cell,0.0011965029
+FAM87B,hair follicle dermal papilla cell,9.544721e-05
+FAM87B,hematopoietic multipotent progenitor cell,-0.00032491182
+FAM87B,vein endothelial cell,0.000169221
+FAM87B,osteoblast,-0.042691212
+FAM87B,articular chondrocyte of knee joint,-0.0065913065
+FAM87B,thoracic aorta endothelial cell,0.0014004627
+FAM87B,fibroblast of the aortic adventitia,0.0018508934
+FAM87B,skeletal muscle satellite cell,-0.005279023
+FAM87B,fibroblast of dermis,-0.0016503432
+FAM87B,mammary epithelial cell,0.007839473
+FAM87B,subcutaneous preadipocyte,0.03123105
+FAM87B,fibroblast of villous mesenchyme,-0.0002799289
+FAM87B,endothelial cell of umbilical vein,0.0029401411
+FAM87B,fibroblast of lung,0.00014136282
+FAM87B,keratinocyte,-0.0018366534
+FAM87B,stomach,-0.006609966
+FAM87B,dermis microvascular lymphatic vessel endothelial cell,-0.0029489025
+FAM87B,tongue,0.009090679
+FAM87B,lung microvascular endothelial cell,0.00070358143
+FAM87B,liver,-0.0074197184
+FAM87B,smooth muscle cell of the coronary artery,-0.0007730111
+FAM87B,aortic smooth muscle cell,0.00022631141
+FAM87B,cerebellum,-0.00040860265
+FAM87B,occipital lobe,-0.00018747327
+FAM87B,lung,0.004373933
+FAM87B,metanephros,0.0022637504
+FAM87B,bronchial smooth muscle cell,-0.0057259877
+FAM87B,spinal cord,-0.26634246
+FAM87B,parietal lobe,0.0009828899
+FAM87B,diencephalon,-0.028925564
+FAM87B,bronchial epithelial cell,0.0009316731
+FAM87B,human nasal epithelial cells,-0.0014557074
+FAM87B,pulmonary artery endothelial cell,0.002861188
+FAM87B,regular cardiac myocyte,0.028773803
+FAM87B,endothelial cell of coronary artery,0.002467731
+FAM87B,skeletal muscle tissue,0.0020058146
+FAM87B,skin of body,0.019935612
+FAM87B,frontal cortex,0.0001542602
+FAM87B,camera-type eye,0.002381369
+FAM87B,dermis lymphatic vessel endothelial cell,0.0010856618
+FAM87B,smooth muscle cell of the umbilical artery,0.01289422
+FAM87B,tracheal epithelial cell,-0.00082566694
+FAM87B,smooth muscle cell of trachea,0.0021962656
+FAM87B,renal cortical epithelial cell,-0.04208284
+FAM87B,dermis blood vessel endothelial cell,0.0025504827
+FAM87B,heart,-0.0050870036
+FAM87B,thyroid gland,0.00076168205
+FAM87B,urinary bladder,-0.0006819864
+FAM87B,temporal lobe,-0.0004885995
+FAM87B,uterine smooth muscle cell,-0.003216132
+FAM87B,epithelial cell of umbilical artery,-0.00027365034
+FAM87B,smooth muscle cell of the pulmonary artery,0.0118218465
+FAM87B,smooth muscle cell of bladder,0.0013695356
+FAM87B,bladder microvascular endothelial cell,-0.0024005522
+FAM87B,uterus,0.00230788
+FAM87B,GM12878,0.00090915774
+FAM87B,Universal_Human_Reference,-0.0055999462
+FAM87B,H1_Cell_Line,-0.009754999
+FAM87B,H1_BMP4_Derived_Mesendoderm_Cultured_Cells,0.0038090264
+FAM87B,H1_BMP4_Derived_Trophoblast_Cultured_Cells,0.0014540682
+FAM87B,H1_Derived_Mesenchymal_Stem_Cells,-0.003697287
+FAM87B,H1_Derived_Neuronal_Progenitor_Cultured_Cells,0.0002601863
+FAM87B,hESC_Derived_CD184+_Endoderm_Cultured_Cells,0.000865501
+FAM87B,hESC_Derived_CD56+_Ectoderm_Cultured_Cells,0.0024043766
+FAM87B,hESC_Derived_CD56+_Mesoderm_Cultured_Cells,0.003107473
+FAM87B,HUES64_Cell_Line,0.0032699811
+FAM87B,4star,-0.0036259915
+FAM87B,Breast_Myoepithelial_Cells,0.0018883371
+FAM87B,Breast_vHMEC,-0.029182557
+FAM87B,CD4_Memory_Primary_Cells,-0.024785345
+FAM87B,CD4_Naive_Primary_Cells,0.00094318844
+FAM87B,CD8_Naive_Primary_Cells,-0.0052078217
+FAM87B,Mobilized_CD34_Primary_Cells_Female,-0.005704663
+FAM87B,Neurosphere_Cultured_Cells_Cortex_Derived,-0.0001950415
+FAM87B,Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived,-0.0002005457
+FAM87B,Penis_Foreskin_Fibroblast_Primary_Cells_skin01,-0.0004962553
+FAM87B,Penis_Foreskin_Fibroblast_Primary_Cells_skin02,0.0018414464
+FAM87B,Penis_Foreskin_Keratinocyte_Primary_Cells_skin02,-0.032888368
+FAM87B,Penis_Foreskin_Keratinocyte_Primary_Cells_skin03,-0.0015186319
+FAM87B,Penis_Foreskin_Melanocyte_Primary_Cells_skin01,-0.0015729506
+FAM87B,Penis_Foreskin_Melanocyte_Primary_Cells_skin03,-0.001067117
+FAM87B,Peripheral_Blood_Mononuclear_Primary_Cells,0.004296773
+FAM87B,Aorta,0.004995349
+FAM87B,Adult_Liver,0.057859387
+FAM87B,Brain_Germinal_Matrix,-0.008658687
+FAM87B,Brain_Hippocampus_Middle,0.003955162
+FAM87B,Esophagus,-0.010323907
+FAM87B,Fetal_Brain_Female,0.007299536
+FAM87B,Fetal_Intestine_Large,0.0010622896
+FAM87B,Fetal_Intestine_Small,-0.03815804
+FAM87B,Pancreatic_Islets,0.0002949201
+FAM87B,Gastric,0.005098178
+FAM87B,Left_Ventricle,-0.0035602166
+FAM87B,Lung.1,-0.0024624842
+FAM87B,Ovary.1,-0.010162824
+FAM87B,Pancreas.1,-0.0015676994
+FAM87B,Psoas_Muscle,-0.025530092
+FAM87B,Right_Atrium,-0.0063379616
+FAM87B,Right_Ventricle,0.0064308676
+FAM87B,Sigmoid_Colon,-0.002422086
+FAM87B,Small_Intestine,-0.0030443792
+FAM87B,Thymus,0.0011274216
+FAM87B,Spleen.1,0.025589233
+FAM87B,A549,-0.008201646
+FAM87B,GM12878.1,0.00183595
+FAM87B,HELA,-0.0039132643
+FAM87B,HEPG2,0.0021947203
+FAM87B,HMEC,-0.0013227228
+FAM87B,HSMM,-0.00040645225
+FAM87B,HUVEC,0.0014910068
+FAM87B,K562.1,-0.0039327512
+FAM87B,NHEK,-0.00442993
+FAM87B,NHLF,0.00014411427
+TONSL,Adipose_Subcutaneous,-0.0048994105
+TONSL,Adipose_Visceral_Omentum,-0.0022104657
+TONSL,Adrenal_Gland,-0.00051999727
+TONSL,Artery_Aorta,0.0048280642
+TONSL,Artery_Coronary,0.0034650695
+TONSL,Artery_Tibial,-0.051612716
+TONSL,Bladder,0.024187712
+TONSL,Brain_Amygdala,-0.0007251751
+TONSL,Brain_Anterior_cingulate_cortex_BA24,0.00013087287
+TONSL,Brain_Caudate_basal_ganglia,-0.0016508597
+TONSL,Brain_Cerebellar_Hemisphere,0.0036743698
+TONSL,Brain_Cerebellum,-0.011971282
+TONSL,Brain_Cortex,0.02616814
+TONSL,Brain_Frontal_Cortex_BA9,-0.0012563642
+TONSL,Brain_Hippocampus,0.0008209835
+TONSL,Brain_Hypothalamus,-0.00027485445
+TONSL,Brain_Nucleus_accumbens_basal_ganglia,-0.025005465
+TONSL,Brain_Putamen_basal_ganglia,0.0014387771
+TONSL,Brain_Spinal_cord_cervical_c1,0.00046754506
+TONSL,Brain_Substantia_nigra,-0.008198965
+TONSL,Breast_Mammary_Tissue,-0.0066826185
+TONSL,Cells_EBV-transformed_lymphocytes,0.0006812344
+TONSL,Cells_Transformed_fibroblasts,-0.0020098127
+TONSL,Cervix_Ectocervix,0.00977908
+TONSL,Cervix_Endocervix,0.006041637
+TONSL,Colon_Sigmoid,-0.0070493934
+TONSL,Colon_Transverse,0.0014372309
+TONSL,Esophagus_Gastroesophageal_Junction,-0.003918869
+TONSL,Esophagus_Mucosa,0.023802737
+TONSL,Esophagus_Muscularis,-0.00089871726
+TONSL,Fallopian_Tube,-0.0025344975
+TONSL,Heart_Atrial_Appendage,-0.0019105299
+TONSL,Heart_Left_Ventricle,0.024907997
+TONSL,Kidney_Cortex,0.0027739913
+TONSL,Liver,0.0035060742
+TONSL,Lung,0.0054220427
+TONSL,Minor_Salivary_Gland,0.0013465115
+TONSL,Muscle_Skeletal,0.0003410013
+TONSL,Nerve_Tibial,0.003525804
+TONSL,Ovary,-0.015139247
+TONSL,Pancreas,0.0050297976
+TONSL,Pituitary,0.00047803257
+TONSL,Prostate,-0.0006273571
+TONSL,Skin_Not_Sun_Exposed_Suprapubic,0.00010198211
+TONSL,Skin_Sun_Exposed_Lower_leg,-0.011730341
+TONSL,Small_Intestine_Terminal_Ileum,0.0037078208
+TONSL,Spleen,-0.00045324548
+TONSL,Stomach,0.017776059
+TONSL,Testis,0.025422629
+TONSL,Thyroid,0.010481836
+TONSL,Uterus,-0.0030816062
+TONSL,Vagina,-0.008833532
+TONSL,Whole_Blood,0.0022680433
+TONSL,cardiac ventricle fibroblast,0.0018594814
+TONSL,hair follicular keratinocyte,-0.00037849747
+TONSL,airway epithelial cell,-0.0014159399
+TONSL,epithelial cell of proximal tubule,-0.0033398103
+TONSL,pericardium fibroblast,-0.0009236705
+TONSL,mesangial cell,0.0029090752
+TONSL,bronchial fibroblast,0.0003219156
+TONSL,glomerular endothelial cell,0.002988369
+TONSL,kidney epithelial cell,-0.0011102312
+TONSL,mammary microvascular endothelial cell,-0.00048730915
+TONSL,epithelial cell of alveolus of lung,-0.0012631634
+TONSL,myometrial cell,-0.013786351
+TONSL,cardiac atrium fibroblast,-0.0010013725
+TONSL,endometrial microvascular endothelial cell,0.0057674176
+TONSL,smooth muscle cell,-0.009256934
+TONSL,hepatocyte,0.0021746287
+TONSL,neural progenitor cell,-0.00047715878
+TONSL,HT1080,0.004924221
+TONSL,SK-N-DZ,-0.0027266943
+TONSL,SK-MEL-5,-0.008576333
+TONSL,NCI-H460,0.0001742079
+TONSL,astrocyte,-0.0023589497
+TONSL,LHCN-M2,-0.00046279354
+TONSL,K562,0.0023787937
+TONSL,HepG2,-0.0045053195
+TONSL,MCF-7,-0.0028921196
+TONSL,bipolar spindle neuron,0.0021098875
+TONSL,skeletal muscle myoblast,-0.00042055888
+TONSL,myotube,-0.005326924
+TONSL,H7-hESC,-0.0015561641
+TONSL,RPMI-7951,0.00041235547
+TONSL,M059J,0.0033708743
+TONSL,H4,0.0029440888
+TONSL,MG63,0.00039636556
+TONSL,G401,0.0043382687
+TONSL,Caki2,-0.001165395
+TONSL,SJSA1,-0.008837166
+TONSL,Daoy,0.0035047017
+TONSL,A172,0.00035510046
+TONSL,induced pluripotent stem cell,0.005374581
+TONSL,fibroblast of arm,-0.0013951957
+TONSL,A375,-0.0026369246
+TONSL,HT-29,0.0013657555
+TONSL,PC-3,0.002388752
+TONSL,Karpas-422,0.0021880232
+TONSL,Oci-Ly-7,0.01335539
+TONSL,SJCRH30,0.010671172
+TONSL,neural cell,-0.003161493
+TONSL,umbilical cord,-0.0002311632
+TONSL,pericyte cell,-0.0014400412
+TONSL,melanocyte of skin,0.0008469379
+TONSL,placental epithelial cell,0.00075343123
+TONSL,hair follicle dermal papilla cell,0.0020523563
+TONSL,hematopoietic multipotent progenitor cell,-0.0032005329
+TONSL,vein endothelial cell,-0.0028287042
+TONSL,osteoblast,0.0045690434
+TONSL,articular chondrocyte of knee joint,0.001211453
+TONSL,thoracic aorta endothelial cell,-0.00087832473
+TONSL,fibroblast of the aortic adventitia,0.002854494
+TONSL,skeletal muscle satellite cell,0.002494686
+TONSL,fibroblast of dermis,0.0051249126
+TONSL,mammary epithelial cell,0.0099767065
+TONSL,subcutaneous preadipocyte,0.021443954
+TONSL,fibroblast of villous mesenchyme,-0.00035458582
+TONSL,endothelial cell of umbilical vein,-0.0038451483
+TONSL,fibroblast of lung,0.0048626885
+TONSL,keratinocyte,-0.00014662265
+TONSL,stomach,0.0033658985
+TONSL,dermis microvascular lymphatic vessel endothelial cell,-0.0022497384
+TONSL,tongue,0.0005399245
+TONSL,lung microvascular endothelial cell,-0.0014534694
+TONSL,liver,-0.002853174
+TONSL,smooth muscle cell of the coronary artery,0.003374306
+TONSL,aortic smooth muscle cell,-0.005744118
+TONSL,cerebellum,0.004163362
+TONSL,occipital lobe,-0.0003913136
+TONSL,lung,7.9281825e-05
+TONSL,metanephros,-0.005043684
+TONSL,bronchial smooth muscle cell,-0.0040392443
+TONSL,spinal cord,-0.22531165
+TONSL,parietal lobe,0.0063024485
+TONSL,diencephalon,-0.019822149
+TONSL,bronchial epithelial cell,0.0031266937
+TONSL,human nasal epithelial cells,0.011440722
+TONSL,pulmonary artery endothelial cell,0.0023667747
+TONSL,regular cardiac myocyte,-0.0010296835
+TONSL,endothelial cell of coronary artery,-0.0008160304
+TONSL,skeletal muscle tissue,0.0027758796
+TONSL,skin of body,-0.0016787531
+TONSL,frontal cortex,-0.0033376554
+TONSL,camera-type eye,0.003120859
+TONSL,dermis lymphatic vessel endothelial cell,0.004397423
+TONSL,smooth muscle cell of the umbilical artery,0.008467092
+TONSL,tracheal epithelial cell,-0.0014720623
+TONSL,smooth muscle cell of trachea,-0.0021389853
+TONSL,renal cortical epithelial cell,0.67605466
+TONSL,dermis blood vessel endothelial cell,0.025349967
+TONSL,heart,-0.0067773922
+TONSL,thyroid gland,0.000285291
+TONSL,urinary bladder,0.001751955
+TONSL,temporal lobe,0.00637933
+TONSL,uterine smooth muscle cell,0.014097793
+TONSL,epithelial cell of umbilical artery,0.0011116115
+TONSL,smooth muscle cell of the pulmonary artery,-0.00930488
+TONSL,smooth muscle cell of bladder,0.00015701161
+TONSL,bladder microvascular endothelial cell,0.0014454777
+TONSL,uterus,0.0002916531
+TONSL,GM12878,0.0012848261
+TONSL,Universal_Human_Reference,0.0020449716
+TONSL,H1_Cell_Line,-0.0044992813
+TONSL,H1_BMP4_Derived_Mesendoderm_Cultured_Cells,-0.0013040457
+TONSL,H1_BMP4_Derived_Trophoblast_Cultured_Cells,0.0012277775
+TONSL,H1_Derived_Mesenchymal_Stem_Cells,0.005201857
+TONSL,H1_Derived_Neuronal_Progenitor_Cultured_Cells,-0.001603339
+TONSL,hESC_Derived_CD184+_Endoderm_Cultured_Cells,0.00040427456
+TONSL,hESC_Derived_CD56+_Ectoderm_Cultured_Cells,0.00047442212
+TONSL,hESC_Derived_CD56+_Mesoderm_Cultured_Cells,-0.0047334963
+TONSL,HUES64_Cell_Line,-0.0014100006
+TONSL,4star,0.0026715111
+TONSL,Breast_Myoepithelial_Cells,3.6631838e-05
+TONSL,Breast_vHMEC,0.0008708293
+TONSL,CD4_Memory_Primary_Cells,-0.00995578
+TONSL,CD4_Naive_Primary_Cells,-0.00061849615
+TONSL,CD8_Naive_Primary_Cells,0.0018703024
+TONSL,Mobilized_CD34_Primary_Cells_Female,-0.01884405
+TONSL,Neurosphere_Cultured_Cells_Cortex_Derived,0.00039481814
+TONSL,Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived,0.0024095275
+TONSL,Penis_Foreskin_Fibroblast_Primary_Cells_skin01,0.001024137
+TONSL,Penis_Foreskin_Fibroblast_Primary_Cells_skin02,-0.0040979697
+TONSL,Penis_Foreskin_Keratinocyte_Primary_Cells_skin02,-0.005763802
+TONSL,Penis_Foreskin_Keratinocyte_Primary_Cells_skin03,0.00016612568
+TONSL,Penis_Foreskin_Melanocyte_Primary_Cells_skin01,0.0073104873
+TONSL,Penis_Foreskin_Melanocyte_Primary_Cells_skin03,-0.0038430789
+TONSL,Peripheral_Blood_Mononuclear_Primary_Cells,0.0036151854
+TONSL,Aorta,0.0010715699
+TONSL,Adult_Liver,0.046779808
+TONSL,Brain_Germinal_Matrix,-0.00021791848
+TONSL,Brain_Hippocampus_Middle,-0.0014402994
+TONSL,Esophagus,-0.0042341426
+TONSL,Fetal_Brain_Female,0.009165874
+TONSL,Fetal_Intestine_Large,-0.0010454312
+TONSL,Fetal_Intestine_Small,0.0030051884
+TONSL,Pancreatic_Islets,0.0025082491
+TONSL,Gastric,-0.007973871
+TONSL,Left_Ventricle,2.424935e-05
+TONSL,Lung.1,-0.0024818655
+TONSL,Ovary.1,0.010767623
+TONSL,Pancreas.1,-0.0009460427
+TONSL,Psoas_Muscle,0.013855932
+TONSL,Right_Atrium,0.0056699463
+TONSL,Right_Ventricle,0.0030522128
+TONSL,Sigmoid_Colon,-0.0075855097
+TONSL,Small_Intestine,-0.0032305247
+TONSL,Thymus,-0.016181536
+TONSL,Spleen.1,-0.023181217
+TONSL,A549,-0.008237363
+TONSL,GM12878.1,0.019307364
+TONSL,HELA,-0.00095499173
+TONSL,HEPG2,-0.0015012434
+TONSL,HMEC,0.0014093971
+TONSL,HSMM,-0.0006744156
+TONSL,HUVEC,-0.0009206589
+TONSL,K562.1,-0.0059772395
+TONSL,NHEK,-0.007845126
+TONSL,NHLF,-0.0048833615
+MED11,Adipose_Subcutaneous,-0.0024628288
+MED11,Adipose_Visceral_Omentum,-0.00065170345
+MED11,Adrenal_Gland,-0.0025054677
+MED11,Artery_Aorta,-0.0008125028
+MED11,Artery_Coronary,0.0052897637
+MED11,Artery_Tibial,-0.23373316
+MED11,Bladder,0.023906602
+MED11,Brain_Amygdala,-0.01214731
+MED11,Brain_Anterior_cingulate_cortex_BA24,0.00083112466
+MED11,Brain_Caudate_basal_ganglia,-0.0022986585
+MED11,Brain_Cerebellar_Hemisphere,0.0030762393
+MED11,Brain_Cerebellum,0.04938677
+MED11,Brain_Cortex,-0.028805112
+MED11,Brain_Frontal_Cortex_BA9,0.0041222046
+MED11,Brain_Hippocampus,0.0002778972
+MED11,Brain_Hypothalamus,0.0002536521
+MED11,Brain_Nucleus_accumbens_basal_ganglia,0.032081384
+MED11,Brain_Putamen_basal_ganglia,-0.0012446593
+MED11,Brain_Spinal_cord_cervical_c1,0.00035063003
+MED11,Brain_Substantia_nigra,0.0007933098
+MED11,Breast_Mammary_Tissue,0.016064048
+MED11,Cells_EBV-transformed_lymphocytes,0.0031191427
+MED11,Cells_Transformed_fibroblasts,-0.006588456
+MED11,Cervix_Ectocervix,-0.002232858
+MED11,Cervix_Endocervix,-0.017742379
+MED11,Colon_Sigmoid,0.0040964806
+MED11,Colon_Transverse,-0.028573887
+MED11,Esophagus_Gastroesophageal_Junction,0.0009242826
+MED11,Esophagus_Mucosa,0.017513577
+MED11,Esophagus_Muscularis,0.004132151
+MED11,Fallopian_Tube,0.0034504859
+MED11,Heart_Atrial_Appendage,-0.0020945487
+MED11,Heart_Left_Ventricle,0.014968667
+MED11,Kidney_Cortex,-0.0025765358
+MED11,Liver,-0.0037017702
+MED11,Lung,0.006354331
+MED11,Minor_Salivary_Gland,0.00023766045
+MED11,Muscle_Skeletal,0.008670026
+MED11,Nerve_Tibial,0.0018115593
+MED11,Ovary,-0.03856541
+MED11,Pancreas,0.0038493352
+MED11,Pituitary,-0.0027315188
+MED11,Prostate,-0.0005438256
+MED11,Skin_Not_Sun_Exposed_Suprapubic,0.0024414626
+MED11,Skin_Sun_Exposed_Lower_leg,-0.004835993
+MED11,Small_Intestine_Terminal_Ileum,-0.0015973129
+MED11,Spleen,0.00039636556
+MED11,Stomach,-0.00084614474
+MED11,Testis,-0.027599216
+MED11,Thyroid,0.002306163
+MED11,Uterus,-0.0071620797
+MED11,Vagina,-0.009330499
+MED11,Whole_Blood,-0.0020152377
+MED11,cardiac ventricle fibroblast,-0.004520329
+MED11,hair follicular keratinocyte,0.0003097075
+MED11,airway epithelial cell,0.0013994318
+MED11,epithelial cell of proximal tubule,-0.0010937082
+MED11,pericardium fibroblast,-0.0016662698
+MED11,mesangial cell,-0.0007191527
+MED11,bronchial fibroblast,-0.002502625
+MED11,glomerular endothelial cell,-0.0052630566
+MED11,kidney epithelial cell,0.004738758
+MED11,mammary microvascular endothelial cell,0.0022817804
+MED11,epithelial cell of alveolus of lung,-0.02914667
+MED11,myometrial cell,0.0050016902
+MED11,cardiac atrium fibroblast,0.0075312066
+MED11,endometrial microvascular endothelial cell,-0.008275157
+MED11,smooth muscle cell,0.008441445
+MED11,hepatocyte,0.0024991499
+MED11,neural progenitor cell,0.0012097346
+MED11,HT1080,0.0042312695
+MED11,SK-N-DZ,0.0032979506
+MED11,SK-MEL-5,0.020880438
+MED11,NCI-H460,0.0043705036
+MED11,astrocyte,-0.0023474942
+MED11,LHCN-M2,-0.0024535258
+MED11,K562,0.0026045605
+MED11,HepG2,0.00881003
+MED11,MCF-7,-0.0017133623
+MED11,bipolar spindle neuron,0.00086017273
+MED11,skeletal muscle myoblast,0.001981942
+MED11,myotube,-0.00030452744
+MED11,H7-hESC,0.0054367776
+MED11,RPMI-7951,-0.0001658868
+MED11,M059J,0.0015897913
+MED11,H4,-7.249251e-05
+MED11,MG63,0.0006360236
+MED11,G401,-0.010316632
+MED11,Caki2,-0.009745909
+MED11,SJSA1,0.0020860166
+MED11,Daoy,-0.005687397
+MED11,A172,0.004702074
+MED11,induced pluripotent stem cell,0.0047029313
+MED11,fibroblast of arm,0.03615701
+MED11,A375,0.016620437
+MED11,HT-29,0.0012908401
+MED11,PC-3,0.0010512908
+MED11,Karpas-422,0.002690051
+MED11,Oci-Ly-7,0.010031532
+MED11,SJCRH30,-0.020853957
+MED11,neural cell,0.0028941429
+MED11,umbilical cord,0.003251449
+MED11,pericyte cell,0.0035921973
+MED11,melanocyte of skin,0.0012441019
+MED11,placental epithelial cell,-0.00011101907
+MED11,hair follicle dermal papilla cell,0.00052376406
+MED11,hematopoietic multipotent progenitor cell,0.00069343933
+MED11,vein endothelial cell,0.002388237
+MED11,osteoblast,0.009271312
+MED11,articular chondrocyte of knee joint,-0.0030417938
+MED11,thoracic aorta endothelial cell,-0.0019386866
+MED11,fibroblast of the aortic adventitia,0.004397766
+MED11,skeletal muscle satellite cell,0.007964848
+MED11,fibroblast of dermis,-0.0017527075
+MED11,mammary epithelial cell,0.01795272
+MED11,subcutaneous preadipocyte,0.004651332
+MED11,fibroblast of villous mesenchyme,-0.0016886536
+MED11,endothelial cell of umbilical vein,-0.0031489106
+MED11,fibroblast of lung,0.0017631203
+MED11,keratinocyte,0.0052755415
+MED11,stomach,0.007543183
+MED11,dermis microvascular lymphatic vessel endothelial cell,-0.0022122744
+MED11,tongue,-0.0058473772
+MED11,lung microvascular endothelial cell,0.00087495433
+MED11,liver,0.01027523
+MED11,smooth muscle cell of the coronary artery,-0.0034484146
+MED11,aortic smooth muscle cell,0.0031639326
+MED11,cerebellum,-0.012366117
+MED11,occipital lobe,-0.0015411855
+MED11,lung,0.0027887532
+MED11,metanephros,0.002194892
+MED11,bronchial smooth muscle cell,0.0033441074
+MED11,spinal cord,-0.17059237
+MED11,parietal lobe,0.0013925591
+MED11,diencephalon,-0.024222251
+MED11,bronchial epithelial cell,-0.003921197
+MED11,human nasal epithelial cells,0.01880209
+MED11,pulmonary artery endothelial cell,-0.0003357492
+MED11,regular cardiac myocyte,-0.00837609
+MED11,endothelial cell of coronary artery,0.0011762257
+MED11,skeletal muscle tissue,0.0024404323
+MED11,skin of body,0.0028476282
+MED11,frontal cortex,-0.0037973826
+MED11,camera-type eye,-0.0036598716
+MED11,dermis lymphatic vessel endothelial cell,-0.006651259
+MED11,smooth muscle cell of the umbilical artery,0.0010397763
+MED11,tracheal epithelial cell,0.0041913143
+MED11,smooth muscle cell of trachea,0.0008257963
+MED11,renal cortical epithelial cell,0.044994537
+MED11,dermis blood vessel endothelial cell,-0.014796821
+MED11,heart,0.014701587
+MED11,thyroid gland,0.00056657154
+MED11,urinary bladder,-0.0012559339
+MED11,temporal lobe,0.005637055
+MED11,uterine smooth muscle cell,0.00022270034
+MED11,epithelial cell of umbilical artery,-0.004479269
+MED11,smooth muscle cell of the pulmonary artery,0.021148242
+MED11,smooth muscle cell of bladder,0.00278841
+MED11,bladder microvascular endothelial cell,-0.0011150504
+MED11,uterus,-0.00087083894
+MED11,GM12878,0.0011260468
+MED11,Universal_Human_Reference,0.0038704327
+MED11,H1_Cell_Line,0.0028126126
+MED11,H1_BMP4_Derived_Mesendoderm_Cultured_Cells,-0.012143581
+MED11,H1_BMP4_Derived_Trophoblast_Cultured_Cells,-0.0018524961
+MED11,H1_Derived_Mesenchymal_Stem_Cells,-0.0044607236
+MED11,H1_Derived_Neuronal_Progenitor_Cultured_Cells,0.0073274276
+MED11,hESC_Derived_CD184+_Endoderm_Cultured_Cells,-0.016689304
+MED11,hESC_Derived_CD56+_Ectoderm_Cultured_Cells,0.001025512
+MED11,hESC_Derived_CD56+_Mesoderm_Cultured_Cells,0.0042444733
+MED11,HUES64_Cell_Line,0.0007022062
+MED11,4star,0.02412243
+MED11,Breast_Myoepithelial_Cells,-0.0032691357
+MED11,Breast_vHMEC,0.013814028
+MED11,CD4_Memory_Primary_Cells,0.006730296
+MED11,CD4_Naive_Primary_Cells,0.0032222774
+MED11,CD8_Naive_Primary_Cells,-0.00016218875
+MED11,Mobilized_CD34_Primary_Cells_Female,0.021579674
+MED11,Neurosphere_Cultured_Cells_Cortex_Derived,-0.0093106795
+MED11,Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived,0.0010021387
+MED11,Penis_Foreskin_Fibroblast_Primary_Cells_skin01,0.001631021
+MED11,Penis_Foreskin_Fibroblast_Primary_Cells_skin02,-0.0020632027
+MED11,Penis_Foreskin_Keratinocyte_Primary_Cells_skin02,0.05050134
+MED11,Penis_Foreskin_Keratinocyte_Primary_Cells_skin03,0.0008106704
+MED11,Penis_Foreskin_Melanocyte_Primary_Cells_skin01,0.00075429067
+MED11,Penis_Foreskin_Melanocyte_Primary_Cells_skin03,-0.0033819582
+MED11,Peripheral_Blood_Mononuclear_Primary_Cells,0.009933324
+MED11,Aorta,-0.0065186587
+MED11,Adult_Liver,-0.046692327
+MED11,Brain_Germinal_Matrix,0.014469873
+MED11,Brain_Hippocampus_Middle,0.0033423917
+MED11,Esophagus,0.0072825956
+MED11,Fetal_Brain_Female,0.0045853304
+MED11,Fetal_Intestine_Large,-0.004409574
+MED11,Fetal_Intestine_Small,-0.016284762
+MED11,Pancreatic_Islets,-0.00012667078
+MED11,Gastric,0.0012817332
+MED11,Left_Ventricle,0.0017060906
+MED11,Lung.1,6.6211804e-05
+MED11,Ovary.1,-0.0011571333
+MED11,Pancreas.1,-0.000804243
+MED11,Psoas_Muscle,0.0033936945
+MED11,Right_Atrium,-0.014003845
+MED11,Right_Ventricle,0.0013367176
+MED11,Sigmoid_Colon,0.0138358325
+MED11,Small_Intestine,0.012984898
+MED11,Thymus,0.011660811
+MED11,Spleen.1,0.016613126
+MED11,A549,-0.0059221503
+MED11,GM12878.1,0.0032830222
+MED11,HELA,-0.0032089788
+MED11,HEPG2,0.0010289492
+MED11,HMEC,0.00047717293
+MED11,HSMM,0.0014097408
+MED11,HUVEC,-7.739221e-07
+MED11,K562.1,0.0024090123
+MED11,NHEK,0.0020145734
+MED11,NHLF,-0.002105227
+SYT2,Adipose_Subcutaneous,0.00083782815
+SYT2,Adipose_Visceral_Omentum,-0.0021525922
+SYT2,Adrenal_Gland,0.0007599631
+SYT2,Artery_Aorta,-0.00022651894
+SYT2,Artery_Coronary,-2.5109686e-05
+SYT2,Artery_Tibial,-0.008269017
+SYT2,Bladder,-0.0018807377
+SYT2,Brain_Amygdala,0.0017598566
+SYT2,Brain_Anterior_cingulate_cortex_BA24,0.000515168
+SYT2,Brain_Caudate_basal_ganglia,0.000601298
+SYT2,Brain_Cerebellar_Hemisphere,0.0001358599
+SYT2,Brain_Cerebellum,-0.0052527
+SYT2,Brain_Cortex,-0.0062880404
+SYT2,Brain_Frontal_Cortex_BA9,-0.0008839176
+SYT2,Brain_Hippocampus,0.00019071615
+SYT2,Brain_Hypothalamus,3.9555467e-05
+SYT2,Brain_Nucleus_accumbens_basal_ganglia,-0.0069794874
+SYT2,Brain_Putamen_basal_ganglia,-0.0008006294
+SYT2,Brain_Spinal_cord_cervical_c1,-0.0012038647
+SYT2,Brain_Substantia_nigra,0.0025590665
+SYT2,Breast_Mammary_Tissue,-0.005019609
+SYT2,Cells_EBV-transformed_lymphocytes,-0.00048653496
+SYT2,Cells_Transformed_fibroblasts,-7.197654e-05
+SYT2,Cervix_Ectocervix,-0.0005541485
+SYT2,Cervix_Endocervix,-0.0013613688
+SYT2,Colon_Sigmoid,-0.0017595091
+SYT2,Colon_Transverse,0.006806299
+SYT2,Esophagus_Gastroesophageal_Junction,0.00059304625
+SYT2,Esophagus_Mucosa,0.00059029565
+SYT2,Esophagus_Muscularis,5.1077943e-05
+SYT2,Fallopian_Tube,0.00076065067
+SYT2,Heart_Atrial_Appendage,0.000298531
+SYT2,Heart_Left_Ventricle,0.006040267
+SYT2,Kidney_Cortex,0.00045207154
+SYT2,Liver,0.0009053765
+SYT2,Lung,-0.0035521134
+SYT2,Minor_Salivary_Gland,-0.00067028607
+SYT2,Muscle_Skeletal,0.0018311406
+SYT2,Nerve_Tibial,-5.0133815e-05
+SYT2,Ovary,0.00033120057
+SYT2,Pancreas,0.00021393056
+SYT2,Pituitary,0.00030128215
+SYT2,Prostate,0.0008450472
+SYT2,Skin_Not_Sun_Exposed_Suprapubic,0.0003115989
+SYT2,Skin_Sun_Exposed_Lower_leg,0.0010696794
+SYT2,Small_Intestine_Terminal_Ileum,0.0019302453
+SYT2,Spleen,0.0007697609
+SYT2,Stomach,-0.0063747554
+SYT2,Testis,-0.0041233236
+SYT2,Thyroid,-0.008615173
+SYT2,Uterus,-0.0068735546
+SYT2,Vagina,-0.004697175
+SYT2,Whole_Blood,6.20844e-05
+SYT2,cardiac ventricle fibroblast,0.00017833499
+SYT2,hair follicular keratinocyte,0.0020738235
+SYT2,airway epithelial cell,0.0001358599
+SYT2,epithelial cell of proximal tubule,0.0053147813
+SYT2,pericardium fibroblast,0.0036752275
+SYT2,mesangial cell,-0.0021115136
+SYT2,bronchial fibroblast,0.000833531
+SYT2,glomerular endothelial cell,-0.0005736762
+SYT2,kidney epithelial cell,0.00054852036
+SYT2,mammary microvascular endothelial cell,0.00039430233
+SYT2,epithelial cell of alveolus of lung,-0.00037411076
+SYT2,myometrial cell,0.0039784876
+SYT2,cardiac atrium fibroblast,0.0035348968
+SYT2,endometrial microvascular endothelial cell,-0.0011142759
+SYT2,smooth muscle cell,0.0019353979
+SYT2,hepatocyte,-0.00018291514
+SYT2,neural progenitor cell,-0.00033488908
+SYT2,HT1080,-0.00066022045
+SYT2,SK-N-DZ,-0.00058021414
+SYT2,SK-MEL-5,-0.0011077354
+SYT2,NCI-H460,0.001072601
+SYT2,astrocyte,0.0012862007
+SYT2,LHCN-M2,0.0003587112
+SYT2,K562,0.00069292367
+SYT2,HepG2,-0.0007409195
+SYT2,MCF-7,0.00050364924
+SYT2,bipolar spindle neuron,0.0007149267
+SYT2,skeletal muscle myoblast,-0.00077998015
+SYT2,myotube,-0.0009124845
+SYT2,H7-hESC,-0.0017081967
+SYT2,RPMI-7951,-1.0318963e-06
+SYT2,M059J,-0.0012108359
+SYT2,H4,0.0001497891
+SYT2,MG63,0.00053132855
+SYT2,G401,0.0019637367
+SYT2,Caki2,0.001194269
+SYT2,SJSA1,0.0017404461
+SYT2,Daoy,0.0028757774
+SYT2,A172,0.00048903574
+SYT2,induced pluripotent stem cell,0.00052892166
+SYT2,fibroblast of arm,-0.00871786
+SYT2,A375,-0.0034054029
+SYT2,HT-29,0.00072317774
+SYT2,PC-3,0.0019652825
+SYT2,Karpas-422,0.0005719009
+SYT2,Oci-Ly-7,0.001150449
+SYT2,SJCRH30,0.002507734
+SYT2,neural cell,3.2332377e-05
+SYT2,umbilical cord,3.181644e-05
+SYT2,pericyte cell,-0.00026341548
+SYT2,melanocyte of skin,-0.00051758863
+SYT2,placental epithelial cell,-6.707479e-05
+SYT2,hair follicle dermal papilla cell,0.00030472106
+SYT2,hematopoietic multipotent progenitor cell,0.00065871514
+SYT2,vein endothelial cell,-0.00011712494
+SYT2,osteoblast,0.021492753
+SYT2,articular chondrocyte of knee joint,-0.0034517762
+SYT2,thoracic aorta endothelial cell,-0.0011136734
+SYT2,fibroblast of the aortic adventitia,-8.427396e-05
+SYT2,skeletal muscle satellite cell,0.0008550163
+SYT2,fibroblast of dermis,-0.0013321906
+SYT2,mammary epithelial cell,0.001924921
+SYT2,subcutaneous preadipocyte,-0.006978796
+SYT2,fibroblast of villous mesenchyme,-4.0072515e-05
+SYT2,endothelial cell of umbilical vein,-0.00074831856
+SYT2,fibroblast of lung,0.00089592335
+SYT2,keratinocyte,-8.607988e-05
+SYT2,stomach,-0.001756668
+SYT2,dermis microvascular lymphatic vessel endothelial cell,-0.00056980504
+SYT2,tongue,-0.0013488884
+SYT2,lung microvascular endothelial cell,0.0012430708
+SYT2,liver,-0.0002559329
+SYT2,smooth muscle cell of the coronary artery,0.0017036857
+SYT2,aortic smooth muscle cell,0.001597522
+SYT2,cerebellum,0.0004634188
+SYT2,occipital lobe,4.00714e-05
+SYT2,lung,0.00017644341
+SYT2,metanephros,0.0009031421
+SYT2,bronchial smooth muscle cell,-0.002616852
+SYT2,spinal cord,0.050684165
+SYT2,parietal lobe,0.0015973501
+SYT2,diencephalon,0.013222815
+SYT2,bronchial epithelial cell,-0.00052249193
+SYT2,human nasal epithelial cells,-0.008111881
+SYT2,pulmonary artery endothelial cell,0.00039137944
+SYT2,regular cardiac myocyte,-0.0039612926
+SYT2,endothelial cell of coronary artery,6.432008e-05
+SYT2,skeletal muscle tissue,0.00022957857
+SYT2,skin of body,-0.00041135514
+SYT2,frontal cortex,0.0015844656
+SYT2,camera-type eye,-0.0010622978
+SYT2,dermis lymphatic vessel endothelial cell,0.0050387094
+SYT2,smooth muscle cell of the umbilical artery,0.008746782
+SYT2,tracheal epithelial cell,5.6753157e-05
+SYT2,smooth muscle cell of trachea,0.0017076366
+SYT2,renal cortical epithelial cell,0.12535514
+SYT2,dermis blood vessel endothelial cell,0.0037947895
+SYT2,heart,0.0042016036
+SYT2,thyroid gland,0.00018452559
+SYT2,urinary bladder,0.00036146224
+SYT2,temporal lobe,-0.001432983
+SYT2,uterine smooth muscle cell,-0.0005794399
+SYT2,epithelial cell of umbilical artery,0.0007642604
+SYT2,smooth muscle cell of the pulmonary artery,-0.007976985
+SYT2,smooth muscle cell of bladder,0.0014612842
+SYT2,bladder microvascular endothelial cell,0.0010416667
+SYT2,uterus,0.00029148115
+SYT2,GM12878,0.0032476739
+SYT2,Universal_Human_Reference,-0.002177567
+SYT2,H1_Cell_Line,0.0018782032
+SYT2,H1_BMP4_Derived_Mesendoderm_Cultured_Cells,0.00027394237
+SYT2,H1_BMP4_Derived_Trophoblast_Cultured_Cells,-0.0016336419
+SYT2,H1_Derived_Mesenchymal_Stem_Cells,-0.0032720661
+SYT2,H1_Derived_Neuronal_Progenitor_Cultured_Cells,0.0002956079
+SYT2,hESC_Derived_CD184+_Endoderm_Cultured_Cells,0.0010842871
+SYT2,hESC_Derived_CD56+_Ectoderm_Cultured_Cells,0.0009107046
+SYT2,hESC_Derived_CD56+_Mesoderm_Cultured_Cells,-0.0009908743
+SYT2,HUES64_Cell_Line,0.00062313053
+SYT2,4star,-0.0031847616
+SYT2,Breast_Myoepithelial_Cells,0.0011117833
+SYT2,Breast_vHMEC,0.0049518156
+SYT2,CD4_Memory_Primary_Cells,0.004370332
+SYT2,CD4_Naive_Primary_Cells,-0.00021146817
+SYT2,CD8_Naive_Primary_Cells,-5.3659584e-05
+SYT2,Mobilized_CD34_Primary_Cells_Female,0.017664107
+SYT2,Neurosphere_Cultured_Cells_Cortex_Derived,-0.0012434543
+SYT2,Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived,0.00014136282
+SYT2,Penis_Foreskin_Fibroblast_Primary_Cells_skin01,-3.4396535e-07
+SYT2,Penis_Foreskin_Fibroblast_Primary_Cells_skin02,-0.0002848314
+SYT2,Penis_Foreskin_Keratinocyte_Primary_Cells_skin02,0.00052617094
+SYT2,Penis_Foreskin_Keratinocyte_Primary_Cells_skin03,9.940255e-05
+SYT2,Penis_Foreskin_Melanocyte_Primary_Cells_skin01,-0.0007161415
+SYT2,Penis_Foreskin_Melanocyte_Primary_Cells_skin03,-0.00034632863
+SYT2,Peripheral_Blood_Mononuclear_Primary_Cells,-0.001973388
+SYT2,Aorta,7.8937876e-05
+SYT2,Adult_Liver,0.0053685843
+SYT2,Brain_Germinal_Matrix,0.00023250181
+SYT2,Brain_Hippocampus_Middle,-0.0013988109
+SYT2,Esophagus,-0.0036006467
+SYT2,Fetal_Brain_Female,-0.010015439
+SYT2,Fetal_Intestine_Large,-0.0009123124
+SYT2,Fetal_Intestine_Small,-0.01965817
+SYT2,Pancreatic_Islets,-0.001115997
+SYT2,Gastric,0.0024182838
+SYT2,Left_Ventricle,-0.0005618907
+SYT2,Lung.1,-0.00023382936
+SYT2,Ovary.1,0.00042370302
+SYT2,Pancreas.1,0.00023628482
+SYT2,Psoas_Muscle,-0.0031545123
+SYT2,Right_Atrium,0.004270023
+SYT2,Right_Ventricle,0.0012298395
+SYT2,Sigmoid_Colon,-0.0024077012
+SYT2,Small_Intestine,0.0007558377
+SYT2,Thymus,0.0054474003
+SYT2,Spleen.1,0.0032269105
+SYT2,A549,0.002107655
+SYT2,GM12878.1,0.0025156315
+SYT2,HELA,0.00085759454
+SYT2,HEPG2,0.00044691368
+SYT2,HMEC,0.0011487306
+SYT2,HSMM,-0.00016081273
+SYT2,HUVEC,-0.0003123543
+SYT2,K562.1,0.00125424
+SYT2,NHEK,-0.0007325741
+SYT2,NHLF,0.0011165951
+COL16A1,Adipose_Subcutaneous,0.00015907518
+COL16A1,Adipose_Visceral_Omentum,-0.0005674824
+COL16A1,Adrenal_Gland,-0.0011218489
+COL16A1,Artery_Aorta,0.00029835905
+COL16A1,Artery_Coronary,-0.0026245192
+COL16A1,Artery_Tibial,-0.0057897028
+COL16A1,Bladder,-0.0017190444
+COL16A1,Brain_Amygdala,0.0011631656
+COL16A1,Brain_Anterior_cingulate_cortex_BA24,2.5625188e-05
+COL16A1,Brain_Caudate_basal_ganglia,0.001006779
+COL16A1,Brain_Cerebellar_Hemisphere,-0.00022376678
+COL16A1,Brain_Cerebellum,-0.004678972
+COL16A1,Brain_Cortex,0.0058578593
+COL16A1,Brain_Frontal_Cortex_BA9,-0.0015932668
+COL16A1,Brain_Hippocampus,-0.0009521521
+COL16A1,Brain_Hypothalamus,0.00030730027
+COL16A1,Brain_Nucleus_accumbens_basal_ganglia,-0.00043208513
+COL16A1,Brain_Putamen_basal_ganglia,0.00019621885
+COL16A1,Brain_Spinal_cord_cervical_c1,0.00093682925
+COL16A1,Brain_Substantia_nigra,-0.001110059
+COL16A1,Breast_Mammary_Tissue,-0.004523089
+COL16A1,Cells_EBV-transformed_lymphocytes,0.0013389513
+COL16A1,Cells_Transformed_fibroblasts,-0.0006338953
+COL16A1,Cervix_Ectocervix,0.0007871218
+COL16A1,Cervix_Endocervix,0.0041462136
+COL16A1,Colon_Sigmoid,-0.0026235715
+COL16A1,Colon_Transverse,0.0030908266
+COL16A1,Esophagus_Gastroesophageal_Junction,0.0005155119
+COL16A1,Esophagus_Mucosa,-0.016350511
+COL16A1,Esophagus_Muscularis,-0.0012299421
+COL16A1,Fallopian_Tube,-0.001509249
+COL16A1,Heart_Atrial_Appendage,0.00016251445
+COL16A1,Heart_Left_Ventricle,0.011882742
+COL16A1,Kidney_Cortex,0.0017169127
+COL16A1,Liver,-0.0014491655
+COL16A1,Lung,-0.0014963369
+COL16A1,Minor_Salivary_Gland,-0.00037643313
+COL16A1,Muscle_Skeletal,-0.00600159
+COL16A1,Nerve_Tibial,-0.00017001487
+COL16A1,Ovary,0.013457625
+COL16A1,Pancreas,-0.00076552585
+COL16A1,Pituitary,0.0011815528
+COL16A1,Prostate,0.00057430775
+COL16A1,Skin_Not_Sun_Exposed_Suprapubic,-0.0015501382
+COL16A1,Skin_Sun_Exposed_Lower_leg,0.003720343
+COL16A1,Small_Intestine_Terminal_Ileum,0.002894658
+COL16A1,Spleen,-0.0013292641
+COL16A1,Stomach,-0.007639279
+COL16A1,Testis,0.0035000693
+COL16A1,Thyroid,0.0011198602
+COL16A1,Uterus,-0.0056966348
+COL16A1,Vagina,0.0015494192
+COL16A1,Whole_Blood,-0.00049479294
+COL16A1,cardiac ventricle fibroblast,0.00062725635
+COL16A1,hair follicular keratinocyte,-7.911419e-05
+COL16A1,airway epithelial cell,0.00021066336
+COL16A1,epithelial cell of proximal tubule,0.0014631741
+COL16A1,pericardium fibroblast,0.0015693477
+COL16A1,mesangial cell,2.2701532e-05
+COL16A1,bronchial fibroblast,0.00018504147
+COL16A1,glomerular endothelial cell,0.0016543841
+COL16A1,kidney epithelial cell,-0.000541675
+COL16A1,mammary microvascular endothelial cell,-8.470394e-05
+COL16A1,epithelial cell of alveolus of lung,-0.0014489072
+COL16A1,myometrial cell,0.0037745486
+COL16A1,cardiac atrium fibroblast,-0.00046898692
+COL16A1,endometrial microvascular endothelial cell,0.0025971786
+COL16A1,smooth muscle cell,-0.0048317653
+COL16A1,hepatocyte,-0.0007231963
+COL16A1,neural progenitor cell,5.795699e-05
+COL16A1,HT1080,-0.00046468596
+COL16A1,SK-N-DZ,0.000257607
+COL16A1,SK-MEL-5,-0.0012184955
+COL16A1,NCI-H460,0.0015717528
+COL16A1,astrocyte,-0.0015421325
+COL16A1,LHCN-M2,0.00054456625
+COL16A1,K562,-0.0012180653
+COL16A1,HepG2,-0.0016370855
+COL16A1,MCF-7,-0.0008504469
+COL16A1,bipolar spindle neuron,0.0017586541
+COL16A1,skeletal muscle myoblast,-0.0013437241
+COL16A1,myotube,-0.00093958917
+COL16A1,H7-hESC,-0.0031730412
+COL16A1,RPMI-7951,0.00037074694
+COL16A1,M059J,0.0014599097
+COL16A1,H4,-0.00040868865
+COL16A1,MG63,-0.00074134965
+COL16A1,G401,0.0002803045
+COL16A1,Caki2,0.0009014234
+COL16A1,SJSA1,-0.0017143093
+COL16A1,Daoy,0.00013156072
+COL16A1,A172,-0.000993714
+COL16A1,induced pluripotent stem cell,-0.001353192
+COL16A1,fibroblast of arm,0.038303476
+COL16A1,A375,-0.000754169
+COL16A1,HT-29,-0.0018787574
+COL16A1,PC-3,0.00042851712
+COL16A1,Karpas-422,-0.0010076542
+COL16A1,Oci-Ly-7,0.0010583369
+COL16A1,SJCRH30,0.0034582068
+COL16A1,neural cell,-0.004049765
+COL16A1,umbilical cord,0.00011040864
+COL16A1,pericyte cell,-0.00087255985
+COL16A1,melanocyte of skin,-0.00040886068
+COL16A1,placental epithelial cell,0.00010301393
+COL16A1,hair follicle dermal papilla cell,-7.4384414e-05
+COL16A1,hematopoietic multipotent progenitor cell,0.0005373457
+COL16A1,vein endothelial cell,-0.0011503345
+COL16A1,osteoblast,-0.020602718
+COL16A1,articular chondrocyte of knee joint,-0.0013919249
+COL16A1,thoracic aorta endothelial cell,9.235173e-05
+COL16A1,fibroblast of the aortic adventitia,-0.0019909544
+COL16A1,skeletal muscle satellite cell,0.0007037533
+COL16A1,fibroblast of dermis,0.0016715626
+COL16A1,mammary epithelial cell,0.005688619
+COL16A1,subcutaneous preadipocyte,0.0022644373
+COL16A1,fibroblast of villous mesenchyme,0.00015907518
+COL16A1,endothelial cell of umbilical vein,-0.0024204494
+COL16A1,fibroblast of lung,0.0028416207
+COL16A1,keratinocyte,-0.0010568765
+COL16A1,stomach,0.00023009443
+COL16A1,dermis microvascular lymphatic vessel endothelial cell,0.00022493576
+COL16A1,tongue,0.003700959
+COL16A1,lung microvascular endothelial cell,0.0009339074
+COL16A1,liver,0.00062175526
+COL16A1,smooth muscle cell of the coronary artery,5.176585e-05
+COL16A1,aortic smooth muscle cell,-0.00050700794
+COL16A1,cerebellum,0.0007549782
+COL16A1,occipital lobe,-0.00030203315
+COL16A1,lung,-0.0011412982
+COL16A1,metanephros,-0.0028487798
+COL16A1,bronchial smooth muscle cell,-0.0019660688
+COL16A1,spinal cord,0.71011865
+COL16A1,parietal lobe,0.0016502612
+COL16A1,diencephalon,0.0076839793
+COL16A1,bronchial epithelial cell,-2.7431493e-05
+COL16A1,human nasal epithelial cells,6.0364648e-05
+COL16A1,pulmonary artery endothelial cell,-0.0011273567
+COL16A1,regular cardiac myocyte,0.0025734876
+COL16A1,endothelial cell of coronary artery,-0.00019099937
+COL16A1,skeletal muscle tissue,-0.0017992861
+COL16A1,skin of body,-0.004338157
+COL16A1,frontal cortex,0.0014815575
+COL16A1,camera-type eye,-0.0008076846
+COL16A1,dermis lymphatic vessel endothelial cell,0.0002744582
+COL16A1,smooth muscle cell of the umbilical artery,0.014638938
+COL16A1,tracheal epithelial cell,-0.0009996515
+COL16A1,smooth muscle cell of trachea,-0.0003319647
+COL16A1,renal cortical epithelial cell,0.002363684
+COL16A1,dermis blood vessel endothelial cell,0.030871686
+COL16A1,heart,-0.00429693
+COL16A1,thyroid gland,-0.00032783617
+COL16A1,urinary bladder,0.002348746
+COL16A1,temporal lobe,-0.00010560121
+COL16A1,uterine smooth muscle cell,-0.002397796
+COL16A1,epithelial cell of umbilical artery,0.0005963126
+COL16A1,smooth muscle cell of the pulmonary artery,-0.0057014693
+COL16A1,smooth muscle cell of bladder,-0.0016461248
+COL16A1,bladder microvascular endothelial cell,-0.001594472
+COL16A1,uterus,0.0014745134
+COL16A1,GM12878,-0.0047197784
+COL16A1,Universal_Human_Reference,-0.0009769342
+COL16A1,H1_Cell_Line,-0.0020716419
+COL16A1,H1_BMP4_Derived_Mesendoderm_Cultured_Cells,0.00046496614
+COL16A1,H1_BMP4_Derived_Trophoblast_Cultured_Cells,-0.00090732175
+COL16A1,H1_Derived_Mesenchymal_Stem_Cells,-0.0019939684
+COL16A1,H1_Derived_Neuronal_Progenitor_Cultured_Cells,-0.0024931496
+COL16A1,hESC_Derived_CD184+_Endoderm_Cultured_Cells,0.0013355148
+COL16A1,hESC_Derived_CD56+_Ectoderm_Cultured_Cells,0.0003062686
+COL16A1,hESC_Derived_CD56+_Mesoderm_Cultured_Cells,-0.006035353
+COL16A1,HUES64_Cell_Line,-0.00014817066
+COL16A1,4star,-0.009470629
+COL16A1,Breast_Myoepithelial_Cells,-0.0003551879
+COL16A1,Breast_vHMEC,0.0060140635
+COL16A1,CD4_Memory_Primary_Cells,-0.0190969
+COL16A1,CD4_Naive_Primary_Cells,-0.00032448175
+COL16A1,CD8_Naive_Primary_Cells,-0.0001258968
+COL16A1,Mobilized_CD34_Primary_Cells_Female,0.032074153
+COL16A1,Neurosphere_Cultured_Cells_Cortex_Derived,-0.00059131155
+COL16A1,Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived,5.348561e-05
+COL16A1,Penis_Foreskin_Fibroblast_Primary_Cells_skin01,-0.00039810876
+COL16A1,Penis_Foreskin_Fibroblast_Primary_Cells_skin02,1.3070622e-05
+COL16A1,Penis_Foreskin_Keratinocyte_Primary_Cells_skin02,0.009974315
+COL16A1,Penis_Foreskin_Keratinocyte_Primary_Cells_skin03,-0.00017741101
+COL16A1,Penis_Foreskin_Melanocyte_Primary_Cells_skin01,0.0011179699
+COL16A1,Penis_Foreskin_Melanocyte_Primary_Cells_skin03,0.00075222796
+COL16A1,Peripheral_Blood_Mononuclear_Primary_Cells,0.0015260546
+COL16A1,Aorta,0.0009485164
+COL16A1,Adult_Liver,0.020477114
+COL16A1,Brain_Germinal_Matrix,0.000812733
+COL16A1,Brain_Hippocampus_Middle,-0.0017624364
+COL16A1,Esophagus,-0.003201567
+COL16A1,Fetal_Brain_Female,0.0030414008
+COL16A1,Fetal_Intestine_Large,-0.0037112534
+COL16A1,Fetal_Intestine_Small,0.11898811
+COL16A1,Pancreatic_Islets,7.2232533e-06
+COL16A1,Gastric,0.0014329355
+COL16A1,Left_Ventricle,0.0002615619
+COL16A1,Lung.1,0.00027394237
+COL16A1,Ovary.1,0.0012183265
+COL16A1,Pancreas.1,-0.0005175026
+COL16A1,Psoas_Muscle,-0.0045491406
+COL16A1,Right_Atrium,-0.0041868817
+COL16A1,Right_Ventricle,0.0009455946
+COL16A1,Sigmoid_Colon,-0.004324443
+COL16A1,Small_Intestine,-0.0033987658
+COL16A1,Thymus,-0.0017628669
+COL16A1,Spleen.1,-0.006767111
+COL16A1,A549,-0.002850503
+COL16A1,GM12878.1,-0.001151023
+COL16A1,HELA,0.0014769187
+COL16A1,HEPG2,-0.00035028518
+COL16A1,HMEC,-0.00036602552
+COL16A1,HSMM,-0.00045023483
+COL16A1,HUVEC,0.00032019615
+COL16A1,K562.1,-0.0019621078
+COL16A1,NHEK,-0.001356807
+COL16A1,NHLF,-0.0008663647
+TFIP11,Adipose_Subcutaneous,-0.0035592683
+TFIP11,Adipose_Visceral_Omentum,-0.00096635014
+TFIP11,Adrenal_Gland,0.0033993567
+TFIP11,Artery_Aorta,0.00082803075
+TFIP11,Artery_Coronary,0.005381606
+TFIP11,Artery_Tibial,0.22621681
+TFIP11,Bladder,0.029296832
+TFIP11,Brain_Amygdala,0.018880345
+TFIP11,Brain_Anterior_cingulate_cortex_BA24,-0.0027123066
+TFIP11,Brain_Caudate_basal_ganglia,-0.0004116132
+TFIP11,Brain_Cerebellar_Hemisphere,0.0018782032
+TFIP11,Brain_Cerebellum,0.012602205
+TFIP11,Brain_Cortex,-0.004826675
+TFIP11,Brain_Frontal_Cortex_BA9,0.0016475127
+TFIP11,Brain_Hippocampus,-0.00018171112
+TFIP11,Brain_Hypothalamus,-0.00062090496
+TFIP11,Brain_Nucleus_accumbens_basal_ganglia,0.03028759
+TFIP11,Brain_Putamen_basal_ganglia,0.0038014792
+TFIP11,Brain_Spinal_cord_cervical_c1,0.0007776679
+TFIP11,Brain_Substantia_nigra,0.0035700665
+TFIP11,Breast_Mammary_Tissue,0.0030963183
+TFIP11,Cells_EBV-transformed_lymphocytes,0.0006057677
+TFIP11,Cells_Transformed_fibroblasts,-0.011136614
+TFIP11,Cervix_Ectocervix,-0.008588184
+TFIP11,Cervix_Endocervix,-0.0047083045
+TFIP11,Colon_Sigmoid,0.009264989
+TFIP11,Colon_Transverse,0.0020447997
+TFIP11,Esophagus_Gastroesophageal_Junction,-0.00083590584
+TFIP11,Esophagus_Mucosa,0.04354517
+TFIP11,Esophagus_Muscularis,0.0007383046
+TFIP11,Fallopian_Tube,0.0033125356
+TFIP11,Heart_Atrial_Appendage,7.085511e-05
+TFIP11,Heart_Left_Ventricle,-0.01584434
+TFIP11,Kidney_Cortex,-0.004642135
+TFIP11,Liver,0.0011745072
+TFIP11,Lung,0.002218761
+TFIP11,Minor_Salivary_Gland,0.0033839145
+TFIP11,Muscle_Skeletal,0.018101167
+TFIP11,Nerve_Tibial,0.0011066278
+TFIP11,Ovary,-0.04169209
+TFIP11,Pancreas,0.005287879
+TFIP11,Pituitary,-0.0005329867
+TFIP11,Prostate,-0.0008920918
+TFIP11,Skin_Not_Sun_Exposed_Suprapubic,0.0015440936
+TFIP11,Skin_Sun_Exposed_Lower_leg,-0.004419666
+TFIP11,Small_Intestine_Terminal_Ileum,-0.0027958776
+TFIP11,Spleen,-0.005881914
+TFIP11,Stomach,0.008413062
+TFIP11,Testis,-0.00444261
+TFIP11,Thyroid,0.009250806
+TFIP11,Uterus,0.010298624
+TFIP11,Vagina,-0.014759117
+TFIP11,Whole_Blood,0.003989121
+TFIP11,cardiac ventricle fibroblast,-0.0040173414
+TFIP11,hair follicular keratinocyte,0.01158967
+TFIP11,airway epithelial cell,-0.0022038342
+TFIP11,epithelial cell of proximal tubule,0.008462305
+TFIP11,pericardium fibroblast,0.014286485
+TFIP11,mesangial cell,0.006951618
+TFIP11,bronchial fibroblast,-0.0056463904
+TFIP11,glomerular endothelial cell,-0.00317916
+TFIP11,kidney epithelial cell,0.0061360006
+TFIP11,mammary microvascular endothelial cell,0.00239562
+TFIP11,epithelial cell of alveolus of lung,0.017814621
+TFIP11,myometrial cell,0.01635077
+TFIP11,cardiac atrium fibroblast,-0.008328606
+TFIP11,endometrial microvascular endothelial cell,0.0027331375
+TFIP11,smooth muscle cell,0.005020543
+TFIP11,hepatocyte,0.007711179
+TFIP11,neural progenitor cell,-0.0064511104
+TFIP11,HT1080,0.0033417053
+TFIP11,SK-N-DZ,0.001822037
+TFIP11,SK-MEL-5,-0.006836661
+TFIP11,NCI-H460,0.0014734826
+TFIP11,astrocyte,-0.0070506893
+TFIP11,LHCN-M2,-0.001891673
+TFIP11,K562,0.0018921157
+TFIP11,HepG2,0.0005208414
+TFIP11,MCF-7,0.0024606918
+TFIP11,bipolar spindle neuron,-0.0023983987
+TFIP11,skeletal muscle myoblast,-0.0022844474
+TFIP11,myotube,-0.0026943008
+TFIP11,H7-hESC,-0.0021847151
+TFIP11,RPMI-7951,-0.0013962287
+TFIP11,M059J,0.010021455
+TFIP11,H4,-0.0010615233
+TFIP11,MG63,0.00080792024
+TFIP11,G401,-0.0062231803
+TFIP11,Caki2,-0.000309774
+TFIP11,SJSA1,0.0004130432
+TFIP11,Daoy,0.002098553
+TFIP11,A172,0.0009335637
+TFIP11,induced pluripotent stem cell,0.0045635574
+TFIP11,fibroblast of arm,-0.050035737
+TFIP11,A375,-0.0017628669
+TFIP11,HT-29,-0.0036840967
+TFIP11,PC-3,0.002161921
+TFIP11,Karpas-422,-0.002425273
+TFIP11,Oci-Ly-7,0.0035645766
+TFIP11,SJCRH30,-0.015124909
+TFIP11,neural cell,0.0022462357
+TFIP11,umbilical cord,0.0004984916
+TFIP11,pericyte cell,0.001426063
+TFIP11,melanocyte of skin,-0.001504945
+TFIP11,placental epithelial cell,0.0003289653
+TFIP11,hair follicle dermal papilla cell,0.0001969067
+TFIP11,hematopoietic multipotent progenitor cell,0.0004966004
+TFIP11,vein endothelial cell,0.0011511365
+TFIP11,osteoblast,-0.02370177
+TFIP11,articular chondrocyte of knee joint,0.0004912708
+TFIP11,thoracic aorta endothelial cell,-0.0012302863
+TFIP11,fibroblast of the aortic adventitia,0.0060774307
+TFIP11,skeletal muscle satellite cell,-0.0003710143
+TFIP11,fibroblast of dermis,0.00067590544
+TFIP11,mammary epithelial cell,-0.0005682566
+TFIP11,subcutaneous preadipocyte,-0.006223267
+TFIP11,fibroblast of villous mesenchyme,0.0013272673
+TFIP11,endothelial cell of umbilical vein,0.0025393236
+TFIP11,fibroblast of lung,0.0050817262
+TFIP11,keratinocyte,0.0022687302
+TFIP11,stomach,0.0043471847
+TFIP11,dermis microvascular lymphatic vessel endothelial cell,-0.00523915
+TFIP11,tongue,-0.0022355278
+TFIP11,lung microvascular endothelial cell,-0.003763672
+TFIP11,liver,0.004759671
+TFIP11,smooth muscle cell of the coronary artery,0.0039086817
+TFIP11,aortic smooth muscle cell,0.0027846338
+TFIP11,cerebellum,-0.0030830712
+TFIP11,occipital lobe,0.00023920804
+TFIP11,lung,-0.001003954
+TFIP11,metanephros,-0.0005810744
+TFIP11,bronchial smooth muscle cell,0.00096175034
+TFIP11,spinal cord,0.18408626
+TFIP11,parietal lobe,0.0023930445
+TFIP11,diencephalon,0.03584601
+TFIP11,bronchial epithelial cell,0.0014346536
+TFIP11,human nasal epithelial cells,0.006721566
+TFIP11,pulmonary artery endothelial cell,0.003670939
+TFIP11,regular cardiac myocyte,0.00054955186
+TFIP11,endothelial cell of coronary artery,0.009387335
+TFIP11,skeletal muscle tissue,0.002332434
+TFIP11,skin of body,-0.007927093
+TFIP11,frontal cortex,-0.0016586939
+TFIP11,camera-type eye,-0.000431569
+TFIP11,dermis lymphatic vessel endothelial cell,0.0011373888
+TFIP11,smooth muscle cell of the umbilical artery,-0.015189389
+TFIP11,tracheal epithelial cell,-0.0032615513
+TFIP11,smooth muscle cell of trachea,0.0042578485
+TFIP11,renal cortical epithelial cell,0.15093692
+TFIP11,dermis blood vessel endothelial cell,-0.037378773
+TFIP11,heart,0.0010277461
+TFIP11,thyroid gland,0.00075669715
+TFIP11,urinary bladder,-0.00019891164
+TFIP11,temporal lobe,-0.004936427
+TFIP11,uterine smooth muscle cell,0.0096547175
+TFIP11,epithelial cell of umbilical artery,-0.0043183193
+TFIP11,smooth muscle cell of the pulmonary artery,0.0063574133
+TFIP11,smooth muscle cell of bladder,0.0013597418
+TFIP11,bladder microvascular endothelial cell,-0.001906483
+TFIP11,uterus,0.0030731503
+TFIP11,GM12878,-0.003530649
+TFIP11,Universal_Human_Reference,-0.0024979736
+TFIP11,H1_Cell_Line,0.008599592
+TFIP11,H1_BMP4_Derived_Mesendoderm_Cultured_Cells,-0.0016106564
+TFIP11,H1_BMP4_Derived_Trophoblast_Cultured_Cells,0.0003172731
+TFIP11,H1_Derived_Mesenchymal_Stem_Cells,0.006967193
+TFIP11,H1_Derived_Neuronal_Progenitor_Cultured_Cells,-0.0020049904
+TFIP11,hESC_Derived_CD184+_Endoderm_Cultured_Cells,-0.009978552
+TFIP11,hESC_Derived_CD56+_Ectoderm_Cultured_Cells,-0.0029973295
+TFIP11,hESC_Derived_CD56+_Mesoderm_Cultured_Cells,0.011677529
+TFIP11,HUES64_Cell_Line,-0.00022342276
+TFIP11,4star,0.029573524
+TFIP11,Breast_Myoepithelial_Cells,0.0032533365
+TFIP11,Breast_vHMEC,0.014900923
+TFIP11,CD4_Memory_Primary_Cells,0.019686585
+TFIP11,CD4_Naive_Primary_Cells,0.002867024
+TFIP11,CD8_Naive_Primary_Cells,-0.0016466413
+TFIP11,Mobilized_CD34_Primary_Cells_Female,0.003532838
+TFIP11,Neurosphere_Cultured_Cells_Cortex_Derived,0.001523134
+TFIP11,Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived,0.0016425308
+TFIP11,Penis_Foreskin_Fibroblast_Primary_Cells_skin01,0.0013484015
+TFIP11,Penis_Foreskin_Fibroblast_Primary_Cells_skin02,-0.0016029085
+TFIP11,Penis_Foreskin_Keratinocyte_Primary_Cells_skin02,-0.013775152
+TFIP11,Penis_Foreskin_Keratinocyte_Primary_Cells_skin03,0.0020320911
+TFIP11,Penis_Foreskin_Melanocyte_Primary_Cells_skin01,0.002139425
+TFIP11,Penis_Foreskin_Melanocyte_Primary_Cells_skin03,-0.0031746784
+TFIP11,Peripheral_Blood_Mononuclear_Primary_Cells,0.0054624774
+TFIP11,Aorta,-3.8524628e-05
+TFIP11,Adult_Liver,-0.022103474
+TFIP11,Brain_Germinal_Matrix,0.0121615995
+TFIP11,Brain_Hippocampus_Middle,-1.0147012e-05
+TFIP11,Esophagus,0.013081705
+TFIP11,Fetal_Brain_Female,-0.02289148
+TFIP11,Fetal_Intestine_Large,0.0023193844
+TFIP11,Fetal_Intestine_Small,-0.042152517
+TFIP11,Pancreatic_Islets,0.00014669374
+TFIP11,Gastric,-0.003193897
+TFIP11,Left_Ventricle,0.004266937
+TFIP11,Lung.1,-0.0036897867
+TFIP11,Ovary.1,0.02223403
+TFIP11,Pancreas.1,0.0019118676
+TFIP11,Psoas_Muscle,0.04344471
+TFIP11,Right_Atrium,0.0019606452
+TFIP11,Right_Ventricle,-0.004147384
+TFIP11,Sigmoid_Colon,-0.013036882
+TFIP11,Small_Intestine,0.0012525218
+TFIP11,Thymus,0.01677599
+TFIP11,Spleen.1,0.014281376
+TFIP11,A549,-0.0027023992
+TFIP11,GM12878.1,0.02277027
+TFIP11,HELA,-0.0038598059
+TFIP11,HEPG2,-0.0050265985
+TFIP11,HMEC,0.0025312544
+TFIP11,HSMM,0.0013997754
+TFIP11,HUVEC,0.0004524154
+TFIP11,K562.1,0.0030528994
+TFIP11,NHEK,0.00044914876
+TFIP11,NHLF,0.0028824715
+RP11-239E10.2,Adipose_Subcutaneous,-0.00073610153
+RP11-239E10.2,Adipose_Visceral_Omentum,0.00017678733
+RP11-239E10.2,Adrenal_Gland,0.0030393414
+RP11-239E10.2,Artery_Aorta,0.0013032117
+RP11-239E10.2,Artery_Coronary,0.00053511077
+RP11-239E10.2,Artery_Tibial,-0.0020477022
+RP11-239E10.2,Bladder,0.00234411
+RP11-239E10.2,Brain_Amygdala,0.0014401516
+RP11-239E10.2,Brain_Anterior_cingulate_cortex_BA24,-0.00050425524
+RP11-239E10.2,Brain_Caudate_basal_ganglia,0.0011179699
+RP11-239E10.2,Brain_Cerebellar_Hemisphere,-0.001303271
+RP11-239E10.2,Brain_Cerebellum,-0.0075450544
+RP11-239E10.2,Brain_Cortex,-0.008476251
+RP11-239E10.2,Brain_Frontal_Cortex_BA9,0.00077663653
+RP11-239E10.2,Brain_Hippocampus,-0.00056232087
+RP11-239E10.2,Brain_Hypothalamus,-0.0009007823
+RP11-239E10.2,Brain_Nucleus_accumbens_basal_ganglia,0.010421394
+RP11-239E10.2,Brain_Putamen_basal_ganglia,0.002856382
+RP11-239E10.2,Brain_Spinal_cord_cervical_c1,0.0025745176
+RP11-239E10.2,Brain_Substantia_nigra,-0.0016988986
+RP11-239E10.2,Breast_Mammary_Tissue,0.0024268685
+RP11-239E10.2,Cells_EBV-transformed_lymphocytes,-0.0010802834
+RP11-239E10.2,Cells_Transformed_fibroblasts,0.0015090462
+RP11-239E10.2,Cervix_Ectocervix,-0.0023094246
+RP11-239E10.2,Cervix_Endocervix,0.0019144439
+RP11-239E10.2,Colon_Sigmoid,0.0012404934
+RP11-239E10.2,Colon_Transverse,0.0013624909
+RP11-239E10.2,Esophagus_Gastroesophageal_Junction,0.0023420495
+RP11-239E10.2,Esophagus_Mucosa,0.0023755312
+RP11-239E10.2,Esophagus_Muscularis,0.0015154029
+RP11-239E10.2,Fallopian_Tube,0.00025176062
+RP11-239E10.2,Heart_Atrial_Appendage,0.0008948921
+RP11-239E10.2,Heart_Left_Ventricle,0.0017907753
+RP11-239E10.2,Kidney_Cortex,-1.4876576e-05
+RP11-239E10.2,Liver,0.0006365393
+RP11-239E10.2,Lung,-0.003447294
+RP11-239E10.2,Minor_Salivary_Gland,0.00088870456
+RP11-239E10.2,Muscle_Skeletal,-0.0003157087
+RP11-239E10.2,Nerve_Tibial,-0.00068671815
+RP11-239E10.2,Ovary,0.009636267
+RP11-239E10.2,Pancreas,-0.004067443
+RP11-239E10.2,Pituitary,-0.00054313743
+RP11-239E10.2,Prostate,-0.0009788272
+RP11-239E10.2,Skin_Not_Sun_Exposed_Suprapubic,-3.6030815e-05
+RP11-239E10.2,Skin_Sun_Exposed_Lower_leg,-0.0020432242
+RP11-239E10.2,Small_Intestine_Terminal_Ileum,-0.0048551476
+RP11-239E10.2,Spleen,0.0004716713
+RP11-239E10.2,Stomach,0.0019225164
+RP11-239E10.2,Testis,-0.0020495965
+RP11-239E10.2,Thyroid,-0.0050342786
+RP11-239E10.2,Uterus,0.0069856774
+RP11-239E10.2,Vagina,-0.016920809
+RP11-239E10.2,Whole_Blood,0.0013465115
+RP11-239E10.2,cardiac ventricle fibroblast,0.000169221
+RP11-239E10.2,hair follicular keratinocyte,0.0030618235
+RP11-239E10.2,airway epithelial cell,-0.00033213673
+RP11-239E10.2,epithelial cell of proximal tubule,0.0032825074
+RP11-239E10.2,pericardium fibroblast,-0.0011865662
+RP11-239E10.2,mesangial cell,0.0020679843
+RP11-239E10.2,bronchial fibroblast,-0.0016091068
+RP11-239E10.2,glomerular endothelial cell,0.0011131581
+RP11-239E10.2,kidney epithelial cell,-0.00093021
+RP11-239E10.2,mammary microvascular endothelial cell,0.004216008
+RP11-239E10.2,epithelial cell of alveolus of lung,-0.0020622553
+RP11-239E10.2,myometrial cell,0.0068217046
+RP11-239E10.2,cardiac atrium fibroblast,0.00258911
+RP11-239E10.2,endometrial microvascular endothelial cell,0.0034377896
+RP11-239E10.2,smooth muscle cell,-9.029372e-05
+RP11-239E10.2,hepatocyte,0.0016566173
+RP11-239E10.2,neural progenitor cell,-0.0021702468
+RP11-239E10.2,HT1080,-0.0023608448
+RP11-239E10.2,SK-N-DZ,0.0003552724
+RP11-239E10.2,SK-MEL-5,0.0037500192
+RP11-239E10.2,NCI-H460,-0.002830169
+RP11-239E10.2,astrocyte,0.00024092758
+RP11-239E10.2,LHCN-M2,-0.0017793975
+RP11-239E10.2,K562,-0.0012841639
+RP11-239E10.2,HepG2,-0.0018772936
+RP11-239E10.2,MCF-7,-0.0021005766
+RP11-239E10.2,bipolar spindle neuron,0.0007066756
+RP11-239E10.2,skeletal muscle myoblast,-0.0016052328
+RP11-239E10.2,myotube,-0.002385048
+RP11-239E10.2,H7-hESC,0.0018144794
+RP11-239E10.2,RPMI-7951,-0.00041944065
+RP11-239E10.2,M059J,0.0033127072
+RP11-239E10.2,H4,-0.00020613593
+RP11-239E10.2,MG63,-0.0023437045
+RP11-239E10.2,G401,-0.003477808
+RP11-239E10.2,Caki2,-0.00076948357
+RP11-239E10.2,SJSA1,0.0017035139
+RP11-239E10.2,Daoy,0.0019417527
+RP11-239E10.2,A172,-0.0016550781
+RP11-239E10.2,induced pluripotent stem cell,0.0013063046
+RP11-239E10.2,fibroblast of arm,0.025125027
+RP11-239E10.2,A375,-0.0005704932
+RP11-239E10.2,HT-29,-0.0026962822
+RP11-239E10.2,PC-3,-0.0022484465
+RP11-239E10.2,Karpas-422,-0.0015174267
+RP11-239E10.2,Oci-Ly-7,-0.012318502
+RP11-239E10.2,SJCRH30,-0.004310902
+RP11-239E10.2,neural cell,0.0026564046
+RP11-239E10.2,umbilical cord,0.0006312102
+RP11-239E10.2,pericyte cell,0.00082442124
+RP11-239E10.2,melanocyte of skin,0.00048525343
+RP11-239E10.2,placental epithelial cell,0.00018830871
+RP11-239E10.2,hair follicle dermal papilla cell,-0.0006058501
+RP11-239E10.2,hematopoietic multipotent progenitor cell,-0.00034796286
+RP11-239E10.2,vein endothelial cell,-0.00025103052
+RP11-239E10.2,osteoblast,0.001578281
+RP11-239E10.2,articular chondrocyte of knee joint,0.00021272685
+RP11-239E10.2,thoracic aorta endothelial cell,-0.000176981
+RP11-239E10.2,fibroblast of the aortic adventitia,0.0013258928
+RP11-239E10.2,skeletal muscle satellite cell,0.001035308
+RP11-239E10.2,fibroblast of dermis,0.001011763
+RP11-239E10.2,mammary epithelial cell,-0.0016392376
+RP11-239E10.2,subcutaneous preadipocyte,-0.011949953
+RP11-239E10.2,fibroblast of villous mesenchyme,-0.00048386832
+RP11-239E10.2,endothelial cell of umbilical vein,-0.0015942138
+RP11-239E10.2,fibroblast of lung,0.0011080026
+RP11-239E10.2,keratinocyte,-0.0005777194
+RP11-239E10.2,stomach,-0.00080716837
+RP11-239E10.2,dermis microvascular lymphatic vessel endothelial cell,4.7294452e-05
+RP11-239E10.2,tongue,-0.0007891002
+RP11-239E10.2,lung microvascular endothelial cell,0.0002650009
+RP11-239E10.2,liver,0.00083834375
+RP11-239E10.2,smooth muscle cell of the coronary artery,0.00018211814
+RP11-239E10.2,aortic smooth muscle cell,-0.0014572568
+RP11-239E10.2,cerebellum,0.000101122256
+RP11-239E10.2,occipital lobe,-2.8635395e-05
+RP11-239E10.2,lung,0.00018160226
+RP11-239E10.2,metanephros,-5.6067434e-05
+RP11-239E10.2,bronchial smooth muscle cell,-0.00012452081
+RP11-239E10.2,spinal cord,0.014791811
+RP11-239E10.2,parietal lobe,-0.0021893657
+RP11-239E10.2,diencephalon,-0.008764665
+RP11-239E10.2,bronchial epithelial cell,0.0011401383
+RP11-239E10.2,human nasal epithelial cells,-0.0050602523
+RP11-239E10.2,pulmonary artery endothelial cell,0.00022889076
+RP11-239E10.2,regular cardiac myocyte,0.0064693913
+RP11-239E10.2,endothelial cell of coronary artery,0.0003578515
+RP11-239E10.2,skeletal muscle tissue,-0.0005333308
+RP11-239E10.2,skin of body,0.007362505
+RP11-239E10.2,frontal cortex,0.0023892673
+RP11-239E10.2,camera-type eye,-0.0015007269
+RP11-239E10.2,dermis lymphatic vessel endothelial cell,-0.01031897
+RP11-239E10.2,smooth muscle cell of the umbilical artery,0.0023787937
+RP11-239E10.2,tracheal epithelial cell,-0.00041840845
+RP11-239E10.2,smooth muscle cell of trachea,0.001095973
+RP11-239E10.2,renal cortical epithelial cell,-0.14529128
+RP11-239E10.2,dermis blood vessel endothelial cell,-0.015040013
+RP11-239E10.2,heart,-0.005495841
+RP11-239E10.2,thyroid gland,-0.0005637833
+RP11-239E10.2,urinary bladder,-0.00047208363
+RP11-239E10.2,temporal lobe,0.0018551875
+RP11-239E10.2,uterine smooth muscle cell,-0.0004858468
+RP11-239E10.2,epithelial cell of umbilical artery,0.0002374885
+RP11-239E10.2,smooth muscle cell of the pulmonary artery,0.00034168907
+RP11-239E10.2,smooth muscle cell of bladder,-0.001703892
+RP11-239E10.2,bladder microvascular endothelial cell,0.00037384185
+RP11-239E10.2,uterus,0.00093717297
+RP11-239E10.2,GM12878,0.0012947922
+RP11-239E10.2,Universal_Human_Reference,-0.0012181513
+RP11-239E10.2,H1_Cell_Line,0.0034741627
+RP11-239E10.2,H1_BMP4_Derived_Mesendoderm_Cultured_Cells,-0.0013287477
+RP11-239E10.2,H1_BMP4_Derived_Trophoblast_Cultured_Cells,-0.0011158249
+RP11-239E10.2,H1_Derived_Mesenchymal_Stem_Cells,-0.0015098515
+RP11-239E10.2,H1_Derived_Neuronal_Progenitor_Cultured_Cells,-0.0016429395
+RP11-239E10.2,hESC_Derived_CD184+_Endoderm_Cultured_Cells,-0.0027210943
+RP11-239E10.2,hESC_Derived_CD56+_Ectoderm_Cultured_Cells,-0.0026787934
+RP11-239E10.2,hESC_Derived_CD56+_Mesoderm_Cultured_Cells,-0.0046725017
+RP11-239E10.2,HUES64_Cell_Line,-0.0015433376
+RP11-239E10.2,4star,0.0076644775
+RP11-239E10.2,Breast_Myoepithelial_Cells,-0.0015349876
+RP11-239E10.2,Breast_vHMEC,-0.007967992
+RP11-239E10.2,CD4_Memory_Primary_Cells,-0.0006803518
+RP11-239E10.2,CD4_Naive_Primary_Cells,0.00018951243
+RP11-239E10.2,CD8_Naive_Primary_Cells,-0.0007490929
+RP11-239E10.2,Mobilized_CD34_Primary_Cells_Female,0.015057683
+RP11-239E10.2,Neurosphere_Cultured_Cells_Cortex_Derived,-0.0017679466
+RP11-239E10.2,Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived,2.5797374e-06
+RP11-239E10.2,Penis_Foreskin_Fibroblast_Primary_Cells_skin01,0.00047218706
+RP11-239E10.2,Penis_Foreskin_Fibroblast_Primary_Cells_skin02,0.00033601496
+RP11-239E10.2,Penis_Foreskin_Keratinocyte_Primary_Cells_skin02,-0.0033963525
+RP11-239E10.2,Penis_Foreskin_Keratinocyte_Primary_Cells_skin03,-0.0014525225
+RP11-239E10.2,Penis_Foreskin_Melanocyte_Primary_Cells_skin01,-0.0023218272
+RP11-239E10.2,Penis_Foreskin_Melanocyte_Primary_Cells_skin03,-0.00022187468
+RP11-239E10.2,Peripheral_Blood_Mononuclear_Primary_Cells,-0.0003883891
+RP11-239E10.2,Aorta,0.0001769593
+RP11-239E10.2,Adult_Liver,0.01482926
+RP11-239E10.2,Brain_Germinal_Matrix,0.005010774
+RP11-239E10.2,Brain_Hippocampus_Middle,-0.0011271846
+RP11-239E10.2,Esophagus,0.00040117974
+RP11-239E10.2,Fetal_Brain_Female,0.0021859624
+RP11-239E10.2,Fetal_Intestine_Large,0.0030889388
+RP11-239E10.2,Fetal_Intestine_Small,0.013916401
+RP11-239E10.2,Pancreatic_Islets,-0.0026698338
+RP11-239E10.2,Gastric,0.002304961
+RP11-239E10.2,Left_Ventricle,-0.00083332456
+RP11-239E10.2,Lung.1,-0.0004099789
+RP11-239E10.2,Ovary.1,0.001105253
+RP11-239E10.2,Pancreas.1,-0.00012890676
+RP11-239E10.2,Psoas_Muscle,0.0015183236
+RP11-239E10.2,Right_Atrium,0.0031701103
+RP11-239E10.2,Right_Ventricle,0.0039410978
+RP11-239E10.2,Sigmoid_Colon,0.002749788
+RP11-239E10.2,Small_Intestine,-0.0011443103
+RP11-239E10.2,Thymus,0.0011743354
+RP11-239E10.2,Spleen.1,0.007847512
+RP11-239E10.2,A549,-0.002002321
+RP11-239E10.2,GM12878.1,0.010642321
+RP11-239E10.2,HELA,-0.0025255387
+RP11-239E10.2,HEPG2,0.0021073115
+RP11-239E10.2,HMEC,0.00030162605
+RP11-239E10.2,HSMM,3.2676667e-06
+RP11-239E10.2,HUVEC,-0.00018205513
+RP11-239E10.2,K562.1,-0.0024656714
+RP11-239E10.2,NHEK,8.392509e-05
+RP11-239E10.2,NHLF,-0.0009490544
+PEX11B,Adipose_Subcutaneous,-0.00013105673
+PEX11B,Adipose_Visceral_Omentum,-0.0011628133
+PEX11B,Adrenal_Gland,-0.002913833
+PEX11B,Artery_Aorta,-0.00052791135
+PEX11B,Artery_Coronary,0.0010648675
+PEX11B,Artery_Tibial,0.10285387
+PEX11B,Bladder,0.0201829
+PEX11B,Brain_Amygdala,-0.009094498
+PEX11B,Brain_Anterior_cingulate_cortex_BA24,-0.0006457674
+PEX11B,Brain_Caudate_basal_ganglia,-0.00023408738
+PEX11B,Brain_Cerebellar_Hemisphere,-0.005142579
+PEX11B,Brain_Cerebellum,0.011428778
+PEX11B,Brain_Cortex,-0.011111223
+PEX11B,Brain_Frontal_Cortex_BA9,1.547843e-06
+PEX11B,Brain_Hippocampus,0.001761746
+PEX11B,Brain_Hypothalamus,0.00040582198
+PEX11B,Brain_Nucleus_accumbens_basal_ganglia,0.013395433
+PEX11B,Brain_Putamen_basal_ganglia,5.5721302e-05
+PEX11B,Brain_Spinal_cord_cervical_c1,0.0003293092
+PEX11B,Brain_Substantia_nigra,0.00069137657
+PEX11B,Breast_Mammary_Tissue,-0.004060199
+PEX11B,Cells_EBV-transformed_lymphocytes,-0.0030905686
+PEX11B,Cells_Transformed_fibroblasts,0.0012454765
+PEX11B,Cervix_Ectocervix,-0.009687645
+PEX11B,Cervix_Endocervix,0.0033911208
+PEX11B,Colon_Sigmoid,0.007163665
+PEX11B,Colon_Transverse,0.014070884
+PEX11B,Esophagus_Gastroesophageal_Junction,0.003789472
+PEX11B,Esophagus_Mucosa,-0.004028465
+PEX11B,Esophagus_Muscularis,0.0014253758
+PEX11B,Fallopian_Tube,-0.00029283017
+PEX11B,Heart_Atrial_Appendage,0.0033130504
+PEX11B,Heart_Left_Ventricle,0.0019103219
+PEX11B,Kidney_Cortex,-0.00014877267
+PEX11B,Liver,0.00029904683
+PEX11B,Lung,0.0067799385
+PEX11B,Minor_Salivary_Gland,0.0009651877
+PEX11B,Muscle_Skeletal,0.00957186
+PEX11B,Nerve_Tibial,-0.00091411936
+PEX11B,Ovary,-0.016829716
+PEX11B,Pancreas,0.0034621528
+PEX11B,Pituitary,-0.0032462964
+PEX11B,Prostate,0.0017589977
+PEX11B,Skin_Not_Sun_Exposed_Suprapubic,-0.0029959506
+PEX11B,Skin_Sun_Exposed_Lower_leg,0.00209924
+PEX11B,Small_Intestine_Terminal_Ileum,0.00067865587
+PEX11B,Spleen,0.0012171236
+PEX11B,Stomach,0.010224341
+PEX11B,Testis,0.00197782
+PEX11B,Thyroid,-0.0064860936
+PEX11B,Uterus,-0.0138260275
+PEX11B,Vagina,0.0029387681
+PEX11B,Whole_Blood,0.0017687887
+PEX11B,cardiac ventricle fibroblast,-0.0027866587
+PEX11B,hair follicular keratinocyte,0.0067867856
+PEX11B,airway epithelial cell,-0.003277065
+PEX11B,epithelial cell of proximal tubule,-0.0067789475
+PEX11B,pericardium fibroblast,-0.025684936
+PEX11B,mesangial cell,0.002037415
+PEX11B,bronchial fibroblast,-0.0068562743
+PEX11B,glomerular endothelial cell,0.0005956249
+PEX11B,kidney epithelial cell,0.00077182363
+PEX11B,mammary microvascular endothelial cell,-0.0013017218
+PEX11B,epithelial cell of alveolus of lung,0.00028924583
+PEX11B,myometrial cell,-0.003066612
+PEX11B,cardiac atrium fibroblast,-0.011013912
+PEX11B,endometrial microvascular endothelial cell,-0.0015067527
+PEX11B,smooth muscle cell,0.0054766983
+PEX11B,hepatocyte,0.00091482955
+PEX11B,neural progenitor cell,0.002202276
+PEX11B,HT1080,-0.0011616084
+PEX11B,SK-N-DZ,-0.00048145978
+PEX11B,SK-MEL-5,-0.000491094
+PEX11B,NCI-H460,0.0036532695
+PEX11B,astrocyte,-0.0016792696
+PEX11B,LHCN-M2,0.003830639
+PEX11B,K562,-0.0035632337
+PEX11B,HepG2,0.0048176083
+PEX11B,MCF-7,0.0005179188
+PEX11B,bipolar spindle neuron,-0.00028388528
+PEX11B,skeletal muscle myoblast,-0.0009896696
+PEX11B,myotube,0.0006843286
+PEX11B,H7-hESC,-0.002592128
+PEX11B,RPMI-7951,0.00055006763
+PEX11B,M059J,-0.0016011868
+PEX11B,H4,0.00025382405
+PEX11B,MG63,-0.0014060412
+PEX11B,G401,-0.0040206183
+PEX11B,Caki2,0.0021802955
+PEX11B,SJSA1,-0.004272781
+PEX11B,Daoy,0.0036191312
+PEX11B,A172,0.0006403213
+PEX11B,induced pluripotent stem cell,0.0002629375
+PEX11B,fibroblast of arm,-0.049339723
+PEX11B,A375,-0.0076962495
+PEX11B,HT-29,0.0024004276
+PEX11B,PC-3,-0.00036679962
+PEX11B,Karpas-422,0.0022683868
+PEX11B,Oci-Ly-7,0.0021674163
+PEX11B,SJCRH30,-0.00073584344
+PEX11B,neural cell,-0.0015424768
+PEX11B,umbilical cord,0.0026792362
+PEX11B,pericyte cell,0.00049023924
+PEX11B,melanocyte of skin,-0.0014591506
+PEX11B,placental epithelial cell,0.0005552251
+PEX11B,hair follicle dermal papilla cell,0.0012215914
+PEX11B,hematopoietic multipotent progenitor cell,0.0024359683
+PEX11B,vein endothelial cell,0.0009650158
+PEX11B,osteoblast,0.022930749
+PEX11B,articular chondrocyte of knee joint,-0.00206725
+PEX11B,thoracic aorta endothelial cell,-0.0007915953
+PEX11B,fibroblast of the aortic adventitia,-0.0012700488
+PEX11B,skeletal muscle satellite cell,0.0002321579
+PEX11B,fibroblast of dermis,0.00045293118
+PEX11B,mammary epithelial cell,-0.0007343808
+PEX11B,subcutaneous preadipocyte,-0.025673818
+PEX11B,fibroblast of villous mesenchyme,0.00031314642
+PEX11B,endothelial cell of umbilical vein,-0.00048085762
+PEX11B,fibroblast of lung,0.0019554927
+PEX11B,keratinocyte,-0.0026537238
+PEX11B,stomach,0.004773556
+PEX11B,dermis microvascular lymphatic vessel endothelial cell,-0.002340087
+PEX11B,tongue,-0.0062538395
+PEX11B,lung microvascular endothelial cell,-0.00048696506
+PEX11B,liver,0.002583273
+PEX11B,smooth muscle cell of the coronary artery,0.0019280125
+PEX11B,aortic smooth muscle cell,0.0037150255
+PEX11B,cerebellum,0.00038415808
+PEX11B,occipital lobe,-0.0009872601
+PEX11B,lung,-0.0027708057
+PEX11B,metanephros,0.002294315
+PEX11B,bronchial smooth muscle cell,0.0019254362
+PEX11B,spinal cord,0.059320364
+PEX11B,parietal lobe,0.0019190813
+PEX11B,diencephalon,0.013686947
+PEX11B,bronchial epithelial cell,0.0025798394
+PEX11B,human nasal epithelial cells,0.016452113
+PEX11B,pulmonary artery endothelial cell,0.0035115643
+PEX11B,regular cardiac myocyte,0.0041237483
+PEX11B,endothelial cell of coronary artery,0.0041666203
+PEX11B,skeletal muscle tissue,0.0054664183
+PEX11B,skin of body,-0.009542733
+PEX11B,frontal cortex,0.009593044
+PEX11B,camera-type eye,-0.0021020407
+PEX11B,dermis lymphatic vessel endothelial cell,0.004148786
+PEX11B,smooth muscle cell of the umbilical artery,0.0072019976
+PEX11B,tracheal epithelial cell,-0.0012187538
+PEX11B,smooth muscle cell of trachea,0.0007709642
+PEX11B,renal cortical epithelial cell,-0.010582285
+PEX11B,dermis blood vessel endothelial cell,0.021594923
+PEX11B,heart,0.0045553283
+PEX11B,thyroid gland,0.0010430416
+PEX11B,urinary bladder,0.0005363142
+PEX11B,temporal lobe,0.0052798255
+PEX11B,uterine smooth muscle cell,-0.0113458205
+PEX11B,epithelial cell of umbilical artery,-0.0010637608
+PEX11B,smooth muscle cell of the pulmonary artery,0.0027195765
+PEX11B,smooth muscle cell of bladder,0.004239843
+PEX11B,bladder microvascular endothelial cell,0.0026800944
+PEX11B,uterus,-0.0012809794
+PEX11B,GM12878,-0.007062355
+PEX11B,Universal_Human_Reference,0.0032821642
+PEX11B,H1_Cell_Line,0.0051492476
+PEX11B,H1_BMP4_Derived_Mesendoderm_Cultured_Cells,0.00447012
+PEX11B,H1_BMP4_Derived_Trophoblast_Cultured_Cells,-0.0015311999
+PEX11B,H1_Derived_Mesenchymal_Stem_Cells,0.0047319015
+PEX11B,H1_Derived_Neuronal_Progenitor_Cultured_Cells,-0.0023609307
+PEX11B,hESC_Derived_CD184+_Endoderm_Cultured_Cells,-0.006430985
+PEX11B,hESC_Derived_CD56+_Ectoderm_Cultured_Cells,-0.0029643266
+PEX11B,hESC_Derived_CD56+_Mesoderm_Cultured_Cells,0.00822326
+PEX11B,HUES64_Cell_Line,-0.0012001641
+PEX11B,4star,-0.0049678353
+PEX11B,Breast_Myoepithelial_Cells,-0.0015617595
+PEX11B,Breast_vHMEC,-0.006248312
+PEX11B,CD4_Memory_Primary_Cells,-0.015289676
+PEX11B,CD4_Naive_Primary_Cells,-0.0019485889
+PEX11B,CD8_Naive_Primary_Cells,0.0019800528
+PEX11B,Mobilized_CD34_Primary_Cells_Female,0.02535284
+PEX11B,Neurosphere_Cultured_Cells_Cortex_Derived,-0.001964605
+PEX11B,Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived,-0.0018878843
+PEX11B,Penis_Foreskin_Fibroblast_Primary_Cells_skin01,0.00033446748
+PEX11B,Penis_Foreskin_Fibroblast_Primary_Cells_skin02,4.9874884e-06
+PEX11B,Penis_Foreskin_Keratinocyte_Primary_Cells_skin02,0.02926734
+PEX11B,Penis_Foreskin_Keratinocyte_Primary_Cells_skin03,-0.0014113778
+PEX11B,Penis_Foreskin_Melanocyte_Primary_Cells_skin01,0.004383192
+PEX11B,Penis_Foreskin_Melanocyte_Primary_Cells_skin03,-0.0011489575
+PEX11B,Peripheral_Blood_Mononuclear_Primary_Cells,-0.0007402312
+PEX11B,Aorta,-0.004042349
+PEX11B,Adult_Liver,-0.00078187295
+PEX11B,Brain_Germinal_Matrix,-0.0015322329
+PEX11B,Brain_Hippocampus_Middle,-0.0048585986
+PEX11B,Esophagus,0.001794726
+PEX11B,Fetal_Brain_Female,0.0074778264
+PEX11B,Fetal_Intestine_Large,-0.0046570594
+PEX11B,Fetal_Intestine_Small,0.013457455
+PEX11B,Pancreatic_Islets,0.0013215971
+PEX11B,Gastric,0.0050337394
+PEX11B,Left_Ventricle,-3.6976317e-06
+PEX11B,Lung.1,-0.00027734868
+PEX11B,Ovary.1,0.0048083523
+PEX11B,Pancreas.1,0.0007047847
+PEX11B,Psoas_Muscle,0.0091653615
+PEX11B,Right_Atrium,-0.0047659357
+PEX11B,Right_Ventricle,0.0020774298
+PEX11B,Sigmoid_Colon,0.0014858526
+PEX11B,Small_Intestine,0.0036558427
+PEX11B,Thymus,0.0072011417
+PEX11B,Spleen.1,-0.018108144
+PEX11B,A549,0.0067023933
+PEX11B,GM12878.1,-0.012370193
+PEX11B,HELA,0.0031817795
+PEX11B,HEPG2,-0.0021379518
+PEX11B,HMEC,-0.0011232259
+PEX11B,HSMM,0.0003385941
+PEX11B,HUVEC,-0.0013744519
+PEX11B,K562.1,0.0023846314
+PEX11B,NHEK,0.0024890203
+PEX11B,NHLF,0.0032466443
+RP11-569A11.2,Adipose_Subcutaneous,0.00079279416
+RP11-569A11.2,Adipose_Visceral_Omentum,0.002927097
+RP11-569A11.2,Adrenal_Gland,-0.00067983556
+RP11-569A11.2,Artery_Aorta,-1.4360623e-05
+RP11-569A11.2,Artery_Coronary,-0.0059562568
+RP11-569A11.2,Artery_Tibial,-0.021429703
+RP11-569A11.2,Bladder,-0.01287107
+RP11-569A11.2,Brain_Amygdala,-0.015639521
+RP11-569A11.2,Brain_Anterior_cingulate_cortex_BA24,-1.5478447e-06
+RP11-569A11.2,Brain_Caudate_basal_ganglia,-0.00014430066
+RP11-569A11.2,Brain_Cerebellar_Hemisphere,-0.00042769825
+RP11-569A11.2,Brain_Cerebellum,8.51289e-05
+RP11-569A11.2,Brain_Cortex,0.0032753006
+RP11-569A11.2,Brain_Frontal_Cortex_BA9,0.0020918555
+RP11-569A11.2,Brain_Hippocampus,-0.00050941657
+RP11-569A11.2,Brain_Hypothalamus,-0.00073274615
+RP11-569A11.2,Brain_Nucleus_accumbens_basal_ganglia,-0.0082307905
+RP11-569A11.2,Brain_Putamen_basal_ganglia,0.00049814774
+RP11-569A11.2,Brain_Spinal_cord_cervical_c1,0.00050846307
+RP11-569A11.2,Brain_Substantia_nigra,-0.0036278882
+RP11-569A11.2,Breast_Mammary_Tissue,0.0026146893
+RP11-569A11.2,Cells_EBV-transformed_lymphocytes,0.00016612568
+RP11-569A11.2,Cells_Transformed_fibroblasts,-0.002073106
+RP11-569A11.2,Cervix_Ectocervix,0.002966229
+RP11-569A11.2,Cervix_Endocervix,0.0034238922
+RP11-569A11.2,Colon_Sigmoid,0.0005995789
+RP11-569A11.2,Colon_Transverse,0.0005311566
+RP11-569A11.2,Esophagus_Gastroesophageal_Junction,-0.0024700644
+RP11-569A11.2,Esophagus_Mucosa,0.0022979209
+RP11-569A11.2,Esophagus_Muscularis,-0.00049100805
+RP11-569A11.2,Fallopian_Tube,-0.0025906635
+RP11-569A11.2,Heart_Atrial_Appendage,0.0008070608
+RP11-569A11.2,Heart_Left_Ventricle,-0.010351363
+RP11-569A11.2,Kidney_Cortex,-0.0010703009
+RP11-569A11.2,Liver,-0.0010216807
+RP11-569A11.2,Lung,-0.0010346746
+RP11-569A11.2,Minor_Salivary_Gland,-0.00025455677
+RP11-569A11.2,Muscle_Skeletal,0.0020884208
+RP11-569A11.2,Nerve_Tibial,-0.00081233075
+RP11-569A11.2,Ovary,-0.0027206636
+RP11-569A11.2,Pancreas,0.000840922
+RP11-569A11.2,Pituitary,0.00024058367
+RP11-569A11.2,Prostate,-0.0009857112
+RP11-569A11.2,Skin_Not_Sun_Exposed_Suprapubic,0.000431268
+RP11-569A11.2,Skin_Sun_Exposed_Lower_leg,-0.0021852318
+RP11-569A11.2,Small_Intestine_Terminal_Ileum,-0.0022468963
+RP11-569A11.2,Spleen,-0.0014054386
+RP11-569A11.2,Stomach,0.0071258442
+RP11-569A11.2,Testis,0.0072213346
+RP11-569A11.2,Thyroid,-0.004061665
+RP11-569A11.2,Uterus,0.001604909
+RP11-569A11.2,Vagina,0.010354973
+RP11-569A11.2,Whole_Blood,-0.0012304585
+RP11-569A11.2,cardiac ventricle fibroblast,-0.00025275064
+RP11-569A11.2,hair follicular keratinocyte,-0.0034131603
+RP11-569A11.2,airway epithelial cell,-0.0004662343
+RP11-569A11.2,epithelial cell of proximal tubule,0.0022045083
+RP11-569A11.2,pericardium fibroblast,-0.0026948177
+RP11-569A11.2,mesangial cell,-0.0051166895
+RP11-569A11.2,bronchial fibroblast,9.114793e-05
+RP11-569A11.2,glomerular endothelial cell,0.00090348587
+RP11-569A11.2,kidney epithelial cell,-0.0021643045
+RP11-569A11.2,mammary microvascular endothelial cell,-0.0021343348
+RP11-569A11.2,epithelial cell of alveolus of lung,0.00024849354
+RP11-569A11.2,myometrial cell,0.0028883072
+RP11-569A11.2,cardiac atrium fibroblast,-0.0048756828
+RP11-569A11.2,endometrial microvascular endothelial cell,-0.0039054179
+RP11-569A11.2,smooth muscle cell,-0.00052808336
+RP11-569A11.2,hepatocyte,-0.00075631996
+RP11-569A11.2,neural progenitor cell,0.0005213572
+RP11-569A11.2,HT1080,-0.0005380621
+RP11-569A11.2,SK-N-DZ,0.00041424672
+RP11-569A11.2,SK-MEL-5,-0.0019511721
+RP11-569A11.2,NCI-H460,-0.0011968936
+RP11-569A11.2,astrocyte,0.00026775213
+RP11-569A11.2,LHCN-M2,0.00071527046
+RP11-569A11.2,K562,0.0003753893
+RP11-569A11.2,HepG2,0.0035261472
+RP11-569A11.2,MCF-7,-0.0012253807
+RP11-569A11.2,bipolar spindle neuron,-0.00012434882
+RP11-569A11.2,skeletal muscle myoblast,0.00065923086
+RP11-569A11.2,myotube,-0.0030571327
+RP11-569A11.2,H7-hESC,0.0016226034
+RP11-569A11.2,RPMI-7951,0.00019621885
+RP11-569A11.2,M059J,-0.00529732
+RP11-569A11.2,H4,0.000601298
+RP11-569A11.2,MG63,0.0011375606
+RP11-569A11.2,G401,0.0032447567
+RP11-569A11.2,Caki2,0.00021203903
+RP11-569A11.2,SJSA1,0.006533252
+RP11-569A11.2,Daoy,-0.00044120295
+RP11-569A11.2,A172,-0.00047062128
+RP11-569A11.2,induced pluripotent stem cell,-0.0012990537
+RP11-569A11.2,fibroblast of arm,-0.010928044
+RP11-569A11.2,A375,0.0067703524
+RP11-569A11.2,HT-29,-9.33896e-05
+RP11-569A11.2,PC-3,-0.0015193205
+RP11-569A11.2,Karpas-422,0.00077835546
+RP11-569A11.2,Oci-Ly-7,-0.003642285
+RP11-569A11.2,SJCRH30,-0.00022643292
+RP11-569A11.2,neural cell,-0.0024870338
+RP11-569A11.2,umbilical cord,-0.0005209435
+RP11-569A11.2,pericyte cell,-0.00019400948
+RP11-569A11.2,melanocyte of skin,8.59913e-07
+RP11-569A11.2,placental epithelial cell,-0.001090352
+RP11-569A11.2,hair follicle dermal papilla cell,-0.0010931918
+RP11-569A11.2,hematopoietic multipotent progenitor cell,-6.5784865e-05
+RP11-569A11.2,vein endothelial cell,4.970213e-05
+RP11-569A11.2,osteoblast,-0.024293521
+RP11-569A11.2,articular chondrocyte of knee joint,-0.0006846534
+RP11-569A11.2,thoracic aorta endothelial cell,-0.00034916704
+RP11-569A11.2,fibroblast of the aortic adventitia,-0.0030879832
+RP11-569A11.2,skeletal muscle satellite cell,0.00024109954
+RP11-569A11.2,fibroblast of dermis,0.00045946447
+RP11-569A11.2,mammary epithelial cell,0.0076071676
+RP11-569A11.2,subcutaneous preadipocyte,-0.00662828
+RP11-569A11.2,fibroblast of villous mesenchyme,-0.00014653667
+RP11-569A11.2,endothelial cell of umbilical vein,-0.0019249095
+RP11-569A11.2,fibroblast of lung,0.0063644336
+RP11-569A11.2,keratinocyte,5.675416e-06
+RP11-569A11.2,stomach,0.0011011285
+RP11-569A11.2,dermis microvascular lymphatic vessel endothelial cell,0.0010896145
+RP11-569A11.2,tongue,-0.00043733217
+RP11-569A11.2,lung microvascular endothelial cell,-0.0018218441
+RP11-569A11.2,liver,0.0014064763
+RP11-569A11.2,smooth muscle cell of the coronary artery,-0.00030375333
+RP11-569A11.2,aortic smooth muscle cell,0.0013497762
+RP11-569A11.2,cerebellum,0.0017681016
+RP11-569A11.2,occipital lobe,-3.4568926e-05
+RP11-569A11.2,lung,-3.689075e-05
+RP11-569A11.2,metanephros,-0.0021904854
+RP11-569A11.2,bronchial smooth muscle cell,0.0004295487
+RP11-569A11.2,spinal cord,-0.04106998
+RP11-569A11.2,parietal lobe,-0.0024375042
+RP11-569A11.2,diencephalon,-0.017749429
+RP11-569A11.2,bronchial epithelial cell,0.0011855052
+RP11-569A11.2,human nasal epithelial cells,0.0052057984
+RP11-569A11.2,pulmonary artery endothelial cell,-0.0023443073
+RP11-569A11.2,regular cardiac myocyte,0.0013286419
+RP11-569A11.2,endothelial cell of coronary artery,-0.0013982945
+RP11-569A11.2,skeletal muscle tissue,0.0013657555
+RP11-569A11.2,skin of body,-0.00060972135
+RP11-569A11.2,frontal cortex,-0.002769169
+RP11-569A11.2,camera-type eye,0.0026819827
+RP11-569A11.2,dermis lymphatic vessel endothelial cell,-0.008454108
+RP11-569A11.2,smooth muscle cell of the umbilical artery,-0.00437145
+RP11-569A11.2,tracheal epithelial cell,-0.00016631681
+RP11-569A11.2,smooth muscle cell of trachea,-0.0010924173
+RP11-569A11.2,renal cortical epithelial cell,2.0672078
+RP11-569A11.2,dermis blood vessel endothelial cell,-0.033466738
+RP11-569A11.2,heart,0.0016200265
+RP11-569A11.2,thyroid gland,-0.00017293892
+RP11-569A11.2,urinary bladder,-0.00067269494
+RP11-569A11.2,temporal lobe,0.003018575
+RP11-569A11.2,uterine smooth muscle cell,1.8917968e-05
+RP11-569A11.2,epithelial cell of umbilical artery,0.0010306678
+RP11-569A11.2,smooth muscle cell of the pulmonary artery,0.0040093586
+RP11-569A11.2,smooth muscle cell of bladder,0.0004156222
+RP11-569A11.2,bladder microvascular endothelial cell,-0.002166199
+RP11-569A11.2,uterus,-0.00021972456
+RP11-569A11.2,GM12878,-0.001534471
+RP11-569A11.2,Universal_Human_Reference,0.0011997679
+RP11-569A11.2,H1_Cell_Line,-0.003308782
+RP11-569A11.2,H1_BMP4_Derived_Mesendoderm_Cultured_Cells,0.0026687647
+RP11-569A11.2,H1_BMP4_Derived_Trophoblast_Cultured_Cells,0.0033358715
+RP11-569A11.2,H1_Derived_Mesenchymal_Stem_Cells,0.0016000988
+RP11-569A11.2,H1_Derived_Neuronal_Progenitor_Cultured_Cells,0.0026946857
+RP11-569A11.2,hESC_Derived_CD184+_Endoderm_Cultured_Cells,-0.0011240864
+RP11-569A11.2,hESC_Derived_CD56+_Ectoderm_Cultured_Cells,-0.0015965381
+RP11-569A11.2,hESC_Derived_CD56+_Mesoderm_Cultured_Cells,0.0040061
+RP11-569A11.2,HUES64_Cell_Line,-0.0006067964
+RP11-569A11.2,4star,-0.0027832123
+RP11-569A11.2,Breast_Myoepithelial_Cells,-0.0016423368
+RP11-569A11.2,Breast_vHMEC,0.0050190003
+RP11-569A11.2,CD4_Memory_Primary_Cells,0.010939171
+RP11-569A11.2,CD4_Naive_Primary_Cells,0.00061745755
+RP11-569A11.2,CD8_Naive_Primary_Cells,-0.0010873401
+RP11-569A11.2,Mobilized_CD34_Primary_Cells_Female,0.007348474
+RP11-569A11.2,Neurosphere_Cultured_Cells_Cortex_Derived,-0.0005726439
+RP11-569A11.2,Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived,-0.0008269576
+RP11-569A11.2,Penis_Foreskin_Fibroblast_Primary_Cells_skin01,-0.00014378467
+RP11-569A11.2,Penis_Foreskin_Fibroblast_Primary_Cells_skin02,0.0017009372
+RP11-569A11.2,Penis_Foreskin_Keratinocyte_Primary_Cells_skin02,-0.032685954
+RP11-569A11.2,Penis_Foreskin_Keratinocyte_Primary_Cells_skin03,0.0010990663
+RP11-569A11.2,Penis_Foreskin_Melanocyte_Primary_Cells_skin01,-0.00013991467
+RP11-569A11.2,Penis_Foreskin_Melanocyte_Primary_Cells_skin03,0.00016681352
+RP11-569A11.2,Peripheral_Blood_Mononuclear_Primary_Cells,-0.00021138217
+RP11-569A11.2,Aorta,-0.000981839
+RP11-569A11.2,Adult_Liver,-0.02114564
+RP11-569A11.2,Brain_Germinal_Matrix,4.815506e-06
+RP11-569A11.2,Brain_Hippocampus_Middle,0.0018357782
+RP11-569A11.2,Esophagus,-0.0011283894
+RP11-569A11.2,Fetal_Brain_Female,-0.008360262
+RP11-569A11.2,Fetal_Intestine_Large,0.0013437624
+RP11-569A11.2,Fetal_Intestine_Small,0.05887993
+RP11-569A11.2,Pancreatic_Islets,-0.003964224
+RP11-569A11.2,Gastric,-0.0018799629
+RP11-569A11.2,Left_Ventricle,0.00086996984
+RP11-569A11.2,Lung.1,-0.0006941169
+RP11-569A11.2,Ovary.1,0.0011753665
+RP11-569A11.2,Pancreas.1,-0.00013939867
+RP11-569A11.2,Psoas_Muscle,-0.0011486993
+RP11-569A11.2,Right_Atrium,-0.0016610184
+RP11-569A11.2,Right_Ventricle,6.982327e-05
+RP11-569A11.2,Sigmoid_Colon,-0.0020810284
+RP11-569A11.2,Small_Intestine,0.003073665
+RP11-569A11.2,Thymus,0.0018584509
+RP11-569A11.2,Spleen.1,0.00467276
+RP11-569A11.2,A549,-0.000511309
+RP11-569A11.2,GM12878.1,0.0023896107
+RP11-569A11.2,HELA,0.00040857293
+RP11-569A11.2,HEPG2,0.0013875765
+RP11-569A11.2,HMEC,0.00013706366
+RP11-569A11.2,HSMM,-0.00055853574
+RP11-569A11.2,HUVEC,0.0013221126
+RP11-569A11.2,K562.1,-0.004382663
+RP11-569A11.2,NHEK,0.0009739529
+RP11-569A11.2,NHLF,0.0006030171
+RP11-1023P17.2,Adipose_Subcutaneous,0.0003822668
+RP11-1023P17.2,Adipose_Visceral_Omentum,0.0013853428
+RP11-1023P17.2,Adrenal_Gland,0.00012966909
+RP11-1023P17.2,Artery_Aorta,0.0027750211
+RP11-1023P17.2,Artery_Coronary,0.001060571
+RP11-1023P17.2,Artery_Tibial,-0.022140846
+RP11-1023P17.2,Bladder,0.02221862
+RP11-1023P17.2,Brain_Amygdala,-0.011953508
+RP11-1023P17.2,Brain_Anterior_cingulate_cortex_BA24,-0.0007979622
+RP11-1023P17.2,Brain_Caudate_basal_ganglia,-0.0051411116
+RP11-1023P17.2,Brain_Cerebellar_Hemisphere,0.0036666503
+RP11-1023P17.2,Brain_Cerebellum,0.0066102925
+RP11-1023P17.2,Brain_Cortex,-0.008738883
+RP11-1023P17.2,Brain_Frontal_Cortex_BA9,0.00020464484
+RP11-1023P17.2,Brain_Hippocampus,0.0005502395
+RP11-1023P17.2,Brain_Hypothalamus,7.2232533e-06
+RP11-1023P17.2,Brain_Nucleus_accumbens_basal_ganglia,0.04432424
+RP11-1023P17.2,Brain_Putamen_basal_ganglia,0.0008154832
+RP11-1023P17.2,Brain_Spinal_cord_cervical_c1,-0.0036103018
+RP11-1023P17.2,Brain_Substantia_nigra,-0.0038264384
+RP11-1023P17.2,Breast_Mammary_Tissue,-0.0002819071
+RP11-1023P17.2,Cells_EBV-transformed_lymphocytes,9.6994954e-05
+RP11-1023P17.2,Cells_Transformed_fibroblasts,-0.0070399744
+RP11-1023P17.2,Cervix_Ectocervix,-0.010047391
+RP11-1023P17.2,Cervix_Endocervix,-0.010809692
+RP11-1023P17.2,Colon_Sigmoid,0.0050328826
+RP11-1023P17.2,Colon_Transverse,0.04112621
+RP11-1023P17.2,Esophagus_Gastroesophageal_Junction,-0.0034571206
+RP11-1023P17.2,Esophagus_Mucosa,0.014468341
+RP11-1023P17.2,Esophagus_Muscularis,-0.0018749689
+RP11-1023P17.2,Fallopian_Tube,0.0018613709
+RP11-1023P17.2,Heart_Atrial_Appendage,0.003619646
+RP11-1023P17.2,Heart_Left_Ventricle,-0.005664088
+RP11-1023P17.2,Kidney_Cortex,0.0022256298
+RP11-1023P17.2,Liver,-5.520749e-05
+RP11-1023P17.2,Lung,-0.011358908
+RP11-1023P17.2,Minor_Salivary_Gland,0.0016590223
+RP11-1023P17.2,Muscle_Skeletal,0.0032588276
+RP11-1023P17.2,Nerve_Tibial,0.00025915456
+RP11-1023P17.2,Ovary,-0.034629017
+RP11-1023P17.2,Pancreas,0.006138912
+RP11-1023P17.2,Pituitary,-0.0011154807
+RP11-1023P17.2,Prostate,-0.0006854277
+RP11-1023P17.2,Skin_Not_Sun_Exposed_Suprapubic,0.0033159673
+RP11-1023P17.2,Skin_Sun_Exposed_Lower_leg,-0.0004443856
+RP11-1023P17.2,Small_Intestine_Terminal_Ileum,0.0035819039
+RP11-1023P17.2,Spleen,0.0021976396
+RP11-1023P17.2,Stomach,0.005807843
+RP11-1023P17.2,Testis,-0.00065196154
+RP11-1023P17.2,Thyroid,0.0045162393
+RP11-1023P17.2,Uterus,0.012074452
+RP11-1023P17.2,Vagina,-0.0067407605
+RP11-1023P17.2,Whole_Blood,-0.00032912634
+RP11-1023P17.2,cardiac ventricle fibroblast,0.00019518711
+RP11-1023P17.2,hair follicular keratinocyte,0.0005880608
+RP11-1023P17.2,airway epithelial cell,0.0010256838
+RP11-1023P17.2,epithelial cell of proximal tubule,-0.0045613036
+RP11-1023P17.2,pericardium fibroblast,0.009663772
+RP11-1023P17.2,mesangial cell,0.0027508182
+RP11-1023P17.2,bronchial fibroblast,-0.0033196418
+RP11-1023P17.2,glomerular endothelial cell,-0.0010468942
+RP11-1023P17.2,kidney epithelial cell,0.0022474376
+RP11-1023P17.2,mammary microvascular endothelial cell,-0.003895416
+RP11-1023P17.2,epithelial cell of alveolus of lung,-0.0038785161
+RP11-1023P17.2,myometrial cell,-0.006269126
+RP11-1023P17.2,cardiac atrium fibroblast,0.014008207
+RP11-1023P17.2,endometrial microvascular endothelial cell,0.006367516
+RP11-1023P17.2,smooth muscle cell,-0.0029245175
+RP11-1023P17.2,hepatocyte,-0.00037729327
+RP11-1023P17.2,neural progenitor cell,0.0011829275
+RP11-1023P17.2,HT1080,0.0018069216
+RP11-1023P17.2,SK-N-DZ,0.0010909893
+RP11-1023P17.2,SK-MEL-5,-0.011541102
+RP11-1023P17.2,NCI-H460,0.00241485
+RP11-1023P17.2,astrocyte,0.0002048168
+RP11-1023P17.2,LHCN-M2,-0.0016902894
+RP11-1023P17.2,K562,0.00032604227
+RP11-1023P17.2,HepG2,0.00088268885
+RP11-1023P17.2,MCF-7,0.0012576767
+RP11-1023P17.2,bipolar spindle neuron,0.0013471988
+RP11-1023P17.2,skeletal muscle myoblast,0.0007828246
+RP11-1023P17.2,myotube,-0.0014723205
+RP11-1023P17.2,H7-hESC,-0.0033561005
+RP11-1023P17.2,RPMI-7951,0.0017239555
+RP11-1023P17.2,M059J,-0.0025549135
+RP11-1023P17.2,H4,0.00062811584
+RP11-1023P17.2,MG63,-0.0011741733
+RP11-1023P17.2,G401,-0.00080648006
+RP11-1023P17.2,Caki2,-0.0020750004
+RP11-1023P17.2,SJSA1,-0.0040791705
+RP11-1023P17.2,Daoy,0.0008017323
+RP11-1023P17.2,A172,-0.001036912
+RP11-1023P17.2,induced pluripotent stem cell,-0.0039572394
+RP11-1023P17.2,fibroblast of arm,0.024926085
+RP11-1023P17.2,A375,0.0042036613
+RP11-1023P17.2,HT-29,-0.0017756092
+RP11-1023P17.2,PC-3,0.0023472006
+RP11-1023P17.2,Karpas-422,0.00053717376
+RP11-1023P17.2,Oci-Ly-7,0.004267794
+RP11-1023P17.2,SJCRH30,0.010044682
+RP11-1023P17.2,neural cell,0.0028457402
+RP11-1023P17.2,umbilical cord,-0.0008782387
+RP11-1023P17.2,pericyte cell,-0.0005382341
+RP11-1023P17.2,melanocyte of skin,0.0010313552
+RP11-1023P17.2,placental epithelial cell,-0.0006766524
+RP11-1023P17.2,hair follicle dermal papilla cell,-0.00013699068
+RP11-1023P17.2,hematopoietic multipotent progenitor cell,0.0057569686
+RP11-1023P17.2,vein endothelial cell,0.00045998025
+RP11-1023P17.2,osteoblast,-0.025006078
+RP11-1023P17.2,articular chondrocyte of knee joint,0.0007197398
+RP11-1023P17.2,thoracic aorta endothelial cell,-0.0005906233
+RP11-1023P17.2,fibroblast of the aortic adventitia,0.002464469
+RP11-1023P17.2,skeletal muscle satellite cell,0.0052148807
+RP11-1023P17.2,fibroblast of dermis,0.00048852
+RP11-1023P17.2,mammary epithelial cell,-0.0010231435
+RP11-1023P17.2,subcutaneous preadipocyte,0.0026720262
+RP11-1023P17.2,fibroblast of villous mesenchyme,0.00065802754
+RP11-1023P17.2,endothelial cell of umbilical vein,-0.0017882655
+RP11-1023P17.2,fibroblast of lung,-0.00227816
+RP11-1023P17.2,keratinocyte,-0.0043648086
+RP11-1023P17.2,stomach,0.0028345832
+RP11-1023P17.2,dermis microvascular lymphatic vessel endothelial cell,0.00033687468
+RP11-1023P17.2,tongue,0.0040697274
+RP11-1023P17.2,lung microvascular endothelial cell,-0.002079995
+RP11-1023P17.2,liver,0.0057103746
+RP11-1023P17.2,smooth muscle cell of the coronary artery,0.0012092191
+RP11-1023P17.2,aortic smooth muscle cell,0.0023326057
+RP11-1023P17.2,cerebellum,0.006822732
+RP11-1023P17.2,occipital lobe,0.0007365856
+RP11-1023P17.2,lung,0.0025836164
+RP11-1023P17.2,metanephros,0.0012289804
+RP11-1023P17.2,bronchial smooth muscle cell,0.002323162
+RP11-1023P17.2,spinal cord,-0.0067809345
+RP11-1023P17.2,parietal lobe,0.0013045863
+RP11-1023P17.2,diencephalon,-0.030904682
+RP11-1023P17.2,bronchial epithelial cell,-0.002345341
+RP11-1023P17.2,human nasal epithelial cells,0.010407564
+RP11-1023P17.2,pulmonary artery endothelial cell,0.001732029
+RP11-1023P17.2,regular cardiac myocyte,0.0007756052
+RP11-1023P17.2,endothelial cell of coronary artery,0.001120204
+RP11-1023P17.2,skeletal muscle tissue,0.0013130058
+RP11-1023P17.2,skin of body,-0.002720319
+RP11-1023P17.2,frontal cortex,0.0011552607
+RP11-1023P17.2,camera-type eye,-0.0021819593
+RP11-1023P17.2,dermis lymphatic vessel endothelial cell,0.0055008554
+RP11-1023P17.2,smooth muscle cell of the umbilical artery,-0.0021770503
+RP11-1023P17.2,tracheal epithelial cell,0.001932478
+RP11-1023P17.2,smooth muscle cell of trachea,0.0014734826
+RP11-1023P17.2,renal cortical epithelial cell,0.17686799
+RP11-1023P17.2,dermis blood vessel endothelial cell,0.0089660855
+RP11-1023P17.2,heart,-0.0023198463
+RP11-1023P17.2,thyroid gland,-0.0009033637
+RP11-1023P17.2,urinary bladder,0.003561317
+RP11-1023P17.2,temporal lobe,-0.0029700138
+RP11-1023P17.2,uterine smooth muscle cell,0.008561639
+RP11-1023P17.2,epithelial cell of umbilical artery,-4.0588475e-05
+RP11-1023P17.2,smooth muscle cell of the pulmonary artery,-0.01706107
+RP11-1023P17.2,smooth muscle cell of bladder,-0.0065400815
+RP11-1023P17.2,bladder microvascular endothelial cell,-0.0012763317
+RP11-1023P17.2,uterus,0.0022103467
+RP11-1023P17.2,GM12878,-0.003637026
+RP11-1023P17.2,Universal_Human_Reference,0.0019474204
+RP11-1023P17.2,H1_Cell_Line,-0.00040292562
+RP11-1023P17.2,H1_BMP4_Derived_Mesendoderm_Cultured_Cells,0.0031644474
+RP11-1023P17.2,H1_BMP4_Derived_Trophoblast_Cultured_Cells,-0.00048214794
+RP11-1023P17.2,H1_Derived_Mesenchymal_Stem_Cells,0.002641813
+RP11-1023P17.2,H1_Derived_Neuronal_Progenitor_Cultured_Cells,-0.0006555748
+RP11-1023P17.2,hESC_Derived_CD184+_Endoderm_Cultured_Cells,0.0046947026
+RP11-1023P17.2,hESC_Derived_CD56+_Ectoderm_Cultured_Cells,-0.0051789973
+RP11-1023P17.2,hESC_Derived_CD56+_Mesoderm_Cultured_Cells,0.007883261
+RP11-1023P17.2,HUES64_Cell_Line,0.0018680695
+RP11-1023P17.2,4star,0.012495988
+RP11-1023P17.2,Breast_Myoepithelial_Cells,-0.00033213673
+RP11-1023P17.2,Breast_vHMEC,0.0007666669
+RP11-1023P17.2,CD4_Memory_Primary_Cells,-0.012248687
+RP11-1023P17.2,CD4_Naive_Primary_Cells,-0.0011302826
+RP11-1023P17.2,CD8_Naive_Primary_Cells,0.00078454346
+RP11-1023P17.2,Mobilized_CD34_Primary_Cells_Female,0.024643596
+RP11-1023P17.2,Neurosphere_Cultured_Cells_Cortex_Derived,0.0011423723
+RP11-1023P17.2,Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived,0.0025209535
+RP11-1023P17.2,Penis_Foreskin_Fibroblast_Primary_Cells_skin01,-0.0002891318
+RP11-1023P17.2,Penis_Foreskin_Fibroblast_Primary_Cells_skin02,0.0020262518
+RP11-1023P17.2,Penis_Foreskin_Keratinocyte_Primary_Cells_skin02,0.009855264
+RP11-1023P17.2,Penis_Foreskin_Keratinocyte_Primary_Cells_skin03,-0.0018453497
+RP11-1023P17.2,Penis_Foreskin_Melanocyte_Primary_Cells_skin01,0.0022239126
+RP11-1023P17.2,Penis_Foreskin_Melanocyte_Primary_Cells_skin03,-0.0015805261
+RP11-1023P17.2,Peripheral_Blood_Mononuclear_Primary_Cells,0.00034822285
+RP11-1023P17.2,Aorta,-0.004238196
+RP11-1023P17.2,Adult_Liver,0.0031883004
+RP11-1023P17.2,Brain_Germinal_Matrix,0.0025978654
+RP11-1023P17.2,Brain_Hippocampus_Middle,0.0033104767
+RP11-1023P17.2,Esophagus,0.0014009782
+RP11-1023P17.2,Fetal_Brain_Female,0.0015353318
+RP11-1023P17.2,Fetal_Intestine_Large,-0.0032192348
+RP11-1023P17.2,Fetal_Intestine_Small,-0.008891068
+RP11-1023P17.2,Pancreatic_Islets,0.005741723
+RP11-1023P17.2,Gastric,0.00097378105
+RP11-1023P17.2,Left_Ventricle,-0.0011627271
+RP11-1023P17.2,Lung.1,-0.00023417338
+RP11-1023P17.2,Ovary.1,-0.006302464
+RP11-1023P17.2,Pancreas.1,-0.00012348883
+RP11-1023P17.2,Psoas_Muscle,0.030805694
+RP11-1023P17.2,Right_Atrium,0.0038882708
+RP11-1023P17.2,Right_Ventricle,-0.0035675438
+RP11-1023P17.2,Sigmoid_Colon,0.0047704703
+RP11-1023P17.2,Small_Intestine,-0.0019739047
+RP11-1023P17.2,Thymus,-0.004802862
+RP11-1023P17.2,Spleen.1,-0.0018101346
+RP11-1023P17.2,A549,0.007731536
+RP11-1023P17.2,GM12878.1,-0.00844442
+RP11-1023P17.2,HELA,0.00037745252
+RP11-1023P17.2,HEPG2,-0.0013568931
+RP11-1023P17.2,HMEC,-0.0005806443
+RP11-1023P17.2,HSMM,-0.00078195904
+RP11-1023P17.2,HUVEC,-0.0007008275
+RP11-1023P17.2,K562.1,0.0032936607
+RP11-1023P17.2,NHEK,-0.001331416
+RP11-1023P17.2,NHLF,-0.00025154656
+EFNA1,Adipose_Subcutaneous,-0.00097254565
+EFNA1,Adipose_Visceral_Omentum,0.0033084175
+EFNA1,Adrenal_Gland,-0.0028144016
+EFNA1,Artery_Aorta,-0.0029029762
+EFNA1,Artery_Coronary,0.0026248177
+EFNA1,Artery_Tibial,0.021770777
+EFNA1,Bladder,0.009024538
+EFNA1,Brain_Amygdala,-0.011456589
+EFNA1,Brain_Anterior_cingulate_cortex_BA24,0.0003975691
+EFNA1,Brain_Caudate_basal_ganglia,-0.0014431401
+EFNA1,Brain_Cerebellar_Hemisphere,0.001142716
+EFNA1,Brain_Cerebellum,0.01255498
+EFNA1,Brain_Cortex,-0.010010763
+EFNA1,Brain_Frontal_Cortex_BA9,0.0013119748
+EFNA1,Brain_Hippocampus,0.0009064077
+EFNA1,Brain_Hypothalamus,-0.0009840763
+EFNA1,Brain_Nucleus_accumbens_basal_ganglia,-4.0330495e-05
+EFNA1,Brain_Putamen_basal_ganglia,-0.0005840853
+EFNA1,Brain_Spinal_cord_cervical_c1,-0.0021885044
+EFNA1,Brain_Substantia_nigra,-0.0025192504
+EFNA1,Breast_Mammary_Tissue,-0.006518745
+EFNA1,Cells_EBV-transformed_lymphocytes,0.0021249996
+EFNA1,Cells_Transformed_fibroblasts,0.0012631754
+EFNA1,Cervix_Ectocervix,0.0049039964
+EFNA1,Cervix_Endocervix,-0.003389026
+EFNA1,Colon_Sigmoid,0.007572096
+EFNA1,Colon_Transverse,-0.009807897
+EFNA1,Esophagus_Gastroesophageal_Junction,-0.0035414242
+EFNA1,Esophagus_Mucosa,0.0039040504
+EFNA1,Esophagus_Muscularis,0.0003755612
+EFNA1,Fallopian_Tube,-0.0017406541
+EFNA1,Heart_Atrial_Appendage,-0.0016221921
+EFNA1,Heart_Left_Ventricle,0.003069203
+EFNA1,Kidney_Cortex,-0.0037341001
+EFNA1,Liver,0.0027195765
+EFNA1,Lung,0.0019329933
+EFNA1,Minor_Salivary_Gland,0.0009069234
+EFNA1,Muscle_Skeletal,0.0034494565
+EFNA1,Nerve_Tibial,0.00050571235
+EFNA1,Ovary,0.034265496
+EFNA1,Pancreas,-0.0035390106
+EFNA1,Pituitary,-0.000399399
+EFNA1,Prostate,0.0002113512
+EFNA1,Skin_Not_Sun_Exposed_Suprapubic,0.0009440478
+EFNA1,Skin_Sun_Exposed_Lower_leg,0.0028841877
+EFNA1,Small_Intestine_Terminal_Ileum,-0.00071459287
+EFNA1,Spleen,-0.0022289823
+EFNA1,Stomach,0.0035439895
+EFNA1,Testis,0.008079266
+EFNA1,Thyroid,-0.0045103226
+EFNA1,Uterus,0.01589889
+EFNA1,Vagina,0.006557392
+EFNA1,Whole_Blood,-0.001198701
+EFNA1,cardiac ventricle fibroblast,0.0008046544
+EFNA1,hair follicular keratinocyte,-0.00021017811
+EFNA1,airway epithelial cell,0.00051087
+EFNA1,epithelial cell of proximal tubule,-0.011239394
+EFNA1,pericardium fibroblast,-0.013498669
+EFNA1,mesangial cell,0.0061598043
+EFNA1,bronchial fibroblast,0.0015542296
+EFNA1,glomerular endothelial cell,0.0007977789
+EFNA1,kidney epithelial cell,-0.0012141063
+EFNA1,mammary microvascular endothelial cell,-0.0022019395
+EFNA1,epithelial cell of alveolus of lung,-0.00016838084
+EFNA1,myometrial cell,-0.010396487
+EFNA1,cardiac atrium fibroblast,-0.016891228
+EFNA1,endometrial microvascular endothelial cell,-0.0065086386
+EFNA1,smooth muscle cell,0.0017430227
+EFNA1,hepatocyte,-0.0002203266
+EFNA1,neural progenitor cell,-0.0015689906
+EFNA1,HT1080,0.0033777377
+EFNA1,SK-N-DZ,-0.00032310557
+EFNA1,SK-MEL-5,-0.005037903
+EFNA1,NCI-H460,0.0037752348
+EFNA1,astrocyte,-0.0018691139
+EFNA1,LHCN-M2,0.0013121467
+EFNA1,K562,0.0012583641
+EFNA1,HepG2,0.0024558846
+EFNA1,MCF-7,2.3561432e-05
+EFNA1,bipolar spindle neuron,-0.0017866297
+EFNA1,skeletal muscle myoblast,0.001990701
+EFNA1,myotube,-0.0024387103
+EFNA1,H7-hESC,-0.000909731
+EFNA1,RPMI-7951,-0.0012957831
+EFNA1,M059J,0.0007926222
+EFNA1,H4,0.000472359
+EFNA1,MG63,-0.0012739218
+EFNA1,G401,-0.0009570569
+EFNA1,Caki2,-0.0023803106
+EFNA1,SJSA1,-0.00011471699
+EFNA1,Daoy,0.0047699558
+EFNA1,A172,-0.00059535477
+EFNA1,induced pluripotent stem cell,-0.0030466195
+EFNA1,fibroblast of arm,0.02398052
+EFNA1,A375,-0.004121426
+EFNA1,HT-29,0.001038917
+EFNA1,PC-3,-0.0009976723
+EFNA1,Karpas-422,-0.0023270813
+EFNA1,Oci-Ly-7,-0.0031361561
+EFNA1,SJCRH30,-0.0056556277
+EFNA1,neural cell,-0.0006620271
+EFNA1,umbilical cord,-0.000349081
+EFNA1,pericyte cell,-0.0006905896
+EFNA1,melanocyte of skin,0.0014080226
+EFNA1,placental epithelial cell,-0.00077903375
+EFNA1,hair follicle dermal papilla cell,-0.000207598
+EFNA1,hematopoietic multipotent progenitor cell,-0.0032972328
+EFNA1,vein endothelial cell,0.0011903167
+EFNA1,osteoblast,-0.015427084
+EFNA1,articular chondrocyte of knee joint,-0.00041135514
+EFNA1,thoracic aorta endothelial cell,0.0016033628
+EFNA1,fibroblast of the aortic adventitia,-0.0017614893
+EFNA1,skeletal muscle satellite cell,0.0018151664
+EFNA1,fibroblast of dermis,0.0019749003
+EFNA1,mammary epithelial cell,0.0022941434
+EFNA1,subcutaneous preadipocyte,0.010946681
+EFNA1,fibroblast of villous mesenchyme,0.00016457801
+EFNA1,endothelial cell of umbilical vein,0.00035406882
+EFNA1,fibroblast of lung,0.0049243923
+EFNA1,keratinocyte,1.2210717e-05
+EFNA1,stomach,-0.0038727392
+EFNA1,dermis microvascular lymphatic vessel endothelial cell,0.00064650987
+EFNA1,tongue,0.0005062281
+EFNA1,lung microvascular endothelial cell,-0.00028835773
+EFNA1,liver,-0.0014656925
+EFNA1,smooth muscle cell of the coronary artery,-0.0016852961
+EFNA1,aortic smooth muscle cell,-0.0031773502
+EFNA1,cerebellum,-0.00018867731
+EFNA1,occipital lobe,0.00047579754
+EFNA1,lung,-4.9617847e-05
+EFNA1,metanephros,-0.0002464722
+EFNA1,bronchial smooth muscle cell,0.0006037048
+EFNA1,spinal cord,0.29546377
+EFNA1,parietal lobe,-0.0008068242
+EFNA1,diencephalon,0.012524461
+EFNA1,bronchial epithelial cell,0.0027630054
+EFNA1,human nasal epithelial cells,0.00034323655
+EFNA1,pulmonary artery endothelial cell,0.0013671301
+EFNA1,regular cardiac myocyte,-0.005239409
+EFNA1,endothelial cell of coronary artery,-0.0027111867
+EFNA1,skeletal muscle tissue,0.00047407826
+EFNA1,skin of body,-0.010264668
+EFNA1,frontal cortex,-0.00084218686
+EFNA1,camera-type eye,0.0026799229
+EFNA1,dermis lymphatic vessel endothelial cell,0.00048215876
+EFNA1,smooth muscle cell of the umbilical artery,-0.0073672533
+EFNA1,tracheal epithelial cell,0.0010705387
+EFNA1,smooth muscle cell of trachea,-0.0034524659
+EFNA1,renal cortical epithelial cell,0.019442774
+EFNA1,dermis blood vessel endothelial cell,-0.012580793
+EFNA1,heart,0.00081221736
+EFNA1,thyroid gland,-0.00028741165
+EFNA1,urinary bladder,0.0010645237
+EFNA1,temporal lobe,-0.00027012403
+EFNA1,uterine smooth muscle cell,0.009345472
+EFNA1,epithelial cell of umbilical artery,0.0010640082
+EFNA1,smooth muscle cell of the pulmonary artery,-0.00029283017
+EFNA1,smooth muscle cell of bladder,0.00037109083
+EFNA1,bladder microvascular endothelial cell,-2.7775466e-05
+EFNA1,uterus,-0.005262107
+EFNA1,GM12878,-0.004512824
+EFNA1,Universal_Human_Reference,-4.8413927e-05
+EFNA1,H1_Cell_Line,-0.0009930255
+EFNA1,H1_BMP4_Derived_Mesendoderm_Cultured_Cells,-0.00093993335
+EFNA1,H1_BMP4_Derived_Trophoblast_Cultured_Cells,0.004146385
+EFNA1,H1_Derived_Mesenchymal_Stem_Cells,0.0053872606
+EFNA1,H1_Derived_Neuronal_Progenitor_Cultured_Cells,-0.00020914606
+EFNA1,hESC_Derived_CD184+_Endoderm_Cultured_Cells,0.0014317328
+EFNA1,hESC_Derived_CD56+_Ectoderm_Cultured_Cells,0.0007145829
+EFNA1,hESC_Derived_CD56+_Mesoderm_Cultured_Cells,0.0041546165
+EFNA1,HUES64_Cell_Line,-0.0010995601
+EFNA1,4star,0.0096226
+EFNA1,Breast_Myoepithelial_Cells,-0.0004238275
+EFNA1,Breast_vHMEC,0.002632028
+EFNA1,CD4_Memory_Primary_Cells,-0.017797746
+EFNA1,CD4_Naive_Primary_Cells,0.00065544894
+EFNA1,CD8_Naive_Primary_Cells,-0.00097512716
+EFNA1,Mobilized_CD34_Primary_Cells_Female,-0.031642575
+EFNA1,Neurosphere_Cultured_Cells_Cortex_Derived,0.0005339073
+EFNA1,Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived,-0.0014285069
+EFNA1,Penis_Foreskin_Fibroblast_Primary_Cells_skin01,-0.0004958252
+EFNA1,Penis_Foreskin_Fibroblast_Primary_Cells_skin02,-0.0009025032
+EFNA1,Penis_Foreskin_Keratinocyte_Primary_Cells_skin02,-0.014810721
+EFNA1,Penis_Foreskin_Keratinocyte_Primary_Cells_skin03,0.0035575428
+EFNA1,Penis_Foreskin_Melanocyte_Primary_Cells_skin01,0.0025070473
+EFNA1,Penis_Foreskin_Melanocyte_Primary_Cells_skin03,-0.0021974612
+EFNA1,Peripheral_Blood_Mononuclear_Primary_Cells,0.0012774373
+EFNA1,Aorta,0.0022342156
+EFNA1,Adult_Liver,-0.016790306
+EFNA1,Brain_Germinal_Matrix,-0.0032882693
+EFNA1,Brain_Hippocampus_Middle,0.00095968787
+EFNA1,Esophagus,-0.002515977
+EFNA1,Fetal_Brain_Female,0.01221566
+EFNA1,Fetal_Intestine_Large,0.00042163985
+EFNA1,Fetal_Intestine_Small,-0.01526682
+EFNA1,Pancreatic_Islets,-0.00014163466
+EFNA1,Gastric,-0.007868125
+EFNA1,Left_Ventricle,0.0009423291
+EFNA1,Lung.1,-0.0024350064
+EFNA1,Ovary.1,0.0022069123
+EFNA1,Pancreas.1,-9.872142e-05
+EFNA1,Psoas_Muscle,-0.004713049
+EFNA1,Right_Atrium,-0.0071533513
+EFNA1,Right_Ventricle,-0.0019698576
+EFNA1,Sigmoid_Colon,-0.006209794
+EFNA1,Small_Intestine,1.1866754e-05
+EFNA1,Thymus,-0.0063367523
+EFNA1,Spleen.1,-0.0038893803
+EFNA1,A549,-0.006859471
+EFNA1,GM12878.1,0.0047060167
+EFNA1,HELA,-0.00067278097
+EFNA1,HEPG2,0.0003066125
+EFNA1,HMEC,0.0009309856
+EFNA1,HSMM,0.00040083588
+EFNA1,HUVEC,0.00014910125
+EFNA1,K562.1,-0.0018592981
+EFNA1,NHEK,-0.0021439802
+EFNA1,NHLF,0.0022268316
+ZNF34,Adipose_Subcutaneous,0.0006704046
+ZNF34,Adipose_Visceral_Omentum,0.0023861767
+ZNF34,Adrenal_Gland,0.0061341166
+ZNF34,Artery_Aorta,0.0020058146
+ZNF34,Artery_Coronary,0.006837966
+ZNF34,Artery_Tibial,0.07410814
+ZNF34,Bladder,0.0020746822
+ZNF34,Brain_Amygdala,-0.014873797
+ZNF34,Brain_Anterior_cingulate_cortex_BA24,-0.0010564462
+ZNF34,Brain_Caudate_basal_ganglia,0.00064272794
+ZNF34,Brain_Cerebellar_Hemisphere,0.0034245783
+ZNF34,Brain_Cerebellum,-0.017664291
+ZNF34,Brain_Cortex,-0.024897851
+ZNF34,Brain_Frontal_Cortex_BA9,0.0012803585
+ZNF34,Brain_Hippocampus,0.00084143766
+ZNF34,Brain_Hypothalamus,-0.000176637
+ZNF34,Brain_Nucleus_accumbens_basal_ganglia,0.010331067
+ZNF34,Brain_Putamen_basal_ganglia,0.0010146847
+ZNF34,Brain_Spinal_cord_cervical_c1,0.006458262
+ZNF34,Brain_Substantia_nigra,0.0071087307
+ZNF34,Breast_Mammary_Tissue,-0.0057967827
+ZNF34,Cells_EBV-transformed_lymphocytes,9.768284e-05
+ZNF34,Cells_Transformed_fibroblasts,0.0031912175
+ZNF34,Cervix_Ectocervix,0.012892515
+ZNF34,Cervix_Endocervix,-0.0015937834
+ZNF34,Colon_Sigmoid,0.0085722385
+ZNF34,Colon_Transverse,0.012394026
+ZNF34,Esophagus_Gastroesophageal_Junction,0.0045949304
+ZNF34,Esophagus_Mucosa,-0.015551466
+ZNF34,Esophagus_Muscularis,0.001295995
+ZNF34,Fallopian_Tube,-0.0005426213
+ZNF34,Heart_Atrial_Appendage,-0.0020313407
+ZNF34,Heart_Left_Ventricle,0.012195707
+ZNF34,Kidney_Cortex,0.0018555309
+ZNF34,Liver,-0.0009117961
+ZNF34,Lung,-0.007440204
+ZNF34,Minor_Salivary_Gland,0.0025367483
+ZNF34,Muscle_Skeletal,-0.016353294
+ZNF34,Nerve_Tibial,-0.0022193363
+ZNF34,Ovary,0.007181291
+ZNF34,Pancreas,-0.003221303
+ZNF34,Pituitary,4.4714798e-05
+ZNF34,Prostate,0.0065029482
+ZNF34,Skin_Not_Sun_Exposed_Suprapubic,-0.0006884388
+ZNF34,Skin_Sun_Exposed_Lower_leg,-0.009485603
+ZNF34,Small_Intestine_Terminal_Ileum,0.0006738426
+ZNF34,Spleen,0.0047591566
+ZNF34,Stomach,-0.016268587
+ZNF34,Testis,-0.0028869496
+ZNF34,Thyroid,-0.021782698
+ZNF34,Uterus,-0.017904745
+ZNF34,Vagina,0.0083807465
+ZNF34,Whole_Blood,0.0045748726
+ZNF34,cardiac ventricle fibroblast,-0.00067484577
+ZNF34,hair follicular keratinocyte,0.00076305715
+ZNF34,airway epithelial cell,-0.001660588
+ZNF34,epithelial cell of proximal tubule,0.031611357
+ZNF34,pericardium fibroblast,0.026317263
+ZNF34,mesangial cell,0.0028246278
+ZNF34,bronchial fibroblast,-0.0031454635
+ZNF34,glomerular endothelial cell,-0.0016213312
+ZNF34,kidney epithelial cell,-0.0022312216
+ZNF34,mammary microvascular endothelial cell,0.006765217
+ZNF34,epithelial cell of alveolus of lung,0.0097030625
+ZNF34,myometrial cell,0.014878625
+ZNF34,cardiac atrium fibroblast,-0.0012045533
+ZNF34,endometrial microvascular endothelial cell,0.014499499
+ZNF34,smooth muscle cell,-0.00076225644
+ZNF34,hepatocyte,0.0030250968
+ZNF34,neural progenitor cell,-0.006504147
+ZNF34,HT1080,0.0054474003
+ZNF34,SK-N-DZ,-0.00032749213
+ZNF34,SK-MEL-5,0.0034539173
+ZNF34,NCI-H460,-0.00037135833
+ZNF34,astrocyte,-0.009304708
+ZNF34,LHCN-M2,0.00038037548
+ZNF34,K562,-0.00023202326
+ZNF34,HepG2,-0.0055382247
+ZNF34,MCF-7,-0.004768524
+ZNF34,bipolar spindle neuron,0.0011848178
+ZNF34,skeletal muscle myoblast,-0.0019903516
+ZNF34,myotube,-0.007974477
+ZNF34,H7-hESC,-0.00032276154
+ZNF34,RPMI-7951,0.00070925406
+ZNF34,M059J,0.0022125791
+ZNF34,H4,-0.0014295399
+ZNF34,MG63,-0.003553148
+ZNF34,G401,0.0018962378
+ZNF34,Caki2,0.0011342955
+ZNF34,SJSA1,-0.0026316696
+ZNF34,Daoy,-0.005602968
+ZNF34,A172,0.0013219408
+ZNF34,induced pluripotent stem cell,-0.00035329562
+ZNF34,fibroblast of arm,0.06589401
+ZNF34,A375,-0.003295078
+ZNF34,HT-29,-0.0015828504
+ZNF34,PC-3,-0.0016791836
+ZNF34,Karpas-422,-0.0021040214
+ZNF34,Oci-Ly-7,-0.014535082
+ZNF34,SJCRH30,-0.0004841264
+ZNF34,neural cell,0.0046890457
+ZNF34,umbilical cord,-0.0024412943
+ZNF34,pericyte cell,-0.00017371294
+ZNF34,melanocyte of skin,0.00031177085
+ZNF34,placental epithelial cell,0.0011195166
+ZNF34,hair follicle dermal papilla cell,-0.000667361
+ZNF34,hematopoietic multipotent progenitor cell,-0.0037646203
+ZNF34,vein endothelial cell,0.002619496
+ZNF34,osteoblast,-0.012617574
+ZNF34,articular chondrocyte of knee joint,0.0010335894
+ZNF34,thoracic aorta endothelial cell,0.00031744505
+ZNF34,fibroblast of the aortic adventitia,0.0067446753
+ZNF34,skeletal muscle satellite cell,0.0044951513
+ZNF34,fibroblast of dermis,0.0015057819
+ZNF34,mammary epithelial cell,0.008367752
+ZNF34,subcutaneous preadipocyte,0.03519696
+ZNF34,fibroblast of villous mesenchyme,0.0007561815
+ZNF34,endothelial cell of umbilical vein,-0.0005052015
+ZNF34,fibroblast of lung,0.0031459138
+ZNF34,keratinocyte,-0.0017496942
+ZNF34,stomach,-0.011252306
+ZNF34,dermis microvascular lymphatic vessel endothelial cell,0.0011147048
+ZNF34,tongue,0.008034116
+ZNF34,lung microvascular endothelial cell,-0.004468487
+ZNF34,liver,-0.0006813842
+ZNF34,smooth muscle cell of the coronary artery,-0.0017244684
+ZNF34,aortic smooth muscle cell,-0.0013537945
+ZNF34,cerebellum,0.005080355
+ZNF34,occipital lobe,0.0008756418
+ZNF34,lung,0.0014559581
+ZNF34,metanephros,-0.0068778745
+ZNF34,bronchial smooth muscle cell,-0.0032838737
+ZNF34,spinal cord,-0.103278376
+ZNF34,parietal lobe,-0.0010510248
+ZNF34,diencephalon,0.015188559
+ZNF34,bronchial epithelial cell,0.000673155
+ZNF34,human nasal epithelial cells,-0.014989964
+ZNF34,pulmonary artery endothelial cell,0.002232842
+ZNF34,regular cardiac myocyte,0.013480797
+ZNF34,endothelial cell of coronary artery,0.003943328
+ZNF34,skeletal muscle tissue,0.0052039134
+ZNF34,skin of body,0.007798249
+ZNF34,frontal cortex,0.0047642994
+ZNF34,camera-type eye,-0.0018877122
+ZNF34,dermis lymphatic vessel endothelial cell,-0.005365505
+ZNF34,smooth muscle cell of the umbilical artery,0.01145949
+ZNF34,tracheal epithelial cell,0.0036313112
+ZNF34,smooth muscle cell of trachea,0.00017627145
+ZNF34,renal cortical epithelial cell,-0.055796612
+ZNF34,dermis blood vessel endothelial cell,0.05682357
+ZNF34,heart,-0.008869611
+ZNF34,thyroid gland,0.0013523535
+ZNF34,urinary bladder,-0.0016262382
+ZNF34,temporal lobe,-0.0036954766
+ZNF34,uterine smooth muscle cell,0.0037776362
+ZNF34,epithelial cell of umbilical artery,0.0019733545
+ZNF34,smooth muscle cell of the pulmonary artery,-0.0017559791
+ZNF34,smooth muscle cell of bladder,-0.0045060096
+ZNF34,bladder microvascular endothelial cell,-0.0012249504
+ZNF34,uterus,0.0053147813
+ZNF34,GM12878,0.0029155975
+ZNF34,Universal_Human_Reference,-0.003359117
+ZNF34,H1_Cell_Line,-0.0036141812
+ZNF34,H1_BMP4_Derived_Mesendoderm_Cultured_Cells,0.0064728153
+ZNF34,H1_BMP4_Derived_Trophoblast_Cultured_Cells,0.00076511985
+ZNF34,H1_Derived_Mesenchymal_Stem_Cells,0.0028514045
+ZNF34,H1_Derived_Neuronal_Progenitor_Cultured_Cells,-0.0044304477
+ZNF34,hESC_Derived_CD184+_Endoderm_Cultured_Cells,-1.0576971e-05
+ZNF34,hESC_Derived_CD56+_Ectoderm_Cultured_Cells,-0.0031345189
+ZNF34,hESC_Derived_CD56+_Mesoderm_Cultured_Cells,-0.011826487
+ZNF34,HUES64_Cell_Line,-0.0013741077
+ZNF34,4star,-0.0033802344
+ZNF34,Breast_Myoepithelial_Cells,0.0050351103
+ZNF34,Breast_vHMEC,-0.010090688
+ZNF34,CD4_Memory_Primary_Cells,-0.016978234
+ZNF34,CD4_Naive_Primary_Cells,0.0045335554
+ZNF34,CD8_Naive_Primary_Cells,-0.0007213035
+ZNF34,Mobilized_CD34_Primary_Cells_Female,0.0488063
+ZNF34,Neurosphere_Cultured_Cells_Cortex_Derived,0.00029784322
+ZNF34,Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived,0.0043279803
+ZNF34,Penis_Foreskin_Fibroblast_Primary_Cells_skin01,0.0021967809
+ZNF34,Penis_Foreskin_Fibroblast_Primary_Cells_skin02,-0.0011762388
+ZNF34,Penis_Foreskin_Keratinocyte_Primary_Cells_skin02,-0.039415926
+ZNF34,Penis_Foreskin_Keratinocyte_Primary_Cells_skin03,0.0019341956
+ZNF34,Penis_Foreskin_Melanocyte_Primary_Cells_skin01,-0.007399493
+ZNF34,Penis_Foreskin_Melanocyte_Primary_Cells_skin03,0.0034111955
+ZNF34,Peripheral_Blood_Mononuclear_Primary_Cells,0.011503852
+ZNF34,Aorta,0.0056034774
+ZNF34,Adult_Liver,-0.010232971
+ZNF34,Brain_Germinal_Matrix,0.00027394237
+ZNF34,Brain_Hippocampus_Middle,0.0026648163
+ZNF34,Esophagus,-0.0075572426
+ZNF34,Fetal_Brain_Female,0.0063341265
+ZNF34,Fetal_Intestine_Large,0.005084982
+ZNF34,Fetal_Intestine_Small,0.008778578
+ZNF34,Pancreatic_Islets,-0.003709098
+ZNF34,Gastric,0.013931391
+ZNF34,Left_Ventricle,0.0014954737
+ZNF34,Lung.1,0.0014702182
+ZNF34,Ovary.1,-0.004767661
+ZNF34,Pancreas.1,-0.00020235177
+ZNF34,Psoas_Muscle,0.04787643
+ZNF34,Right_Atrium,-0.012032239
+ZNF34,Right_Ventricle,0.0037546507
+ZNF34,Sigmoid_Colon,-0.006825343
+ZNF34,Small_Intestine,-0.0018661002
+ZNF34,Thymus,0.0048138374
+ZNF34,Spleen.1,0.022684438
+ZNF34,A549,0.0011896293
+ZNF34,GM12878.1,0.036126144
+ZNF34,HELA,-0.005505423
+ZNF34,HEPG2,-0.0007858307
+ZNF34,HMEC,0.0010121068
+ZNF34,HSMM,8.409707e-05
+ZNF34,HUVEC,0.0009969828
+ZNF34,K562.1,0.0027815439
+ZNF34,NHEK,-0.0051960847
+ZNF34,NHLF,0.0011602442
+SEC14L3,Adipose_Subcutaneous,-0.0002969586
+SEC14L3,Adipose_Visceral_Omentum,0.000268268
+SEC14L3,Adrenal_Gland,-0.00075631996
+SEC14L3,Artery_Aorta,0.00054405053
+SEC14L3,Artery_Coronary,0.00095814106
+SEC14L3,Artery_Tibial,-0.022122508
+SEC14L3,Bladder,0.008531719
+SEC14L3,Brain_Amygdala,-0.0047418647
+SEC14L3,Brain_Anterior_cingulate_cortex_BA24,0.00081359246
+SEC14L3,Brain_Caudate_basal_ganglia,0.0012250281
+SEC14L3,Brain_Cerebellar_Hemisphere,-0.00011635095
+SEC14L3,Brain_Cerebellum,0.005021914
+SEC14L3,Brain_Cortex,-0.0035189255
+SEC14L3,Brain_Frontal_Cortex_BA9,0.0016064551
+SEC14L3,Brain_Hippocampus,0.00017008082
+SEC14L3,Brain_Hypothalamus,4.247909e-05
+SEC14L3,Brain_Nucleus_accumbens_basal_ganglia,0.00069240795
+SEC14L3,Brain_Putamen_basal_ganglia,0.00088268885
+SEC14L3,Brain_Spinal_cord_cervical_c1,-0.00026694176
+SEC14L3,Brain_Substantia_nigra,-0.0030674736
+SEC14L3,Breast_Mammary_Tissue,-0.0010273601
+SEC14L3,Cells_EBV-transformed_lymphocytes,-0.0003446084
+SEC14L3,Cells_Transformed_fibroblasts,0.004152387
+SEC14L3,Cervix_Ectocervix,-0.0032240609
+SEC14L3,Cervix_Endocervix,0.0053569325
+SEC14L3,Colon_Sigmoid,-0.0017518466
+SEC14L3,Colon_Transverse,-0.0062100533
+SEC14L3,Esophagus_Gastroesophageal_Junction,-0.0011490436
+SEC14L3,Esophagus_Mucosa,0.0032085495
+SEC14L3,Esophagus_Muscularis,-0.0006189263
+SEC14L3,Fallopian_Tube,-0.0003164828
+SEC14L3,Heart_Atrial_Appendage,0.00012313432
+SEC14L3,Heart_Left_Ventricle,8.082958e-05
+SEC14L3,Kidney_Cortex,-9.407758e-05
+SEC14L3,Liver,-0.00020450186
+SEC14L3,Lung,-0.001405783
+SEC14L3,Minor_Salivary_Gland,-0.0012846803
+SEC14L3,Muscle_Skeletal,0.002640783
+SEC14L3,Nerve_Tibial,-0.0035840953
+SEC14L3,Ovary,-0.006333902
+SEC14L3,Pancreas,-0.00057952595
+SEC14L3,Pituitary,0.0008297496
+SEC14L3,Prostate,-0.0011794231
+SEC14L3,Skin_Not_Sun_Exposed_Suprapubic,0.0003599148
+SEC14L3,Skin_Sun_Exposed_Lower_leg,0.0015035485
+SEC14L3,Small_Intestine_Terminal_Ileum,0.001013138
+SEC14L3,Spleen,0.0007121763
+SEC14L3,Stomach,0.0036774576
+SEC14L3,Testis,-0.0008538885
+SEC14L3,Thyroid,-0.005675915
+SEC14L3,Uterus,-0.0022201976
+SEC14L3,Vagina,0.0047660135
+SEC14L3,Whole_Blood,0.0009146577
+SEC14L3,cardiac ventricle fibroblast,-0.0019231874
+SEC14L3,hair follicular keratinocyte,0.001889024
+SEC14L3,airway epithelial cell,-0.00016279076
+SEC14L3,epithelial cell of proximal tubule,-0.002495906
+SEC14L3,pericardium fibroblast,-0.0014562239
+SEC14L3,mesangial cell,-0.0013806492
+SEC14L3,bronchial fibroblast,0.0006214114
+SEC14L3,glomerular endothelial cell,-0.0003080538
+SEC14L3,kidney epithelial cell,0.00096260966
+SEC14L3,mammary microvascular endothelial cell,-0.0018971836
+SEC14L3,epithelial cell of alveolus of lung,-0.0050828615
+SEC14L3,myometrial cell,0.002324192
+SEC14L3,cardiac atrium fibroblast,-0.0017819804
+SEC14L3,endometrial microvascular endothelial cell,0.00014256657
+SEC14L3,smooth muscle cell,-0.0012959553
+SEC14L3,hepatocyte,-0.0018978724
+SEC14L3,neural progenitor cell,0.000257607
+SEC14L3,HT1080,0.0007646042
+SEC14L3,SK-N-DZ,-7.326647e-05
+SEC14L3,SK-MEL-5,-0.002128048
+SEC14L3,NCI-H460,0.0032512774
+SEC14L3,astrocyte,0.0021931748
+SEC14L3,LHCN-M2,0.0008756418
+SEC14L3,K562,-0.00055234204
+SEC14L3,HepG2,-0.0012866599
+SEC14L3,MCF-7,-0.00043165503
+SEC14L3,bipolar spindle neuron,-0.0004443856
+SEC14L3,skeletal muscle myoblast,-0.000114888986
+SEC14L3,myotube,0.0009010796
+SEC14L3,H7-hESC,0.001345996
+SEC14L3,RPMI-7951,-0.00030942998
+SEC14L3,M059J,-0.0024835882
+SEC14L3,H4,0.0014647203
+SEC14L3,MG63,0.0005610703
+SEC14L3,G401,-2.6227593e-05
+SEC14L3,Caki2,0.001107487
+SEC14L3,SJSA1,-0.004250098
+SEC14L3,Daoy,0.00064530654
+SEC14L3,A172,-0.0006936868
+SEC14L3,induced pluripotent stem cell,-0.0005919137
+SEC14L3,fibroblast of arm,-0.00093537284
+SEC14L3,A375,0.0021986698
+SEC14L3,HT-29,0.0032142121
+SEC14L3,PC-3,0.0014612842
+SEC14L3,Karpas-422,0.0039109113
+SEC14L3,Oci-Ly-7,0.0006669665
+SEC14L3,SJCRH30,-0.004556818
+SEC14L3,neural cell,-0.0024561961
+SEC14L3,umbilical cord,0.0006575118
+SEC14L3,pericyte cell,-7.154656e-05
+SEC14L3,melanocyte of skin,-0.0005078682
+SEC14L3,placental epithelial cell,0.00067728065
+SEC14L3,hair follicle dermal papilla cell,3.284831e-05
+SEC14L3,hematopoietic multipotent progenitor cell,0.00010937682
+SEC14L3,vein endothelial cell,-0.00041083904
+SEC14L3,osteoblast,0.0031610152
+SEC14L3,articular chondrocyte of knee joint,-0.0027405652
+SEC14L3,thoracic aorta endothelial cell,0.00022373207
+SEC14L3,fibroblast of the aortic adventitia,-0.00067845907
+SEC14L3,skeletal muscle satellite cell,-0.00025017044
+SEC14L3,fibroblast of dermis,-0.0013203128
+SEC14L3,mammary epithelial cell,-0.0020189404
+SEC14L3,subcutaneous preadipocyte,-0.0030201648
+SEC14L3,fibroblast of villous mesenchyme,-0.00018626923
+SEC14L3,endothelial cell of umbilical vein,-0.0012520609
+SEC14L3,fibroblast of lung,0.001271767
+SEC14L3,keratinocyte,-0.0010530041
+SEC14L3,stomach,0.00086498534
+SEC14L3,dermis microvascular lymphatic vessel endothelial cell,0.0011995961
+SEC14L3,tongue,-0.0007966716
+SEC14L3,lung microvascular endothelial cell,-0.00050477136
+SEC14L3,liver,-0.0009876904
+SEC14L3,smooth muscle cell of the coronary artery,0.00062484964
+SEC14L3,aortic smooth muscle cell,0.0014270939
+SEC14L3,cerebellum,-0.0023128698
+SEC14L3,occipital lobe,-0.00043922456
+SEC14L3,lung,0.0010286054
+SEC14L3,metanephros,0.001149418
+SEC14L3,bronchial smooth muscle cell,-0.0011255494
+SEC14L3,spinal cord,-0.011993219
+SEC14L3,parietal lobe,0.0025221554
+SEC14L3,diencephalon,0.0073474473
+SEC14L3,bronchial epithelial cell,0.00096312526
+SEC14L3,human nasal epithelial cells,0.00051860645
+SEC14L3,pulmonary artery endothelial cell,0.0003325761
+SEC14L3,regular cardiac myocyte,-0.0035446999
+SEC14L3,endothelial cell of coronary artery,-0.0007882398
+SEC14L3,skeletal muscle tissue,-0.00045444974
+SEC14L3,skin of body,-0.0039256806
+SEC14L3,frontal cortex,0.0019335086
+SEC14L3,camera-type eye,0.0023228186
+SEC14L3,dermis lymphatic vessel endothelial cell,0.00052290445
+SEC14L3,smooth muscle cell of the umbilical artery,-0.005863264
+SEC14L3,tracheal epithelial cell,9.459015e-06
+SEC14L3,smooth muscle cell of trachea,-5.838929e-05
+SEC14L3,renal cortical epithelial cell,0.035292625
+SEC14L3,dermis blood vessel endothelial cell,0.014692904
+SEC14L3,heart,-0.0010752922
+SEC14L3,thyroid gland,-0.00049272843
+SEC14L3,urinary bladder,0.0003226034
+SEC14L3,temporal lobe,0.003444481
+SEC14L3,uterine smooth muscle cell,-0.0012776228
+SEC14L3,epithelial cell of umbilical artery,5.314166e-05
+SEC14L3,smooth muscle cell of the pulmonary artery,0.0041364385
+SEC14L3,smooth muscle cell of bladder,-0.0014483047
+SEC14L3,bladder microvascular endothelial cell,0.001336374
+SEC14L3,uterus,0.004367246
+SEC14L3,GM12878,0.003110219
+SEC14L3,Universal_Human_Reference,8.375312e-05
+SEC14L3,H1_Cell_Line,-0.0007718926
+SEC14L3,H1_BMP4_Derived_Mesendoderm_Cultured_Cells,0.00021255489
+SEC14L3,H1_BMP4_Derived_Trophoblast_Cultured_Cells,0.00012244645
+SEC14L3,H1_Derived_Mesenchymal_Stem_Cells,-0.000355876
+SEC14L3,H1_Derived_Neuronal_Progenitor_Cultured_Cells,0.00041820118
+SEC14L3,hESC_Derived_CD184+_Endoderm_Cultured_Cells,0.0008905952
+SEC14L3,hESC_Derived_CD56+_Ectoderm_Cultured_Cells,0.00079279416
+SEC14L3,hESC_Derived_CD56+_Mesoderm_Cultured_Cells,0.0062317275
+SEC14L3,HUES64_Cell_Line,0.0013726283
+SEC14L3,4star,-0.0035350453
+SEC14L3,Breast_Myoepithelial_Cells,-0.0012920821
+SEC14L3,Breast_vHMEC,0.0042223525
+SEC14L3,CD4_Memory_Primary_Cells,0.0020145734
+SEC14L3,CD4_Naive_Primary_Cells,1.203878e-06
+SEC14L3,CD8_Naive_Primary_Cells,-0.00023959173
+SEC14L3,Mobilized_CD34_Primary_Cells_Female,0.021602038
+SEC14L3,Neurosphere_Cultured_Cells_Cortex_Derived,-0.00063544384
+SEC14L3,Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived,-0.0018168504
+SEC14L3,Penis_Foreskin_Fibroblast_Primary_Cells_skin01,0.00037246634
+SEC14L3,Penis_Foreskin_Fibroblast_Primary_Cells_skin02,-0.0006989348
+SEC14L3,Penis_Foreskin_Keratinocyte_Primary_Cells_skin02,0.00771289
+SEC14L3,Penis_Foreskin_Keratinocyte_Primary_Cells_skin03,-0.00020493189
+SEC14L3,Penis_Foreskin_Melanocyte_Primary_Cells_skin01,-0.0025149432
+SEC14L3,Penis_Foreskin_Melanocyte_Primary_Cells_skin03,0.00015271251
+SEC14L3,Peripheral_Blood_Mononuclear_Primary_Cells,-0.0009396752
+SEC14L3,Aorta,6.3460204e-05
+SEC14L3,Adult_Liver,0.016849935
+SEC14L3,Brain_Germinal_Matrix,0.00091345457
+SEC14L3,Brain_Hippocampus_Middle,-0.00024174187
+SEC14L3,Esophagus,-0.003865669
+SEC14L3,Fetal_Brain_Female,-0.010212359
+SEC14L3,Fetal_Intestine_Large,0.00027394237
+SEC14L3,Fetal_Intestine_Small,0.018076539
+SEC14L3,Pancreatic_Islets,-0.00048601883
+SEC14L3,Gastric,0.0058316523
+SEC14L3,Left_Ventricle,-0.0004941908
+SEC14L3,Lung.1,-0.00089243596
+SEC14L3,Ovary.1,-0.0010635887
+SEC14L3,Pancreas.1,-0.00032990045
+SEC14L3,Psoas_Muscle,-0.008533773
+SEC14L3,Right_Atrium,-0.000971341
+SEC14L3,Right_Ventricle,-0.0013765177
+SEC14L3,Sigmoid_Colon,0.0013240026
+SEC14L3,Small_Intestine,-0.002732122
+SEC14L3,Thymus,7.102708e-05
+SEC14L3,Spleen.1,2.012183e-05
+SEC14L3,A549,0.00072214636
+SEC14L3,GM12878.1,-0.00806847
+SEC14L3,HELA,-0.00042864445
+SEC14L3,HEPG2,0.0006306945
+SEC14L3,HMEC,0.00029870294
+SEC14L3,HSMM,0.00030953556
+SEC14L3,HUVEC,0.0002565753
+SEC14L3,K562.1,-0.00010551522
+SEC14L3,NHEK,-0.001227188
+SEC14L3,NHLF,0.0006269125
+TNNI1,Adipose_Subcutaneous,0.0015681451
+TNNI1,Adipose_Visceral_Omentum,0.0009222201
+TNNI1,Adrenal_Gland,0.002052528
+TNNI1,Artery_Aorta,-0.0016818524
+TNNI1,Artery_Coronary,-0.0038122984
+TNNI1,Artery_Tibial,-0.0043418654
+TNNI1,Bladder,-0.002740479
+TNNI1,Brain_Amygdala,0.0019592713
+TNNI1,Brain_Anterior_cingulate_cortex_BA24,-0.0026929223
+TNNI1,Brain_Caudate_basal_ganglia,0.0018850736
+TNNI1,Brain_Cerebellar_Hemisphere,0.00018521343
+TNNI1,Brain_Cerebellum,-0.0074540335
+TNNI1,Brain_Cortex,-0.00034779083
+TNNI1,Brain_Frontal_Cortex_BA9,0.001068992
+TNNI1,Brain_Hippocampus,0.0016231188
+TNNI1,Brain_Hypothalamus,0.00095040695
+TNNI1,Brain_Nucleus_accumbens_basal_ganglia,0.025766121
+TNNI1,Brain_Putamen_basal_ganglia,0.0017217224
+TNNI1,Brain_Spinal_cord_cervical_c1,-0.00034632863
+TNNI1,Brain_Substantia_nigra,-0.0041462625
+TNNI1,Breast_Mammary_Tissue,-0.012521202
+TNNI1,Cells_EBV-transformed_lymphocytes,-0.00017061688
+TNNI1,Cells_Transformed_fibroblasts,0.0056062187
+TNNI1,Cervix_Ectocervix,-0.0009093008
+TNNI1,Cervix_Endocervix,0.0012573331
+TNNI1,Colon_Sigmoid,0.010089599
+TNNI1,Colon_Transverse,0.013146127
+TNNI1,Esophagus_Gastroesophageal_Junction,0.00039722523
+TNNI1,Esophagus_Mucosa,-0.005679023
+TNNI1,Esophagus_Muscularis,-0.0010516271
+TNNI1,Fallopian_Tube,-0.0021669741
+TNNI1,Heart_Atrial_Appendage,0.0014913504
+TNNI1,Heart_Left_Ventricle,0.0035592583
+TNNI1,Kidney_Cortex,0.0024043766
+TNNI1,Liver,-0.0018728162
+TNNI1,Lung,-0.009030551
+TNNI1,Minor_Salivary_Gland,0.0013095693
+TNNI1,Muscle_Skeletal,-0.008114994
+TNNI1,Nerve_Tibial,-0.0019875101
+TNNI1,Ovary,0.017864052
+TNNI1,Pancreas,-0.0018255465
+TNNI1,Pituitary,0.0009486883
+TNNI1,Prostate,-0.0011118662
+TNNI1,Skin_Not_Sun_Exposed_Suprapubic,-0.0022997782
+TNNI1,Skin_Sun_Exposed_Lower_leg,0.0005380334
+TNNI1,Small_Intestine_Terminal_Ileum,0.00027910084
+TNNI1,Spleen,0.0008404064
+TNNI1,Stomach,-0.015575282
+TNNI1,Testis,0.009558021
+TNNI1,Thyroid,0.03660158
+TNNI1,Uterus,-0.019103434
+TNNI1,Vagina,-0.013230136
+TNNI1,Whole_Blood,-0.0011052398
+TNNI1,cardiac ventricle fibroblast,0.000381751
+TNNI1,hair follicular keratinocyte,-0.0017135345
+TNNI1,airway epithelial cell,0.0010079821
+TNNI1,epithelial cell of proximal tubule,0.005903763
+TNNI1,pericardium fibroblast,0.0018027992
+TNNI1,mesangial cell,0.0053291745
+TNNI1,bronchial fibroblast,0.00022424795
+TNNI1,glomerular endothelial cell,0.0026927975
+TNNI1,kidney epithelial cell,-0.0006036994
+TNNI1,mammary microvascular endothelial cell,-1.805819e-06
+TNNI1,epithelial cell of alveolus of lung,0.008363135
+TNNI1,myometrial cell,0.0051701544
+TNNI1,cardiac atrium fibroblast,0.0037561946
+TNNI1,endometrial microvascular endothelial cell,0.0041067703
+TNNI1,smooth muscle cell,-0.008091732
+TNNI1,hepatocyte,0.0006257092
+TNNI1,neural progenitor cell,0.001590822
+TNNI1,HT1080,0.00055402174
+TNNI1,SK-N-DZ,0.0007468993
+TNNI1,SK-MEL-5,-0.0025525875
+TNNI1,NCI-H460,0.009906165
+TNNI1,astrocyte,-0.00087161333
+TNNI1,LHCN-M2,0.0010961449
+TNNI1,K562,-0.002837148
+TNNI1,HepG2,-0.0029903497
+TNNI1,MCF-7,-0.0023092525
+TNNI1,bipolar spindle neuron,0.0011904886
+TNNI1,skeletal muscle myoblast,0.00027463015
+TNNI1,myotube,-0.0015206118
+TNNI1,H7-hESC,-0.006655233
+TNNI1,RPMI-7951,0.00055144296
+TNNI1,M059J,0.007836736
+TNNI1,H4,-0.00023589349
+TNNI1,MG63,-0.0020485632
+TNNI1,G401,0.0043350104
+TNNI1,Caki2,-0.0005107929
+TNNI1,SJSA1,-0.0004931585
+TNNI1,Daoy,0.0016942378
+TNNI1,A172,-0.00021731644
+TNNI1,induced pluripotent stem cell,0.00091964204
+TNNI1,fibroblast of arm,0.09547172
+TNNI1,A375,-0.003938097
+TNNI1,HT-29,-0.0047043357
+TNNI1,PC-3,-0.0017935175
+TNNI1,Karpas-422,0.00033309194
+TNNI1,Oci-Ly-7,0.0028325235
+TNNI1,SJCRH30,0.0059505217
+TNNI1,neural cell,0.0012812177
+TNNI1,umbilical cord,-0.0010861353
+TNNI1,pericyte cell,-0.0012688439
+TNNI1,melanocyte of skin,0.000347707
+TNNI1,placental epithelial cell,-0.0005495892
+TNNI1,hair follicle dermal papilla cell,-0.00043371946
+TNNI1,hematopoietic multipotent progenitor cell,0.0019800528
+TNNI1,vein endothelial cell,-0.0014007045
+TNNI1,osteoblast,0.032846496
+TNNI1,articular chondrocyte of knee joint,-0.0027511623
+TNNI1,thoracic aorta endothelial cell,0.00037040308
+TNNI1,fibroblast of the aortic adventitia,-0.000992079
+TNNI1,skeletal muscle satellite cell,-0.0005242124
+TNNI1,fibroblast of dermis,0.0016241495
+TNNI1,mammary epithelial cell,-0.0059539257
+TNNI1,subcutaneous preadipocyte,0.0036357716
+TNNI1,fibroblast of villous mesenchyme,5.916082e-05
+TNNI1,endothelial cell of umbilical vein,-0.0018884871
+TNNI1,fibroblast of lung,0.0016074858
+TNNI1,keratinocyte,0.0022855578
+TNNI1,stomach,-0.0073519554
+TNNI1,dermis microvascular lymphatic vessel endothelial cell,-0.0016579191
+TNNI1,tongue,0.008034799
+TNNI1,lung microvascular endothelial cell,-0.00077361334
+TNNI1,liver,0.004357644
+TNNI1,smooth muscle cell of the coronary artery,-0.0025732622
+TNNI1,aortic smooth muscle cell,-0.004180931
+TNNI1,cerebellum,-0.0032144084
+TNNI1,occipital lobe,3.9039533e-05
+TNNI1,lung,-0.0029964678
+TNNI1,metanephros,0.0040988815
+TNNI1,bronchial smooth muscle cell,0.00012261842
+TNNI1,spinal cord,-0.05717295
+TNNI1,parietal lobe,-0.0013293503
+TNNI1,diencephalon,0.045343567
+TNNI1,bronchial epithelial cell,0.0014281247
+TNNI1,human nasal epithelial cells,-0.009721668
+TNNI1,pulmonary artery endothelial cell,0.00033274805
+TNNI1,regular cardiac myocyte,0.0056463056
+TNNI1,endothelial cell of coronary artery,-7.5672565e-06
+TNNI1,skeletal muscle tissue,0.00022854684
+TNNI1,skin of body,-0.011444801
+TNNI1,frontal cortex,0.00450921
+TNNI1,camera-type eye,-0.0005281694
+TNNI1,dermis lymphatic vessel endothelial cell,-0.0010475826
+TNNI1,smooth muscle cell of the umbilical artery,0.0033794534
+TNNI1,tracheal epithelial cell,-0.0010153989
+TNNI1,smooth muscle cell of trachea,-0.001299484
+TNNI1,renal cortical epithelial cell,-0.18559434
+TNNI1,dermis blood vessel endothelial cell,0.022694765
+TNNI1,heart,-0.0003023772
+TNNI1,thyroid gland,-0.0012303725
+TNNI1,urinary bladder,0.0034021018
+TNNI1,temporal lobe,0.0039483015
+TNNI1,uterine smooth muscle cell,-0.0031657158
+TNNI1,epithelial cell of umbilical artery,0.00045946447
+TNNI1,smooth muscle cell of the pulmonary artery,-0.0021030742
+TNNI1,smooth muscle cell of bladder,-0.005776925
+TNNI1,bladder microvascular endothelial cell,-0.0032018258
+TNNI1,uterus,0.004867145
+TNNI1,GM12878,0.0073832087
+TNNI1,Universal_Human_Reference,0.0042535616
+TNNI1,H1_Cell_Line,-0.004240266
+TNNI1,H1_BMP4_Derived_Mesendoderm_Cultured_Cells,0.00018848067
+TNNI1,H1_BMP4_Derived_Trophoblast_Cultured_Cells,0.00015580787
+TNNI1,H1_Derived_Mesenchymal_Stem_Cells,0.002224943
+TNNI1,H1_Derived_Neuronal_Progenitor_Cultured_Cells,-0.008172415
+TNNI1,hESC_Derived_CD184+_Endoderm_Cultured_Cells,0.0028972323
+TNNI1,hESC_Derived_CD56+_Ectoderm_Cultured_Cells,0.00012949713
+TNNI1,hESC_Derived_CD56+_Mesoderm_Cultured_Cells,-0.0055699055
+TNNI1,HUES64_Cell_Line,-0.0029078876
+TNNI1,4star,-0.012960784
+TNNI1,Breast_Myoepithelial_Cells,-0.0032182867
+TNNI1,Breast_vHMEC,0.0053548766
+TNNI1,CD4_Memory_Primary_Cells,0.010090112
+TNNI1,CD4_Naive_Primary_Cells,-0.0012849385
+TNNI1,CD8_Naive_Primary_Cells,0.00059596874
+TNNI1,Mobilized_CD34_Primary_Cells_Female,0.038517997
+TNNI1,Neurosphere_Cultured_Cells_Cortex_Derived,0.0008816576
+TNNI1,Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived,0.0015387678
+TNNI1,Penis_Foreskin_Fibroblast_Primary_Cells_skin01,-0.00013785069
+TNNI1,Penis_Foreskin_Fibroblast_Primary_Cells_skin02,0.00093047
+TNNI1,Penis_Foreskin_Keratinocyte_Primary_Cells_skin02,-0.030930951
+TNNI1,Penis_Foreskin_Keratinocyte_Primary_Cells_skin03,-0.00022970111
+TNNI1,Penis_Foreskin_Melanocyte_Primary_Cells_skin01,0.0068638125
+TNNI1,Penis_Foreskin_Melanocyte_Primary_Cells_skin03,0.0055863457
+TNNI1,Peripheral_Blood_Mononuclear_Primary_Cells,0.0013494325
+TNNI1,Aorta,0.0019639083
+TNNI1,Adult_Liver,0.018726716
+TNNI1,Brain_Germinal_Matrix,-0.0012168604
+TNNI1,Brain_Hippocampus_Middle,-0.0020728474
+TNNI1,Esophagus,-0.006243044
+TNNI1,Fetal_Brain_Female,0.010444103
+TNNI1,Fetal_Intestine_Large,-0.001098011
+TNNI1,Fetal_Intestine_Small,0.02647954
+TNNI1,Pancreatic_Islets,-0.0023839283
+TNNI1,Gastric,-0.0023410344
+TNNI1,Left_Ventricle,0.00050450885
+TNNI1,Lung.1,0.0010267149
+TNNI1,Ovary.1,-0.003952411
+TNNI1,Pancreas.1,-0.00095499173
+TNNI1,Psoas_Muscle,-0.01740116
+TNNI1,Right_Atrium,-0.006804175
+TNNI1,Right_Ventricle,-0.006513562
+TNNI1,Sigmoid_Colon,-0.006672943
+TNNI1,Small_Intestine,-0.0029061642
+TNNI1,Thymus,8.2033395e-05
+TNNI1,Spleen.1,-0.01199374
+TNNI1,A549,-0.004982504
+TNNI1,GM12878.1,0.016380018
+TNNI1,HELA,0.0013396386
+TNNI1,HEPG2,-0.002394006
+TNNI1,HMEC,-0.0005115671
+TNNI1,HSMM,7.7218145e-05
+TNNI1,HUVEC,-0.00030005493
+TNNI1,K562.1,0.0010964886
+TNNI1,NHEK,-0.00065609097
+TNNI1,NHLF,-0.0029272747
+RP11-288L9.1,Adipose_Subcutaneous,0.00059424964
+RP11-288L9.1,Adipose_Visceral_Omentum,-0.0062741353
+RP11-288L9.1,Adrenal_Gland,-0.00020450186
+RP11-288L9.1,Artery_Aorta,0.0013624909
+RP11-288L9.1,Artery_Coronary,-0.001608332
+RP11-288L9.1,Artery_Tibial,-0.15298931
+RP11-288L9.1,Bladder,-0.061842024
+RP11-288L9.1,Brain_Amygdala,0.01723864
+RP11-288L9.1,Brain_Anterior_cingulate_cortex_BA24,-0.004258205
+RP11-288L9.1,Brain_Caudate_basal_ganglia,-0.005590796
+RP11-288L9.1,Brain_Cerebellar_Hemisphere,-0.0033556696
+RP11-288L9.1,Brain_Cerebellum,-0.0077623
+RP11-288L9.1,Brain_Cortex,0.009175786
+RP11-288L9.1,Brain_Frontal_Cortex_BA9,-0.0068699257
+RP11-288L9.1,Brain_Hippocampus,-0.00034220007
+RP11-288L9.1,Brain_Hypothalamus,0.0011220942
+RP11-288L9.1,Brain_Nucleus_accumbens_basal_ganglia,-0.06591711
+RP11-288L9.1,Brain_Putamen_basal_ganglia,-0.0011318318
+RP11-288L9.1,Brain_Spinal_cord_cervical_c1,-0.002359811
+RP11-288L9.1,Brain_Substantia_nigra,-0.013952355
+RP11-288L9.1,Breast_Mammary_Tissue,-0.031139534
+RP11-288L9.1,Cells_EBV-transformed_lymphocytes,-0.004629626
+RP11-288L9.1,Cells_Transformed_fibroblasts,0.0038459047
+RP11-288L9.1,Cervix_Ectocervix,-0.005063877
+RP11-288L9.1,Cervix_Endocervix,0.020062145
+RP11-288L9.1,Colon_Sigmoid,-0.012231429
+RP11-288L9.1,Colon_Transverse,-0.004512393
+RP11-288L9.1,Esophagus_Gastroesophageal_Junction,-0.0032554322
+RP11-288L9.1,Esophagus_Mucosa,0.025893833
+RP11-288L9.1,Esophagus_Muscularis,-0.0017614893
+RP11-288L9.1,Fallopian_Tube,0.0006415246
+RP11-288L9.1,Heart_Atrial_Appendage,0.00014583391
+RP11-288L9.1,Heart_Left_Ventricle,-0.033343352
+RP11-288L9.1,Kidney_Cortex,-0.0051340354
+RP11-288L9.1,Liver,-0.004157991
+RP11-288L9.1,Lung,-0.007842792
+RP11-288L9.1,Minor_Salivary_Gland,-0.0008353035
+RP11-288L9.1,Muscle_Skeletal,-0.014298402
+RP11-288L9.1,Nerve_Tibial,0.0007809338
+RP11-288L9.1,Ovary,0.07228703
+RP11-288L9.1,Pancreas,-0.0064008404
+RP11-288L9.1,Pituitary,0.0061750454
+RP11-288L9.1,Prostate,-0.0034254002
+RP11-288L9.1,Skin_Not_Sun_Exposed_Suprapubic,-0.0014150791
+RP11-288L9.1,Skin_Sun_Exposed_Lower_leg,0.0070431833
+RP11-288L9.1,Small_Intestine_Terminal_Ileum,-0.004761622
+RP11-288L9.1,Spleen,-0.004774908
+RP11-288L9.1,Stomach,0.007925338
+RP11-288L9.1,Testis,0.012036419
+RP11-288L9.1,Thyroid,-0.022790749
+RP11-288L9.1,Uterus,0.015769612
+RP11-288L9.1,Vagina,-0.023833511
+RP11-288L9.1,Whole_Blood,0.0027549379
+RP11-288L9.1,cardiac ventricle fibroblast,-0.0024636039
+RP11-288L9.1,hair follicular keratinocyte,0.0052165943
+RP11-288L9.1,airway epithelial cell,0.002291396
+RP11-288L9.1,epithelial cell of proximal tubule,0.0032179875
+RP11-288L9.1,pericardium fibroblast,0.008060112
+RP11-288L9.1,mesangial cell,0.003669052
+RP11-288L9.1,bronchial fibroblast,0.00036249388
+RP11-288L9.1,glomerular endothelial cell,0.0020003186
+RP11-288L9.1,kidney epithelial cell,-0.0014752473
+RP11-288L9.1,mammary microvascular endothelial cell,-0.007107896
+RP11-288L9.1,epithelial cell of alveolus of lung,0.0077840514
+RP11-288L9.1,myometrial cell,-0.006802188
+RP11-288L9.1,cardiac atrium fibroblast,0.02080331
+RP11-288L9.1,endometrial microvascular endothelial cell,-0.0047893166
+RP11-288L9.1,smooth muscle cell,-0.0058238064
+RP11-288L9.1,hepatocyte,0.0009313293
+RP11-288L9.1,neural progenitor cell,-0.0013392484
+RP11-288L9.1,HT1080,-0.0027226452
+RP11-288L9.1,SK-N-DZ,-0.0020640637
+RP11-288L9.1,SK-MEL-5,-0.0076398845
+RP11-288L9.1,NCI-H460,0.00016939297
+RP11-288L9.1,astrocyte,-0.0034327267
+RP11-288L9.1,LHCN-M2,0.003495094
+RP11-288L9.1,K562,-0.0062010717
+RP11-288L9.1,HepG2,-0.0041584224
+RP11-288L9.1,MCF-7,-0.0046260026
+RP11-288L9.1,bipolar spindle neuron,-0.003403248
+RP11-288L9.1,skeletal muscle myoblast,-0.00529007
+RP11-288L9.1,myotube,-0.0026474348
+RP11-288L9.1,H7-hESC,0.0017079802
+RP11-288L9.1,RPMI-7951,0.00036627654
+RP11-288L9.1,M059J,-0.0030838468
+RP11-288L9.1,H4,6.8792897e-06
+RP11-288L9.1,MG63,0.0016720779
+RP11-288L9.1,G401,0.0076762815
+RP11-288L9.1,Caki2,0.0054419176
+RP11-288L9.1,SJSA1,-0.018610494
+RP11-288L9.1,Daoy,-9.390558e-05
+RP11-288L9.1,A172,-0.004558802
+RP11-288L9.1,induced pluripotent stem cell,-0.0013264238
+RP11-288L9.1,fibroblast of arm,-0.07129622
+RP11-288L9.1,A375,-0.012787694
+RP11-288L9.1,HT-29,-0.0026106494
+RP11-288L9.1,PC-3,-0.0016062659
+RP11-288L9.1,Karpas-422,0.0026138308
+RP11-288L9.1,Oci-Ly-7,-0.010011889
+RP11-288L9.1,SJCRH30,0.012575438
+RP11-288L9.1,neural cell,-0.0035069436
+RP11-288L9.1,umbilical cord,0.0021511023
+RP11-288L9.1,pericyte cell,-0.0031329675
+RP11-288L9.1,melanocyte of skin,-0.0058747474
+RP11-288L9.1,placental epithelial cell,-0.0007164856
+RP11-288L9.1,hair follicle dermal papilla cell,-0.0017633835
+RP11-288L9.1,hematopoietic multipotent progenitor cell,-0.0021376936
+RP11-288L9.1,vein endothelial cell,-0.0031498587
+RP11-288L9.1,osteoblast,-0.11533869
+RP11-288L9.1,articular chondrocyte of knee joint,0.0027070453
+RP11-288L9.1,thoracic aorta endothelial cell,-0.00054158905
+RP11-288L9.1,fibroblast of the aortic adventitia,-0.007083613
+RP11-288L9.1,skeletal muscle satellite cell,-0.005619629
+RP11-288L9.1,fibroblast of dermis,0.0033895767
+RP11-288L9.1,mammary epithelial cell,-0.013572277
+RP11-288L9.1,subcutaneous preadipocyte,0.020987228
+RP11-288L9.1,fibroblast of villous mesenchyme,-0.00093064026
+RP11-288L9.1,endothelial cell of umbilical vein,-0.003930423
+RP11-288L9.1,fibroblast of lung,-8.315601e-05
+RP11-288L9.1,keratinocyte,-0.001970891
+RP11-288L9.1,stomach,0.0054352353
+RP11-288L9.1,dermis microvascular lymphatic vessel endothelial cell,-0.00023692555
+RP11-288L9.1,tongue,0.010573008
+RP11-288L9.1,lung microvascular endothelial cell,-0.0024815209
+RP11-288L9.1,liver,-0.0035804745
+RP11-288L9.1,smooth muscle cell of the coronary artery,-0.0028519677
+RP11-288L9.1,aortic smooth muscle cell,0.005136566
+RP11-288L9.1,cerebellum,-0.0046474836
+RP11-288L9.1,occipital lobe,0.00047975182
+RP11-288L9.1,lung,-0.0019875101
+RP11-288L9.1,metanephros,0.0056588114
+RP11-288L9.1,bronchial smooth muscle cell,0.00255941
+RP11-288L9.1,spinal cord,-0.17717382
+RP11-288L9.1,parietal lobe,0.0025916852
+RP11-288L9.1,diencephalon,0.055434868
+RP11-288L9.1,bronchial epithelial cell,0.0009858116
+RP11-288L9.1,human nasal epithelial cells,-0.029734513
+RP11-288L9.1,pulmonary artery endothelial cell,0.004731387
+RP11-288L9.1,regular cardiac myocyte,-0.017267568
+RP11-288L9.1,endothelial cell of coronary artery,0.0001747238
+RP11-288L9.1,skeletal muscle tissue,-0.0067746276
+RP11-288L9.1,skin of body,-0.021158816
+RP11-288L9.1,frontal cortex,0.002655718
+RP11-288L9.1,camera-type eye,-0.0001848072
+RP11-288L9.1,dermis lymphatic vessel endothelial cell,0.005956859
+RP11-288L9.1,smooth muscle cell of the umbilical artery,0.005060646
+RP11-288L9.1,tracheal epithelial cell,-0.00043733217
+RP11-288L9.1,smooth muscle cell of trachea,-0.004284855
+RP11-288L9.1,renal cortical epithelial cell,0.13854258
+RP11-288L9.1,dermis blood vessel endothelial cell,0.0018952073
+RP11-288L9.1,heart,-0.006603919
+RP11-288L9.1,thyroid gland,-0.0051652757
+RP11-288L9.1,urinary bladder,0.0052467533
+RP11-288L9.1,temporal lobe,-0.009782876
+RP11-288L9.1,uterine smooth muscle cell,0.0045078387
+RP11-288L9.1,epithelial cell of umbilical artery,9.888664e-05
+RP11-288L9.1,smooth muscle cell of the pulmonary artery,-0.016971447
+RP11-288L9.1,smooth muscle cell of bladder,0.010354802
+RP11-288L9.1,bladder microvascular endothelial cell,-0.0042230175
+RP11-288L9.1,uterus,0.0043737614
+RP11-288L9.1,GM12878,-0.0038710148
+RP11-288L9.1,Universal_Human_Reference,0.0040698987
+RP11-288L9.1,H1_Cell_Line,-0.014720023
+RP11-288L9.1,H1_BMP4_Derived_Mesendoderm_Cultured_Cells,0.0024642972
+RP11-288L9.1,H1_BMP4_Derived_Trophoblast_Cultured_Cells,-0.0034056613
+RP11-288L9.1,H1_Derived_Mesenchymal_Stem_Cells,0.0027815439
+RP11-288L9.1,H1_Derived_Neuronal_Progenitor_Cultured_Cells,-0.0028816937
+RP11-288L9.1,hESC_Derived_CD184+_Endoderm_Cultured_Cells,-0.0031034087
+RP11-288L9.1,hESC_Derived_CD56+_Ectoderm_Cultured_Cells,0.003090655
+RP11-288L9.1,hESC_Derived_CD56+_Mesoderm_Cultured_Cells,-0.0043757623
+RP11-288L9.1,HUES64_Cell_Line,-8.341182e-06
+RP11-288L9.1,4star,-0.04263054
+RP11-288L9.1,Breast_Myoepithelial_Cells,0.0027037838
+RP11-288L9.1,Breast_vHMEC,-0.051482424
+RP11-288L9.1,CD4_Memory_Primary_Cells,0.05050217
+RP11-288L9.1,CD4_Naive_Primary_Cells,-0.0023138172
+RP11-288L9.1,CD8_Naive_Primary_Cells,-0.0006018928
+RP11-288L9.1,Mobilized_CD34_Primary_Cells_Female,0.12078952
+RP11-288L9.1,Neurosphere_Cultured_Cells_Cortex_Derived,0.0040839617
+RP11-288L9.1,Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived,0.0007934817
+RP11-288L9.1,Penis_Foreskin_Fibroblast_Primary_Cells_skin01,-0.0033623062
+RP11-288L9.1,Penis_Foreskin_Fibroblast_Primary_Cells_skin02,0.0018553592
+RP11-288L9.1,Penis_Foreskin_Keratinocyte_Primary_Cells_skin02,-0.018480187
+RP11-288L9.1,Penis_Foreskin_Keratinocyte_Primary_Cells_skin03,-0.0052268086
+RP11-288L9.1,Penis_Foreskin_Melanocyte_Primary_Cells_skin01,-0.0061987396
+RP11-288L9.1,Penis_Foreskin_Melanocyte_Primary_Cells_skin03,0.00048129915
+RP11-288L9.1,Peripheral_Blood_Mononuclear_Primary_Cells,-0.011987323
+RP11-288L9.1,Aorta,0.0038105703
+RP11-288L9.1,Adult_Liver,0.07121896
+RP11-288L9.1,Brain_Germinal_Matrix,-0.0057389378
+RP11-288L9.1,Brain_Hippocampus_Middle,-0.0051024505
+RP11-288L9.1,Esophagus,0.00201818
+RP11-288L9.1,Fetal_Brain_Female,-0.058972817
+RP11-288L9.1,Fetal_Intestine_Large,-0.000605506
+RP11-288L9.1,Fetal_Intestine_Small,0.17925233
+RP11-288L9.1,Pancreatic_Islets,-0.00019805161
+RP11-288L9.1,Gastric,-0.006145283
+RP11-288L9.1,Left_Ventricle,0.002279548
+RP11-288L9.1,Lung.1,0.002153335
+RP11-288L9.1,Ovary.1,-0.014756771
+RP11-288L9.1,Pancreas.1,-0.0005345351
+RP11-288L9.1,Psoas_Muscle,0.015340182
+RP11-288L9.1,Right_Atrium,-0.015664384
+RP11-288L9.1,Right_Ventricle,-0.010049297
+RP11-288L9.1,Sigmoid_Colon,-0.003472981
+RP11-288L9.1,Small_Intestine,-0.0075333845
+RP11-288L9.1,Thymus,-0.009163123
+RP11-288L9.1,Spleen.1,-0.036396023
+RP11-288L9.1,A549,0.0013746901
+RP11-288L9.1,GM12878.1,0.0055738394
+RP11-288L9.1,HELA,0.0025319413
+RP11-288L9.1,HEPG2,-0.0055552307
+RP11-288L9.1,HMEC,-0.003862565
+RP11-288L9.1,HSMM,-5.3143616e-05
+RP11-288L9.1,HUVEC,-0.0041999905
+RP11-288L9.1,K562.1,0.0032946903
+RP11-288L9.1,NHEK,-5.417555e-05
+RP11-288L9.1,NHLF,-0.0026986084
+FAM91A1,Adipose_Subcutaneous,0.007982806
+FAM91A1,Adipose_Visceral_Omentum,-0.003093757
+FAM91A1,Adrenal_Gland,-0.0062470166
+FAM91A1,Artery_Aorta,0.0052001434
+FAM91A1,Artery_Coronary,0.010056979
+FAM91A1,Artery_Tibial,0.24964559
+FAM91A1,Bladder,-0.008362078
+FAM91A1,Brain_Amygdala,-0.033137795
+FAM91A1,Brain_Anterior_cingulate_cortex_BA24,0.0013997754
+FAM91A1,Brain_Caudate_basal_ganglia,-0.0076400572
+FAM91A1,Brain_Cerebellar_Hemisphere,0.0051069185
+FAM91A1,Brain_Cerebellum,-0.009225865
+FAM91A1,Brain_Cortex,0.00806319
+FAM91A1,Brain_Frontal_Cortex_BA9,0.0009107046
+FAM91A1,Brain_Hippocampus,-0.00138392
+FAM91A1,Brain_Hypothalamus,0.0013636936
+FAM91A1,Brain_Nucleus_accumbens_basal_ganglia,0.0049694693
+FAM91A1,Brain_Putamen_basal_ganglia,0.007050885
+FAM91A1,Brain_Spinal_cord_cervical_c1,0.007717509
+FAM91A1,Brain_Substantia_nigra,-0.0059585017
+FAM91A1,Breast_Mammary_Tissue,-0.023855543
+FAM91A1,Cells_EBV-transformed_lymphocytes,0.0011815528
+FAM91A1,Cells_Transformed_fibroblasts,0.0023578461
+FAM91A1,Cervix_Ectocervix,-0.013638336
+FAM91A1,Cervix_Endocervix,0.012187351
+FAM91A1,Colon_Sigmoid,0.0028402475
+FAM91A1,Colon_Transverse,-0.004710116
+FAM91A1,Esophagus_Gastroesophageal_Junction,-0.010852578
+FAM91A1,Esophagus_Mucosa,0.023628144
+FAM91A1,Esophagus_Muscularis,0.0011868798
+FAM91A1,Fallopian_Tube,-0.0020571747
+FAM91A1,Heart_Atrial_Appendage,0.00695641
+FAM91A1,Heart_Left_Ventricle,-0.011596753
+FAM91A1,Kidney_Cortex,-0.0090206
+FAM91A1,Liver,0.00010576545
+FAM91A1,Lung,0.020500515
+FAM91A1,Minor_Salivary_Gland,-0.004091416
+FAM91A1,Muscle_Skeletal,-0.026876705
+FAM91A1,Nerve_Tibial,1.9089948e-05
+FAM91A1,Ovary,-0.008613184
+FAM91A1,Pancreas,0.007891985
+FAM91A1,Pituitary,-0.00023864566
+FAM91A1,Prostate,-0.0042167217
+FAM91A1,Skin_Not_Sun_Exposed_Suprapubic,-0.0013642092
+FAM91A1,Skin_Sun_Exposed_Lower_leg,0.0012892936
+FAM91A1,Small_Intestine_Terminal_Ileum,0.011058643
+FAM91A1,Spleen,-0.0016966602
+FAM91A1,Stomach,0.0053920583
+FAM91A1,Testis,0.015698843
+FAM91A1,Thyroid,-0.020939631
+FAM91A1,Uterus,-0.020965457
+FAM91A1,Vagina,-0.0072361426
+FAM91A1,Whole_Blood,0.0025087642
+FAM91A1,cardiac ventricle fibroblast,0.0036778008
+FAM91A1,hair follicular keratinocyte,-0.0013709229
+FAM91A1,airway epithelial cell,0.0034359023
+FAM91A1,epithelial cell of proximal tubule,0.027868716
+FAM91A1,pericardium fibroblast,-0.0073491028
+FAM91A1,mesangial cell,0.00022149665
+FAM91A1,bronchial fibroblast,0.009215944
+FAM91A1,glomerular endothelial cell,-0.0013341702
+FAM91A1,kidney epithelial cell,-0.00043234316
+FAM91A1,mammary microvascular endothelial cell,0.0044459454
+FAM91A1,epithelial cell of alveolus of lung,0.022476522
+FAM91A1,myometrial cell,-0.016908454
+FAM91A1,cardiac atrium fibroblast,0.0133064855
+FAM91A1,endometrial microvascular endothelial cell,0.019731373
+FAM91A1,smooth muscle cell,-0.0072205
+FAM91A1,hepatocyte,-0.0041309986
+FAM91A1,neural progenitor cell,-0.0045483643
+FAM91A1,HT1080,0.011484742
+FAM91A1,SK-N-DZ,-0.0021064326
+FAM91A1,SK-MEL-5,0.0013915283
+FAM91A1,NCI-H460,0.022092784
+FAM91A1,astrocyte,-0.007789361
+FAM91A1,LHCN-M2,0.0040983674
+FAM91A1,K562,0.011164284
+FAM91A1,HepG2,-0.0020663028
+FAM91A1,MCF-7,-0.0040835687
+FAM91A1,bipolar spindle neuron,-0.0024300104
+FAM91A1,skeletal muscle myoblast,0.0004843938
+FAM91A1,myotube,-0.0020344406
+FAM91A1,H7-hESC,-0.0024130417
+FAM91A1,RPMI-7951,0.0017620896
+FAM91A1,M059J,-0.007768438
+FAM91A1,H4,0.0007723393
+FAM91A1,MG63,0.0061032907
+FAM91A1,G401,0.003063368
+FAM91A1,Caki2,0.009775322
+FAM91A1,SJSA1,0.01787934
+FAM91A1,Daoy,0.0032854246
+FAM91A1,A172,-8.186606e-05
+FAM91A1,induced pluripotent stem cell,-0.0028611869
+FAM91A1,fibroblast of arm,-0.028408648
+FAM91A1,A375,-0.011423046
+FAM91A1,HT-29,-0.003041277
+FAM91A1,PC-3,-0.0010973226
+FAM91A1,Karpas-422,-0.0016220199
+FAM91A1,Oci-Ly-7,-0.009179392
+FAM91A1,SJCRH30,0.023274833
+FAM91A1,neural cell,-0.003950514
+FAM91A1,umbilical cord,0.0006207238
+FAM91A1,pericyte cell,0.0018802644
+FAM91A1,melanocyte of skin,-0.002528812
+FAM91A1,placental epithelial cell,-8.7025845e-05
+FAM91A1,hair follicle dermal papilla cell,-9.35616e-05
+FAM91A1,hematopoietic multipotent progenitor cell,-0.0019326591
+FAM91A1,vein endothelial cell,0.0010806781
+FAM91A1,osteoblast,0.07356041
+FAM91A1,articular chondrocyte of knee joint,-0.005092095
+FAM91A1,thoracic aorta endothelial cell,0.002461722
+FAM91A1,fibroblast of the aortic adventitia,0.0065960833
+FAM91A1,skeletal muscle satellite cell,0.0023647142
+FAM91A1,fibroblast of dermis,-0.004770767
+FAM91A1,mammary epithelial cell,0.015245228
+FAM91A1,subcutaneous preadipocyte,0.011853403
+FAM91A1,fibroblast of villous mesenchyme,-0.0027047251
+FAM91A1,endothelial cell of umbilical vein,0.0025722857
+FAM91A1,fibroblast of lung,-0.016010405
+FAM91A1,keratinocyte,0.008653616
+FAM91A1,stomach,-0.012141847
+FAM91A1,dermis microvascular lymphatic vessel endothelial cell,0.002072793
+FAM91A1,tongue,-0.002632445
+FAM91A1,lung microvascular endothelial cell,-0.0010196154
+FAM91A1,liver,-0.013982919
+FAM91A1,smooth muscle cell of the coronary artery,-0.0039748303
+FAM91A1,aortic smooth muscle cell,-0.0017372103
+FAM91A1,cerebellum,0.0030954601
+FAM91A1,occipital lobe,0.002397337
+FAM91A1,lung,0.0073364964
+FAM91A1,metanephros,0.008232494
+FAM91A1,bronchial smooth muscle cell,0.004694017
+FAM91A1,spinal cord,0.49478504
+FAM91A1,parietal lobe,-0.0002375276
+FAM91A1,diencephalon,0.026965762
+FAM91A1,bronchial epithelial cell,-0.0015380866
+FAM91A1,human nasal epithelial cells,-0.025598364
+FAM91A1,pulmonary artery endothelial cell,-0.00045737435
+FAM91A1,regular cardiac myocyte,-0.029635586
+FAM91A1,endothelial cell of coronary artery,-0.016984586
+FAM91A1,skeletal muscle tissue,0.0070964084
+FAM91A1,skin of body,0.025476025
+FAM91A1,frontal cortex,0.006970103
+FAM91A1,camera-type eye,0.0033854588
+FAM91A1,dermis lymphatic vessel endothelial cell,-0.010955164
+FAM91A1,smooth muscle cell of the umbilical artery,-0.0055747395
+FAM91A1,tracheal epithelial cell,0.0060642436
+FAM91A1,smooth muscle cell of trachea,3.0784566e-05
+FAM91A1,renal cortical epithelial cell,
+FAM91A1,dermis blood vessel endothelial cell,-0.0024992656
+FAM91A1,heart,0.0026668762
+FAM91A1,thyroid gland,-0.000101473335
+FAM91A1,urinary bladder,-0.0026286545
+FAM91A1,temporal lobe,-0.016917069
+FAM91A1,uterine smooth muscle cell,0.013090738
+FAM91A1,epithelial cell of umbilical artery,0.004321293
+FAM91A1,smooth muscle cell of the pulmonary artery,-0.0369773
+FAM91A1,smooth muscle cell of bladder,0.0056670345
+FAM91A1,bladder microvascular endothelial cell,-0.0059478814
+FAM91A1,uterus,-0.011100132
+FAM91A1,GM12878,0.017662747
+FAM91A1,Universal_Human_Reference,0.0034933782
+FAM91A1,H1_Cell_Line,-0.009719158
+FAM91A1,H1_BMP4_Derived_Mesendoderm_Cultured_Cells,-0.007710082
+FAM91A1,H1_BMP4_Derived_Trophoblast_Cultured_Cells,-0.0066905664
+FAM91A1,H1_Derived_Mesenchymal_Stem_Cells,0.010130587
+FAM91A1,H1_Derived_Neuronal_Progenitor_Cultured_Cells,0.0033506276
+FAM91A1,hESC_Derived_CD184+_Endoderm_Cultured_Cells,-0.012882609
+FAM91A1,hESC_Derived_CD56+_Ectoderm_Cultured_Cells,0.0035637189
+FAM91A1,hESC_Derived_CD56+_Mesoderm_Cultured_Cells,-0.014102053
+FAM91A1,HUES64_Cell_Line,0.0042374427
+FAM91A1,4star,-0.0040977974
+FAM91A1,Breast_Myoepithelial_Cells,-0.00015264268
+FAM91A1,Breast_vHMEC,-0.041614555
+FAM91A1,CD4_Memory_Primary_Cells,0.01963467
+FAM91A1,CD4_Naive_Primary_Cells,0.0013561335
+FAM91A1,CD8_Naive_Primary_Cells,0.004362445
+FAM91A1,Mobilized_CD34_Primary_Cells_Female,-0.041568264
+FAM91A1,Neurosphere_Cultured_Cells_Cortex_Derived,-0.0013669636
+FAM91A1,Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived,0.005274342
+FAM91A1,Penis_Foreskin_Fibroblast_Primary_Cells_skin01,0.0002835715
+FAM91A1,Penis_Foreskin_Fibroblast_Primary_Cells_skin02,0.0017758313
+FAM91A1,Penis_Foreskin_Keratinocyte_Primary_Cells_skin02,-0.01772192
+FAM91A1,Penis_Foreskin_Keratinocyte_Primary_Cells_skin03,-0.0024064954
+FAM91A1,Penis_Foreskin_Melanocyte_Primary_Cells_skin01,-0.010600389
+FAM91A1,Penis_Foreskin_Melanocyte_Primary_Cells_skin03,-0.0115326075
+FAM91A1,Peripheral_Blood_Mononuclear_Primary_Cells,0.0013365458
+FAM91A1,Aorta,0.0022987796
+FAM91A1,Adult_Liver,-0.0382655
+FAM91A1,Brain_Germinal_Matrix,-0.010292469
+FAM91A1,Brain_Hippocampus_Middle,0.0055217575
+FAM91A1,Esophagus,0.006987389
+FAM91A1,Fetal_Brain_Female,-0.02587744
+FAM91A1,Fetal_Intestine_Large,-0.0011984428
+FAM91A1,Fetal_Intestine_Small,-0.026682228
+FAM91A1,Pancreatic_Islets,0.010325091
+FAM91A1,Gastric,0.008934807
+FAM91A1,Left_Ventricle,0.0015047512
+FAM91A1,Lung.1,0.0015172927
+FAM91A1,Ovary.1,-0.01072167
+FAM91A1,Pancreas.1,-0.00026066325
+FAM91A1,Psoas_Muscle,-0.0020274655
+FAM91A1,Right_Atrium,-0.04804302
+FAM91A1,Right_Ventricle,0.003537127
+FAM91A1,Sigmoid_Colon,0.012863538
+FAM91A1,Small_Intestine,0.014598759
+FAM91A1,Thymus,0.013684732
+FAM91A1,Spleen.1,-0.032668624
+FAM91A1,A549,0.0030712625
+FAM91A1,GM12878.1,0.0114142755
+FAM91A1,HELA,-0.0055718045
+FAM91A1,HEPG2,0.0026984622
+FAM91A1,HMEC,-0.0010090311
+FAM91A1,HSMM,0.0028416207
+FAM91A1,HUVEC,-0.002501936
+FAM91A1,K562.1,0.009321549
+FAM91A1,NHEK,0.00017489576
+FAM91A1,NHLF,0.002595462
+PSMA5,Adipose_Subcutaneous,-0.0042043887
+PSMA5,Adipose_Visceral_Omentum,-0.008096142
+PSMA5,Adrenal_Gland,-0.0029497643
+PSMA5,Artery_Aorta,-0.009376717
+PSMA5,Artery_Coronary,0.01040671
+PSMA5,Artery_Tibial,0.043545004
+PSMA5,Bladder,-0.005861278
+PSMA5,Brain_Amygdala,-0.012464735
+PSMA5,Brain_Anterior_cingulate_cortex_BA24,-0.0034540175
+PSMA5,Brain_Caudate_basal_ganglia,0.0033895767
+PSMA5,Brain_Cerebellar_Hemisphere,-0.0046378216
+PSMA5,Brain_Cerebellum,-0.037865017
+PSMA5,Brain_Cortex,-0.019152058
+PSMA5,Brain_Frontal_Cortex_BA9,-0.0053451355
+PSMA5,Brain_Hippocampus,-0.0014502845
+PSMA5,Brain_Hypothalamus,-0.0043830075
+PSMA5,Brain_Nucleus_accumbens_basal_ganglia,-0.020121472
+PSMA5,Brain_Putamen_basal_ganglia,-0.0013112755
+PSMA5,Brain_Spinal_cord_cervical_c1,0.00028408738
+PSMA5,Brain_Substantia_nigra,0.009725954
+PSMA5,Breast_Mammary_Tissue,-0.03257785
+PSMA5,Cells_EBV-transformed_lymphocytes,-0.0009824414
+PSMA5,Cells_Transformed_fibroblasts,0.008487267
+PSMA5,Cervix_Ectocervix,0.013168792
+PSMA5,Cervix_Endocervix,-0.003936459
+PSMA5,Colon_Sigmoid,-0.011200915
+PSMA5,Colon_Transverse,-0.01848794
+PSMA5,Esophagus_Gastroesophageal_Junction,0.0059878593
+PSMA5,Esophagus_Mucosa,0.0004224995
+PSMA5,Esophagus_Muscularis,0.003301897
+PSMA5,Fallopian_Tube,0.000490755
+PSMA5,Heart_Atrial_Appendage,-0.009240058
+PSMA5,Heart_Left_Ventricle,0.029807039
+PSMA5,Kidney_Cortex,-0.0023126116
+PSMA5,Liver,-0.0032951643
+PSMA5,Lung,0.005765191
+PSMA5,Minor_Salivary_Gland,-0.00256594
+PSMA5,Muscle_Skeletal,0.024761096
+PSMA5,Nerve_Tibial,-0.0017936036
+PSMA5,Ovary,0.06863102
+PSMA5,Pancreas,-0.0015476418
+PSMA5,Pituitary,0.0050176294
+PSMA5,Prostate,0.009044021
+PSMA5,Skin_Not_Sun_Exposed_Suprapubic,0.001745084
+PSMA5,Skin_Sun_Exposed_Lower_leg,-0.0012425936
+PSMA5,Small_Intestine_Terminal_Ileum,-0.009173161
+PSMA5,Spleen,0.0045433277
+PSMA5,Stomach,-0.019408448
+PSMA5,Testis,0.0049399897
+PSMA5,Thyroid,-0.015521216
+PSMA5,Uterus,0.013760881
+PSMA5,Vagina,0.0059119845
+PSMA5,Whole_Blood,-0.0015242272
+PSMA5,cardiac ventricle fibroblast,-0.0024737683
+PSMA5,hair follicular keratinocyte,0.0041645626
+PSMA5,airway epithelial cell,-0.00369608
+PSMA5,epithelial cell of proximal tubule,-0.012244178
+PSMA5,pericardium fibroblast,-0.0047162413
+PSMA5,mesangial cell,-0.0010035237
+PSMA5,bronchial fibroblast,-0.0020478743
+PSMA5,glomerular endothelial cell,0.0009225639
+PSMA5,kidney epithelial cell,-0.003974227
+PSMA5,mammary microvascular endothelial cell,-0.000892522
+PSMA5,epithelial cell of alveolus of lung,-0.018260973
+PSMA5,myometrial cell,0.0024124463
+PSMA5,cardiac atrium fibroblast,0.020273969
+PSMA5,endometrial microvascular endothelial cell,-0.00017895905
+PSMA5,smooth muscle cell,0.0071352567
+PSMA5,hepatocyte,-0.008203462
+PSMA5,neural progenitor cell,-0.004366447
+PSMA5,HT1080,0.004027881
+PSMA5,SK-N-DZ,-0.00072784215
+PSMA5,SK-MEL-5,-0.021318952
+PSMA5,NCI-H460,-0.016955003
+PSMA5,astrocyte,-0.0059027225
+PSMA5,LHCN-M2,0.0039455574
+PSMA5,K562,0.00051998184
+PSMA5,HepG2,0.01765901
+PSMA5,MCF-7,0.005469331
+PSMA5,bipolar spindle neuron,-0.0050763893
+PSMA5,skeletal muscle myoblast,-0.0050157257
+PSMA5,myotube,-0.006440141
+PSMA5,H7-hESC,0.0023662595
+PSMA5,RPMI-7951,-0.0030085316
+PSMA5,M059J,0.0056077605
+PSMA5,H4,-0.0012846803
+PSMA5,MG63,7.87659e-05
+PSMA5,G401,-0.006781971
+PSMA5,Caki2,0.00397763
+PSMA5,SJSA1,-0.0065634046
+PSMA5,Daoy,0.0065579056
+PSMA5,A172,-0.0003799597
+PSMA5,induced pluripotent stem cell,-0.000629938
+PSMA5,fibroblast of arm,0.019774972
+PSMA5,A375,-0.030495256
+PSMA5,HT-29,0.0012078444
+PSMA5,PC-3,0.005750802
+PSMA5,Karpas-422,-0.0063213785
+PSMA5,Oci-Ly-7,-0.009243952
+PSMA5,SJCRH30,0.00511583
+PSMA5,neural cell,-0.003146153
+PSMA5,umbilical cord,0.007336325
+PSMA5,pericyte cell,-0.0022441403
+PSMA5,melanocyte of skin,-0.0012592043
+PSMA5,placental epithelial cell,0.0020545889
+PSMA5,hair follicle dermal papilla cell,-0.0003044414
+PSMA5,hematopoietic multipotent progenitor cell,-0.011670611
+PSMA5,vein endothelial cell,0.0031877856
+PSMA5,osteoblast,-0.072881244
+PSMA5,articular chondrocyte of knee joint,-0.005173733
+PSMA5,thoracic aorta endothelial cell,0.0004895515
+PSMA5,fibroblast of the aortic adventitia,-0.0016285627
+PSMA5,skeletal muscle satellite cell,0.003862028
+PSMA5,fibroblast of dermis,-0.006706981
+PSMA5,mammary epithelial cell,0.0047055027
+PSMA5,subcutaneous preadipocyte,0.0040321685
+PSMA5,fibroblast of villous mesenchyme,-0.0005815906
+PSMA5,endothelial cell of umbilical vein,0.0015648811
+PSMA5,fibroblast of lung,0.0065750256
+PSMA5,keratinocyte,-0.001512348
+PSMA5,stomach,0.0132550225
+PSMA5,dermis microvascular lymphatic vessel endothelial cell,5.4689448e-05
+PSMA5,tongue,0.00070684747
+PSMA5,lung microvascular endothelial cell,-0.0040959865
+PSMA5,liver,-0.0018427667
+PSMA5,smooth muscle cell of the coronary artery,-0.0015185458
+PSMA5,aortic smooth muscle cell,0.00047992374
+PSMA5,cerebellum,-0.0012583437
+PSMA5,occipital lobe,-0.0013949375
+PSMA5,lung,-0.0069349012
+PSMA5,metanephros,-0.0052436376
+PSMA5,bronchial smooth muscle cell,-0.0054511284
+PSMA5,spinal cord,0.02507635
+PSMA5,parietal lobe,0.007018025
+PSMA5,diencephalon,0.07119064
+PSMA5,bronchial epithelial cell,0.00022321621
+PSMA5,human nasal epithelial cells,-0.015980322
+PSMA5,pulmonary artery endothelial cell,-0.0009064613
+PSMA5,regular cardiac myocyte,0.013764969
+PSMA5,endothelial cell of coronary artery,0.0020920273
+PSMA5,skeletal muscle tissue,0.0036114114
+PSMA5,skin of body,-0.012315293
+PSMA5,frontal cortex,0.0066505233
+PSMA5,camera-type eye,-0.0004207309
+PSMA5,dermis lymphatic vessel endothelial cell,-0.012972498
+PSMA5,smooth muscle cell of the umbilical artery,0.007154937
+PSMA5,tracheal epithelial cell,-0.0018462107
+PSMA5,smooth muscle cell of trachea,-0.0060875104
+PSMA5,renal cortical epithelial cell,0.062479842
+PSMA5,dermis blood vessel endothelial cell,-0.04108617
+PSMA5,heart,-0.0073842807
+PSMA5,thyroid gland,0.0027863502
+PSMA5,urinary bladder,0.0027283311
+PSMA5,temporal lobe,-0.01137659
+PSMA5,uterine smooth muscle cell,0.009228932
+PSMA5,epithelial cell of umbilical artery,-0.0044903965
+PSMA5,smooth muscle cell of the pulmonary artery,-0.04219599
+PSMA5,smooth muscle cell of bladder,0.0067077
+PSMA5,bladder microvascular endothelial cell,0.0030779555
+PSMA5,uterus,-0.0014316918
+PSMA5,GM12878,-0.0044817706
+PSMA5,Universal_Human_Reference,-0.017253472
+PSMA5,H1_Cell_Line,0.004971697
+PSMA5,H1_BMP4_Derived_Mesendoderm_Cultured_Cells,0.0072779753
+PSMA5,H1_BMP4_Derived_Trophoblast_Cultured_Cells,0.00089179835
+PSMA5,H1_Derived_Mesenchymal_Stem_Cells,0.0010738039
+PSMA5,H1_Derived_Neuronal_Progenitor_Cultured_Cells,-0.0048887976
+PSMA5,hESC_Derived_CD184+_Endoderm_Cultured_Cells,-0.01200718
+PSMA5,hESC_Derived_CD56+_Ectoderm_Cultured_Cells,-0.003636078
+PSMA5,hESC_Derived_CD56+_Mesoderm_Cultured_Cells,-0.0037140986
+PSMA5,HUES64_Cell_Line,-0.009906859
+PSMA5,4star,-0.0009164426
+PSMA5,Breast_Myoepithelial_Cells,0.005886635
+PSMA5,Breast_vHMEC,-0.055554677
+PSMA5,CD4_Memory_Primary_Cells,-0.024045005
+PSMA5,CD4_Naive_Primary_Cells,0.002028828
+PSMA5,CD8_Naive_Primary_Cells,-0.002374712
+PSMA5,Mobilized_CD34_Primary_Cells_Female,-0.019199114
+PSMA5,Neurosphere_Cultured_Cells_Cortex_Derived,-0.0023325074
+PSMA5,Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived,-0.0027762337
+PSMA5,Penis_Foreskin_Fibroblast_Primary_Cells_skin01,-0.0021986668
+PSMA5,Penis_Foreskin_Fibroblast_Primary_Cells_skin02,0.0024134764
+PSMA5,Penis_Foreskin_Keratinocyte_Primary_Cells_skin02,0.039389152
+PSMA5,Penis_Foreskin_Keratinocyte_Primary_Cells_skin03,0.0020846426
+PSMA5,Penis_Foreskin_Melanocyte_Primary_Cells_skin01,-0.014996306
+PSMA5,Penis_Foreskin_Melanocyte_Primary_Cells_skin03,-0.01080354
+PSMA5,Peripheral_Blood_Mononuclear_Primary_Cells,0.007653358
+PSMA5,Aorta,-0.0006979024
+PSMA5,Adult_Liver,-0.032806642
+PSMA5,Brain_Germinal_Matrix,-0.011121882
+PSMA5,Brain_Hippocampus_Middle,-0.001665409
+PSMA5,Esophagus,0.00085261
+PSMA5,Fetal_Brain_Female,0.038208347
+PSMA5,Fetal_Intestine_Large,-0.004377919
+PSMA5,Fetal_Intestine_Small,-0.18918815
+PSMA5,Pancreatic_Islets,-0.0033479123
+PSMA5,Gastric,0.014098304
+PSMA5,Left_Ventricle,0.002842822
+PSMA5,Lung.1,-0.0065045785
+PSMA5,Ovary.1,0.004109
+PSMA5,Pancreas.1,-0.00093021
+PSMA5,Psoas_Muscle,0.035610788
+PSMA5,Right_Atrium,-0.024263876
+PSMA5,Right_Ventricle,0.0010652111
+PSMA5,Sigmoid_Colon,-0.013932993
+PSMA5,Small_Intestine,-0.006200985
+PSMA5,Thymus,0.017031979
+PSMA5,Spleen.1,-0.025003366
+PSMA5,A549,0.015175284
+PSMA5,GM12878.1,0.0011399664
+PSMA5,HELA,-0.003047826
+PSMA5,HEPG2,-0.00035303758
+PSMA5,HMEC,-0.00059974217
+PSMA5,HSMM,7.979774e-05
+PSMA5,HUVEC,-0.0023454272
+PSMA5,K562.1,-0.0023839283
+PSMA5,NHEK,-0.0035792678
+PSMA5,NHLF,-0.0003717884
